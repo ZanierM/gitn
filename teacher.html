@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Geography in the News: teacher view</title>
+<style>
+:root{--bg:#0b0f18;--panel:#131a27;--line:rgba(255,255,255,.1);--text:#e8edf5;--muted:#8e9bb0;--accent:#5ebaff;--bad:#ff6b6b;
+  --S:#ff9f43;--E:#4dabf7;--En:#51cf66;--P:#b197fc}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;padding:24px 16px}
+main{max-width:860px;margin:0 auto}
+h1{font-size:22px;margin:0 0 4px}
+.sub{color:var(--muted);font-size:14px;line-height:1.5}
+.box{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px;margin-top:16px}
+input,select,button{font:inherit;color:inherit}
+input,select{background:#0b0f18;border:1px solid var(--line);border-radius:8px;padding:9px 10px;width:100%}
+label{display:block;font-size:13px;color:var(--muted);margin:10px 0 4px}
+button{border:0;border-radius:8px;padding:9px 14px;font-weight:600;cursor:pointer;background:var(--accent);color:#07111e}
+button.ghost{background:transparent;border:1px solid var(--line);color:var(--text)}
+button.hide{background:rgba(255,107,107,.15);color:var(--bad);border:1px solid rgba(255,107,107,.4)}
+.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.story{display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-top:1px solid var(--line)}
+.story:first-child{border-top:0}
+.story.hidden .t{text-decoration:line-through;color:var(--muted)}
+.story .t{font-weight:600;line-height:1.35}
+.story .m{color:var(--muted);font-size:12.5px;margin-top:3px}
+.story .grow{flex:1}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:3px}
+.tag{display:inline-block;font-size:11px;font-weight:700;padding:1px 6px;border-radius:99px;border:1px solid var(--line);color:var(--muted);margin-left:4px}
+.msg{font-size:13px;margin-top:10px;color:var(--muted)}
+.err{color:var(--bad)}
+a{color:var(--accent)}
+</style>
+</head>
+<body>
+<main>
+  <h1>Geography in the News: teacher view</h1>
+  <div class="sub">Hide any story that isn’t suitable. It disappears from the globe for everyone straight away. Unhide it to bring it back.</div>
+
+  <div class="box" id="setup" style="display:none">
+    <b>Hiding isn’t switched on yet.</b>
+    <div class="sub">Add your Supabase details to <code>config.js</code> (see the README) to use this page.</div>
+  </div>
+
+  <div class="box" id="login" style="display:none">
+    <b>Sign in</b>
+    <label for="email">Email</label><input id="email" type="email" autocomplete="username">
+    <label for="pw">Password</label><input id="pw" type="password" autocomplete="current-password">
+    <div class="row" style="margin-top:12px"><button id="signin">Sign in</button></div>
+    <div class="msg" id="loginMsg"></div>
+  </div>
+
+  <div id="app" style="display:none">
+    <div class="box">
+      <div class="row">
+        <div style="flex:1;min-width:200px"><label for="date" style="margin-top:0">Day</label><select id="date"></select></div>
+        <div style="align-self:flex-end" class="row"><a href="index.html" target="_blank">Open the globe ↗</a><button class="ghost" id="signout">Sign out</button></div>
+      </div>
+      <div class="msg" id="count"></div>
+    </div>
+    <div class="box" id="stories"></div>
+  </div>
+</main>
+
+<script src="config.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+const CFG = window.GITN_CONFIG || {};
+const COL = { S: '#ff9f43', E: '#4dabf7', En: '#51cf66', P: '#b197fc' };
+const NAME = { S: 'Social', E: 'Economic', En: 'Environmental', P: 'Political' };
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+let sb, hidden = new Set(), stories = [];
+
+async function start() {
+  if (!CFG.SUPABASE_URL || !CFG.SUPABASE_ANON_KEY) { $('setup').style.display = ''; return; }
+  sb = supabase.createClient(CFG.SUPABASE_URL, CFG.SUPABASE_ANON_KEY);
+  const { data } = await sb.auth.getSession();
+  data.session ? showApp() : ($('login').style.display = '');
+}
+
+$('signin').onclick = async () => {
+  $('loginMsg').textContent = 'Signing in…';
+  const { error } = await sb.auth.signInWithPassword({ email: $('email').value.trim(), password: $('pw').value });
+  if (error) { $('loginMsg').innerHTML = `<span class="err">${esc(error.message)}</span>`; return; }
+  $('login').style.display = 'none';
+  showApp();
+};
+$('pw').addEventListener('keydown', (e) => e.key === 'Enter' && $('signin').click());
+$('signout').onclick = async () => { await sb.auth.signOut(); location.reload(); };
+
+async function showApp() {
+  $('app').style.display = '';
+  const idx = await (await fetch('data/news/index.json', { cache: 'no-cache' })).json();
+  $('date').innerHTML = idx.dates.map((d) => `<option value="${d}">${new Date(d + 'T12:00:00Z').toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}</option>`).join('');
+  $('date').onchange = loadDay;
+  loadDay();
+}
+
+async function loadDay() {
+  const date = $('date').value;
+  stories = (await (await fetch(`data/news/${date}.json`, { cache: 'no-cache' })).json()).stories;
+  const { data, error } = await sb.from('hidden_stories').select('id');
+  if (error) { $('count').innerHTML = `<span class="err">Couldn’t read hidden stories: ${esc(error.message)}</span>`; return; }
+  hidden = new Set(data.map((x) => x.id));
+  draw();
+}
+
+function draw() {
+  const n = stories.filter((s) => hidden.has(s.id)).length;
+  $('count').textContent = `${stories.length} stories · ${n} hidden`;
+  $('stories').innerHTML = stories.map((s) => {
+    const h = hidden.has(s.id);
+    return `<div class="story ${h ? 'hidden' : ''}">
+      <div class="grow">
+        <div class="t">${esc(s.title)}</div>
+        <div class="m">${s.seep.themes.map((k) => `<span class="dot" style="background:${COL[k]}" title="${NAME[k]}"></span>`).join('')}
+          ${s.place ? esc(s.place.name) : 'Global'} · ${esc(s.source)} · <a href="${esc(s.link)}" target="_blank" rel="noopener">read</a>
+          ${s.conflict ? '<span class="tag">Conflict</span>' : ''}${s.featured ? '<span class="tag">★ Story of the day</span>' : ''}</div>
+      </div>
+      <button class="${h ? 'ghost' : 'hide'}" data-id="${s.id}">${h ? 'Unhide' : 'Hide'}</button>
+    </div>`;
+  }).join('') || '<div class="sub">No stories for this day.</div>';
+  $('stories').querySelectorAll('button[data-id]').forEach((b) => b.onclick = () => toggle(b.dataset.id, b));
+}
+
+async function toggle(id, btn) {
+  btn.disabled = true;
+  const s = stories.find((x) => x.id === id);
+  const res = hidden.has(id)
+    ? await sb.from('hidden_stories').delete().eq('id', id)
+    : await sb.from('hidden_stories').insert({ id, date: $('date').value, title: s.title });
+  if (res.error) { alert('That didn’t work: ' + res.error.message); btn.disabled = false; return; }
+  hidden.has(id) ? hidden.delete(id) : hidden.add(id);
+  draw();
+}
+
+start();
+</script>
+</body>
+</html>

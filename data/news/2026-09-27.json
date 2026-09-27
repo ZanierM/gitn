@@ -1,0 +1,1410 @@
+{
+ "date": "2026-09-27",
+ "generated": "2026-09-27T12:36:24.999Z",
+ "count": 30,
+ "stories": [
+  {
+   "id": "29305d623f5a",
+   "title": "Nepal PM urges climate justice after ‘Himalayan tsunami’ devastates country",
+   "summary": "Nepal’s Prime Minister Balendra Shah brought a stark warning from the Himalayas to the UN General Assembly on Thursday, saying catastrophic floods that killed at least 1,400 people in his country laid bare the human cost of climate change, and the failure of the international system to protect those least responsible…",
+   "link": "https://news.un.org/feed/view/en/story/2026/09/1168441",
+   "source": "UN News",
+   "published": "2026-09-25T12:00:00.000Z",
+   "place": {
+    "name": "Himalayas",
+    "country": "Nepal",
+    "iso": "NP",
+    "lat": 28.5,
+    "lon": 84,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "flood",
+      "tsunami"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change",
+    "Flooding",
+    "Tsunami"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Nepal?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 11.1,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "0ce3fe607d10",
+   "title": "Yemen violence deepens concerns over child hunger crisis",
+   "summary": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
+   "link": "https://news.un.org/feed/view/en/story/2026/09/1168436",
+   "source": "UN News",
+   "published": "2026-09-25T12:00:00.000Z",
+   "place": {
+    "name": "Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 15.94,
+    "lon": 47.52,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "displac",
+      "health",
+      "hunger"
+     ],
+     "P": [
+      "government",
+      "troops",
+      "opposition"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "migration"
+   ],
+   "terms": [
+    "Aid",
+    "Displacement",
+    "Food security"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Yemen?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": true,
+   "score": 11,
+   "alsoIn": []
+  },
+  {
+   "id": "b7df8c469148",
+   "title": "‘You can’t just bet everything on exports’: as its gas runs out, is Bolivia doomed to repeat history?",
+   "summary": "A fossil gas boom that lifted millions out of poverty has collapsed and inflation is rising – but not everyone believes selling gold and soya is the answer",
+   "link": "https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation",
+   "source": "The Guardian",
+   "published": "2026-09-24T13:00:18.000Z",
+   "place": {
+    "name": "Bolivia",
+    "country": "Bolivia",
+    "iso": "BO",
+    "lat": -16.68,
+    "lon": -64.7,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "export",
+      "inflation",
+      "gas"
+     ],
+     "S": [
+      "poverty"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy",
+    "development"
+   ],
+   "terms": [
+    "Inflation",
+    "Poverty",
+    "Trade"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 10.3,
+   "alsoIn": []
+  },
+  {
+   "id": "dcbc67bc34f8",
+   "title": "Sudan’s farmers are ready to return – private investment could get them there",
+   "summary": "The war in Sudan has devastated the economy and agricultural production, but a UN-backed plan aims to mobilise private sector investment to help farmers return to their fields.",
+   "link": "https://news.un.org/feed/view/en/story/2026/09/1168439",
+   "source": "UN News",
+   "published": "2026-09-25T12:00:00.000Z",
+   "place": {
+    "name": "Sudan",
+    "country": "Sudan",
+    "iso": "SD",
+    "lat": 15.97,
+    "lon": 29.91,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "invest",
+      "farm"
+     ],
+     "P": [
+      "un",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Rural"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": true,
+   "score": 9.9,
+   "alsoIn": []
+  },
+  {
+   "id": "d996094a8f8d",
+   "title": "‘Robust little’ vessel begins treacherous 22,000km journey around Antarctica in the name of climate science",
+   "summary": "Powered by sun and wind, the uncrewed vehicle will collect data to help Australian scientists better understand how oceans absorb emissions",
+   "link": "https://www.theguardian.com/environment/2026/sep/26/saildrone-unmanned-hurricane-proof-ship-antarctica-climate-hobart",
+   "source": "The Guardian",
+   "published": "2026-09-25T15:00:11.000Z",
+   "place": {
+    "name": "Antarctica",
+    "country": "Antarctica",
+    "iso": "AQ",
+    "lat": -84.68,
+    "lon": 83.04,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "emission",
+      "ocean"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "ecosystems",
+    "resources"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": false,
+   "score": 9.5,
+   "alsoIn": []
+  },
+  {
+   "id": "48dd74c0978c",
+   "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
+   "summary": "Iran is looking for alternatives to export its oil as the US blockades its southern ports.",
+   "link": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz",
+   "source": "Al Jazeera",
+   "published": "2026-09-27T08:49:32.000Z",
+   "place": {
+    "name": "Strait of Hormuz",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 26.6,
+    "lon": 56.3,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "trade",
+      "export",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": true,
+   "score": 8.3,
+   "alsoIn": []
+  },
+  {
+   "id": "938b3ef0718c",
+   "title": "‘My hands are empty’: Displaced Palestinians struggle to survive",
+   "summary": "In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.",
+   "link": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive",
+   "source": "Al Jazeera",
+   "published": "2026-09-27T10:26:21.000Z",
+   "place": {
+    "name": "Tulkarem, Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 32.31,
+    "lon": 35.03,
+    "precision": "place",
+    "confidence": 0.525,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "displac",
+      "poverty"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "migration",
+    "urban"
+   ],
+   "terms": [
+    "Debt",
+    "Displacement",
+    "Poverty"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Palestine?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": false,
+   "score": 7.8,
+   "alsoIn": []
+  },
+  {
+   "id": "c7cb6916b610",
+   "title": "The Patagonia town where Nepal’s deadly glacier flood could be repeated – and what they’ve learned",
+   "summary": "The risk to El Chaltén in Argentina has been known for years but recent findings and the Nepal disaster have brought planning for the worst-case scenario into sharp focus",
+   "link": "https://www.theguardian.com/global-development/2026/sep/22/the-patagonia-town-where-nepals-deadly-glacier-flood-could-be-repeated-and-what-theyve-learned",
+   "source": "The Guardian",
+   "published": "2026-09-22T13:00:01.000Z",
+   "place": {
+    "name": "Patagonia",
+    "country": "Argentina",
+    "iso": "AR",
+    "lat": -45,
+    "lon": -69,
+    "precision": "place",
+    "confidence": 1,
+    "also": [
+     "Nepal"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "glacier"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "climate"
+   ],
+   "terms": [
+    "Flooding",
+    "Glacier",
+    "Hazard"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Argentina?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 7.5,
+   "alsoIn": []
+  },
+  {
+   "id": "f86137d39a63",
+   "title": "Cuba warns against ‘law of the jungle’ as Foreign Minister denounces US pressure",
+   "summary": "Cuba’s Foreign Minister warned the UN General Assembly on Saturday that escalating military and economic pressure in Latin America and the Caribbean was threatening international law, while accusing the United States of intensifying a decades-long campaign to isolate and weaken his country.",
+   "link": "https://news.un.org/feed/view/en/story/2026/09/1168458",
+   "source": "UN News",
+   "published": "2026-09-26T12:00:00.000Z",
+   "place": {
+    "name": "Cuba",
+    "country": "Cuba",
+    "iso": "CU",
+    "lat": 21.63,
+    "lon": -78.91,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "minister",
+      "law",
+      "un"
+     ],
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 7,
+   "alsoIn": []
+  },
+  {
+   "id": "739e8bd4b427",
+   "title": "Australia urges global cooperation on climate, AI checks and international law",
+   "summary": "Australian Prime Minister Anthony Albanese underlined the need for countries to work together to address the climate crisis, emerging technologies such as AI, and the breakdown of international rules, at the United Nations General Assembly on Thursday.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/09/1168435",
+   "source": "UN News",
+   "published": "2026-09-25T12:00:00.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "P": [
+      "minister",
+      "law",
+      "united nations"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "ba5633d8d646",
+   "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
+   "summary": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada",
+   "link": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
+   "source": "The Guardian",
+   "published": "2026-09-25T22:21:15.000Z",
+   "place": {
+    "name": "Michigan",
+    "country": "United States",
+    "iso": "US",
+    "lat": 44.3,
+    "lon": -85.4,
+    "precision": "place",
+    "confidence": 0.9125000000000001,
+    "also": [
+     "Canada"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E",
+     "En"
+    ],
+    "why": {
+     "P": [
+      "war",
+      "trade war"
+     ],
+     "E": [
+      "trade"
+     ],
+     "En": [
+      "lake"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "80deb6b1cca7",
+   "title": "Hundreds of wildflowers to be planted at meadow",
+   "summary": "Friends of the Lake District wants to reintroduce species lost to some farming practices.",
+   "link": "https://www.bbc.co.uk/news/articles/ckq631d25dvlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-09-26T11:22:43.000Z",
+   "place": {
+    "name": "Lake District",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 54.5,
+    "lon": -3.1,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "species",
+      "lake"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "997f81c5234f",
+   "title": "Floods and landslides kill at least 56 people in India, 12 in Nepal",
+   "summary": "Authorities report increasing death toll over three days as rivers rise above danger levels in parts of both countries.",
+   "link": "https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal",
+   "source": "Al Jazeera",
+   "published": "2026-09-27T12:02:50.000Z",
+   "place": {
+    "name": "India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 22.8,
+    "lon": 79.53,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "Nepal"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "landslide",
+      "river"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding",
+    "Landslide"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in India?",
+    "How could India’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "a1d436af9441",
+   "title": "‘Safeguard the postwar order,’ China tells UN General Assembly",
+   "summary": "China's Vice President, Han Zheng, urged the world to defend the postwar international order on Saturday, telling the UN General Assembly that geopolitical conflicts, widening development gaps and mounting global challenges make multilateralism more urgent than ever.",
+   "link": "https://news.un.org/feed/view/en/story/2026/09/1168456",
+   "source": "UN News",
+   "published": "2026-09-26T12:00:00.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "president",
+      "un",
+      "general assembly"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "development"
+   ],
+   "terms": [
+    "Development"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "What does this story suggest about quality of life in China?"
+   ],
+   "conflict": false,
+   "score": 6.2,
+   "alsoIn": []
+  },
+  {
+   "id": "c2b4b250e523",
+   "title": "‘Invest with Iraq’: PM sets out vision for new economic future",
+   "summary": "Iraq’s Prime Minister, Ali Faleh Al-Zaidi, said his country aims to exert its influence as an active economic power in the region, and as a bridge for dialogue and cooperation between its peoples.",
+   "link": "https://news.un.org/feed/view/en/story/2026/09/1168443",
+   "source": "UN News",
+   "published": "2026-09-25T12:00:00.000Z",
+   "place": {
+    "name": "Iraq",
+    "country": "Iraq",
+    "iso": "IQ",
+    "lat": 33.01,
+    "lon": 43.77,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 6.1,
+   "alsoIn": []
+  },
+  {
+   "id": "e67f5fa12eea",
+   "title": "Pakistan’s Sharif warns any diversion of Indus waters will be ‘treated as an act of war’",
+   "summary": "Pakistani Prime Minister Shehbaz Sharif told the UN General Assembly on Friday that any attempt by India to stop, impede or divert Pakistan’s share of the Indus River waters “will be treated as an act of war”.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/09/1168452",
+   "source": "UN News",
+   "published": "2026-09-25T12:00:00.000Z",
+   "place": {
+    "name": "Pakistan",
+    "country": "Pakistan",
+    "iso": "PK",
+    "lat": 29.88,
+    "lon": 69.17,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "minister",
+      "un",
+      "general assembly"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": true,
+   "score": 6.1,
+   "alsoIn": []
+  },
+  {
+   "id": "880c699831b1",
+   "title": "‘Africa hasn’t decolonised education enough’: how world’s youngest continent can unlock potential",
+   "summary": "Dr John Nkengasong, a former WHO adviser who worked with Biden administration on Aids policy, says innovation and investment are key to unlocking potential of continent’s graduates",
+   "link": "https://www.theguardian.com/global-development/2026/sep/25/africa-young-talent-decolonise-universities-public-health-expert-john-nkengasong-higher-education",
+   "source": "The Guardian",
+   "published": "2026-09-25T09:00:46.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "education"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.9,
+   "alsoIn": []
+  },
+  {
+   "id": "292740c18804",
+   "title": "Countries far from conflict paying the price for wars not their own, India tells UN",
+   "summary": "India’s External Affairs Minister Subrahmanyam Jaishankar warned on Saturday that violent conflicts continue to undermine international peace and security, while countries far removed from the battlefield are being forced to pay a heavy price.",
+   "link": "https://news.un.org/feed/view/en/story/2026/09/1168460",
+   "source": "UN News",
+   "published": "2026-09-26T12:00:00.000Z",
+   "place": {
+    "name": "India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 22.8,
+    "lon": 79.53,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "minister",
+      "un",
+      "conflict"
+     ],
+     "E": [
+      "price"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in India?"
+   ],
+   "conflict": true,
+   "score": 5.9,
+   "alsoIn": []
+  },
+  {
+   "id": "857ee775a1bd",
+   "title": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
+   "summary": "Saudi Arabia’s Foreign Minister warned on Saturday that escalating threats across the Middle East risked international peace, energy security and global trade, calling for stronger international cooperation to protect Gulf States and vital shipping routes.",
+   "link": "https://news.un.org/feed/view/en/story/2026/09/1168459",
+   "source": "UN News",
+   "published": "2026-09-26T12:00:00.000Z",
+   "place": {
+    "name": "Saudi Arabia",
+    "country": "Saudi Arabia",
+    "iso": "SA",
+    "lat": 24.09,
+    "lon": 44.67,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "trade",
+      "shipping"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "resources"
+   ],
+   "terms": [
+    "Energy security",
+    "Supply chain",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 5.9,
+   "alsoIn": []
+  },
+  {
+   "id": "77daa2329f11",
+   "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+   "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-09-27T04:23:09.000Z",
+   "place": {
+    "name": "New Jersey",
+    "country": "United States",
+    "iso": "US",
+    "lat": 40.2,
+    "lon": -74.7,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "storm"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "How could United States’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "6c5027df4e03",
+   "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+   "summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-09-25T23:08:02.000Z",
+   "place": {
+    "name": "Germany",
+    "country": "Germany",
+    "iso": "DE",
+    "lat": 51.03,
+    "lon": 10.35,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "migra"
+     ],
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "economy"
+   ],
+   "terms": [
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.7,
+   "alsoIn": []
+  },
+  {
+   "id": "9536dea5a400",
+   "title": "Canada urges stronger partnerships as global order faces ‘rupture’",
+   "summary": "Canada’s Foreign Minister Anita Anand warned the UN General Assembly on Saturday that the international order has entered an era of profound disruption, calling for stronger multilateral cooperation and new partnerships as major powers increasingly turn away from global economic integration.",
+   "link": "https://news.un.org/feed/view/en/story/2026/09/1168461",
+   "source": "UN News",
+   "published": "2026-09-26T12:00:00.000Z",
+   "place": {
+    "name": "Canada",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 56,
+    "lon": -100,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.6,
+   "alsoIn": []
+  },
+  {
+   "id": "0846e07bc9e1",
+   "title": "Tuvalu urges decisive global action as rising seas threaten its future",
+   "summary": "Climate change remains the greatest existential threat to Tuvalu, Prime Minister Feleti Teo told the UN General Assembly on Friday, warning that the pace and scale of international action are still falling far short of what vulnerable island nations need.",
+   "link": "https://news.un.org/feed/view/en/story/2026/09/1168449",
+   "source": "UN News",
+   "published": "2026-09-25T12:00:00.000Z",
+   "place": {
+    "name": "Tuvalu",
+    "country": "Tuvalu",
+    "iso": "TV",
+    "lat": -8.52,
+    "lon": 179.19,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change",
+    "Sea level rise"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.6,
+   "alsoIn": []
+  },
+  {
+   "id": "61a1baddc383",
+   "title": "Bangkok’s flood disaster – in pictures",
+   "summary": "Authorities declared a flood disaster across Bangkok after almost two days of heavy rain left homes, shops and roads waterlogged and residents wading through waist-deep water.",
+   "link": "https://www.theguardian.com/weather/gallery/2026/sep/27/bangkoks-flood-disaster-in-pictures",
+   "source": "The Guardian",
+   "published": "2026-09-27T03:27:47.000Z",
+   "place": {
+    "name": "Bangkok, Thailand",
+    "country": "Thailand",
+    "iso": "TH",
+    "lat": 13.75,
+    "lon": 100.5,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "Flooding",
+    "Hazard",
+    "Infrastructure"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Thailand?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": [
+    "BBC News"
+   ]
+  },
+  {
+   "id": "2bf8e7c9f500",
+   "title": "Djibouti urges world to help as Yemen war drives refugee influx",
+   "summary": "",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx",
+   "source": "Al Jazeera",
+   "published": "2026-09-27T08:35:25.000Z",
+   "place": {
+    "name": "Djibouti",
+    "country": "Djibouti",
+    "iso": "DJ",
+    "lat": 11.75,
+    "lon": 42.56,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Yemen"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "refugee"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "geopolitics"
+   ],
+   "terms": [
+    "Refugee"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "a23fa8323542",
+   "title": "Faisal Islam: The two big decisions the chancellor must make",
+   "summary": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+   "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-09-26T23:00:42.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.2,
+   "alsoIn": []
+  },
+  {
+   "id": "88c73e4cf035",
+   "title": "‘We skate on the rooftops of damaged buildings’: a day in the life of a skateboarder in Gaza",
+   "summary": "As the war in Gaza approaches its fourth year, the Guardian follows five ordinary Palestinians as they go about their lives. Each tells the story of their day, revealing the terrible toll of the conflict.",
+   "link": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/25/we-skate-on-the-rooftops-of-damaged-buildings-a-day-in-the-life-a-skateboarder-in-gaza",
+   "source": "The Guardian",
+   "published": "2026-09-25T11:00:47.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "children"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "ecosystems"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": true,
+   "score": 5.2,
+   "alsoIn": []
+  },
+  {
+   "id": "2a7404fba8ef",
+   "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
+   "summary": "The UN said on Friday it remains gravely concerned by the continued deterioration of the security situation across northern Ethiopia, as fighting spreads across multiple fronts and increasingly disrupts humanitarian operations.",
+   "link": "https://news.un.org/feed/view/en/story/2026/09/1168450",
+   "source": "UN News",
+   "published": "2026-09-25T12:00:00.000Z",
+   "place": {
+    "name": "Ethiopia",
+    "country": "Ethiopia",
+    "iso": "ET",
+    "lat": 8.61,
+    "lon": 39.61,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "humanitarian"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "development"
+   ],
+   "terms": [
+    "Humanitarian crisis"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "What does this story suggest about quality of life in Ethiopia?"
+   ],
+   "conflict": true,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "c9b843808b3a",
+   "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+   "summary": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+   "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-09-25T14:24:19.000Z",
+   "place": {
+    "name": "Djibouti",
+    "country": "Djibouti",
+    "iso": "DJ",
+    "lat": 11.75,
+    "lon": 42.56,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Ethiopia"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "jobs",
+      "port"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Energy security"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "8438e5f56dff",
+   "title": "The young women guiding tourists through India's night sky",
+   "summary": "Astronomy tourism is giving young women in Hanle income, confidence and a new role in their community.",
+   "link": "https://www.bbc.co.uk/news/articles/cvp8d0nezkeko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-09-26T23:02:47.000Z",
+   "place": {
+    "name": "India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 22.8,
+    "lon": 79.53,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "touris"
+     ],
+     "S": [
+      "women",
+      "communit"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Tourism"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  }
+ ]
+}

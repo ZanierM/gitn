@@ -1,0 +1,543 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Geography in the News</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@5/dist/maplibre-gl.css">
+<style>
+:root{
+  --bg:#05070d; --panel:rgba(12,17,28,.9); --line:rgba(255,255,255,.1); --soft:rgba(255,255,255,.05);
+  --text:#e8edf5; --muted:#8e9bb0; --accent:#5ebaff;
+  --S:#ff9f43; --E:#4dabf7; --En:#51cf66; --P:#b197fc;
+  --font: system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;background:var(--bg);color:var(--text);font-family:var(--font);overflow:hidden}
+#map{position:absolute;inset:0}
+.panel{background:var(--panel);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid var(--line);border-radius:14px}
+#card,#controls,#legend,#banner{position:absolute}
+button{font:inherit;color:inherit}
+a{color:var(--accent)}
+
+/* ---------- Side panel ---------- */
+#side{position:absolute;top:16px;left:16px;bottom:16px;width:360px;display:flex;flex-direction:column;gap:10px;pointer-events:none}
+#side>*{pointer-events:auto}
+header.panel{padding:14px 16px;flex:none}
+h1{margin:0;font-size:19px;letter-spacing:.2px}
+h1 span{color:var(--accent)}
+.sub{color:var(--muted);font-size:12.5px;margin-top:4px;line-height:1.45}
+.daterow{display:flex;align-items:center;gap:6px;margin-top:12px}
+.daterow .nav{width:32px;height:32px;border-radius:8px;border:1px solid var(--line);background:var(--soft);cursor:pointer;flex:none}
+.daterow .nav:disabled{opacity:.3;cursor:default}
+#dateLabel{flex:1;text-align:center;font-weight:700;font-size:14px}
+.seg{display:flex;background:var(--soft);border:1px solid var(--line);border-radius:9px;padding:2px;flex:none}
+.seg button{border:0;background:none;color:var(--muted);font-size:12px;font-weight:600;padding:5px 8px;border-radius:7px;cursor:pointer}
+.seg button.on{background:rgba(94,186,255,.18);color:var(--text)}
+#seep{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin-top:10px}
+.chip{display:flex;flex-direction:column;align-items:center;gap:2px;padding:7px 4px;border-radius:10px;border:1px solid var(--line);background:var(--soft);cursor:pointer;font-size:11.5px;font-weight:600;color:var(--muted)}
+.chip b{font-size:18px;color:var(--text)}
+.chip.on{border-color:var(--c);background:color-mix(in srgb,var(--c) 18%,transparent);color:var(--text)}
+.chip .dot{width:8px;height:8px;border-radius:50%;background:var(--c);display:inline-block;margin-right:4px}
+#list{flex:1 1 auto;min-height:0;overflow:auto;padding:6px}
+.group{color:var(--muted);font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:12px 10px 4px}
+.item{display:flex;gap:10px;padding:9px 10px;border-radius:10px;cursor:pointer;align-items:flex-start}
+.item:hover,.item.active{background:rgba(255,255,255,.07)}
+.bars{flex:none;display:flex;flex-direction:column;gap:3px;padding-top:3px}
+.bars i{display:block;width:6px;height:10px;border-radius:3px}
+.item .t{font-weight:600;font-size:13.5px;line-height:1.35}
+.item .m{color:var(--muted);font-size:12px;margin-top:3px}
+.feature{margin:4px 4px 8px;padding:12px;border-radius:12px;background:linear-gradient(135deg,rgba(94,186,255,.16),rgba(177,151,252,.1));border:1px solid rgba(94,186,255,.3);cursor:pointer}
+.feature .k{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.feature .t{font-weight:700;font-size:15px;line-height:1.35;margin-top:4px}
+.feature .m{color:var(--muted);font-size:12px;margin-top:4px}
+.empty{padding:14px;color:var(--muted);font-size:13px;line-height:1.5}
+.tagc{display:inline-block;font-size:10.5px;font-weight:700;padding:1px 6px;border-radius:99px;border:1px solid var(--line);color:var(--muted);margin-left:4px;vertical-align:1px}
+
+/* ---------- Story card ---------- */
+#card{top:16px;right:16px;width:380px;padding:16px;display:none;max-height:calc(100% - 32px);overflow:auto;z-index:3}
+#card.show{display:block}
+#card .close{position:absolute;top:10px;right:12px;background:none;border:0;color:var(--muted);font-size:22px;cursor:pointer}
+#card h2{margin:6px 0 4px;font-size:19px;line-height:1.3;padding-right:24px}
+.pills{display:flex;flex-wrap:wrap;gap:5px}
+.pill{font-size:11.5px;font-weight:700;padding:3px 9px;border-radius:99px;background:color-mix(in srgb,var(--c) 22%,transparent);color:var(--c);border:1px solid color-mix(in srgb,var(--c) 45%,transparent)}
+.meta{color:var(--muted);font-size:12.5px;line-height:1.5}
+.summary{margin:12px 0;padding:10px 12px;border-left:3px solid var(--line);background:var(--soft);border-radius:0 8px 8px 0;font-size:14px;line-height:1.55}
+.summary small{display:block;color:var(--muted);font-size:11.5px;margin-top:6px}
+.sec{margin-top:14px}
+.sec h3{margin:0 0 6px;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.why{font-size:13px;line-height:1.6}
+.why b{color:var(--c)}
+.terms{display:flex;flex-wrap:wrap;gap:6px}
+.term{border:1px solid var(--line);background:var(--soft);border-radius:8px;padding:5px 9px;font-size:12.5px;cursor:pointer}
+.term.open{background:rgba(94,186,255,.12);border-color:rgba(94,186,255,.4)}
+.def{font-size:13px;line-height:1.5;margin-top:8px;padding:8px 10px;border-radius:8px;background:rgba(94,186,255,.08);display:none}
+.def.show{display:block}
+.q{font-size:13.5px;line-height:1.55;padding-left:18px;margin:0}
+.q li{margin:4px 0}
+.read{display:block;text-align:center;margin-top:14px;padding:10px;border-radius:10px;background:var(--accent);color:#07111e;font-weight:700;text-decoration:none}
+.note{color:var(--muted);font-size:11.5px;line-height:1.5;margin-top:10px}
+.warn{font-size:12px;color:#ffb3b3;margin-top:6px}
+
+/* ---------- Controls and legend ---------- */
+#controls{right:56px;bottom:40px;padding:10px 12px;font-size:13px;max-height:calc(100% - 56px);overflow:auto;z-index:4}
+#controls summary{cursor:pointer;font-weight:600;list-style:none;padding:2px 18px 2px 2px;position:relative}
+#controls summary::after{content:'▴';position:absolute;right:0;color:var(--muted)}
+#controls[open] summary{margin-bottom:6px}
+#controls[open] summary::after{content:'▾'}
+#controls label{display:flex;align-items:center;gap:8px;padding:3px 0;cursor:pointer;white-space:nowrap}
+#controls .sep{border-top:1px solid var(--line);margin:6px 0}
+#controls button.wide{margin-top:6px;width:100%;padding:8px;border-radius:8px;border:1px solid var(--line);background:rgba(94,186,255,.15);cursor:pointer}
+#legend{left:392px;bottom:16px;padding:8px 12px;font-size:12px;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+#legend i{display:inline-block;width:11px;height:11px;border-radius:50%;margin-right:4px;vertical-align:-1px}
+#banner{left:50%;top:16px;transform:translateX(-50%);padding:10px 14px;font-size:13px;display:none;max-width:460px;z-index:6}
+#banner.show{display:block}
+#controlsLegend{display:none}
+#sheetHandle,.chead .more{display:none}
+.maplibregl-ctrl-attrib{background:rgba(0,0,0,.5)!important;color:#aaa}
+.maplibregl-ctrl-attrib a{color:#ccc}
+
+/* ---------- Classroom mode ---------- */
+body.classroom #side,body.classroom #legend{display:none}
+body.classroom #card{width:min(560px,45%);top:50%;transform:translateY(-50%);right:32px;font-size:18px;max-height:90%}
+body.classroom #card h2{font-size:30px}
+body.classroom .summary,body.classroom .q,body.classroom .why{font-size:19px}
+#classBar{position:absolute;left:24px;top:24px;display:none;padding:12px 16px;z-index:5}
+body.classroom #classBar{display:block}
+#classBar h1{font-size:26px}
+#classBar .row{display:flex;gap:8px;margin-top:8px}
+#classBar button{border:1px solid var(--line);background:var(--soft);border-radius:8px;padding:6px 12px;cursor:pointer}
+
+/* ---------- Tablet and phone ---------- */
+@media (max-width:1099px){
+  #side{top:12px;left:12px;right:12px;bottom:12px;width:auto;gap:8px}
+  header.panel{padding:8px 10px;margin-right:64px}
+  h1{font-size:15px}
+  header .sub{display:none}
+  .daterow{margin-top:6px}
+  #seep{margin-top:6px;gap:5px}
+  .chip{flex-direction:row;justify-content:center;gap:5px;padding:5px 4px;font-size:11px}
+  .chip b{font-size:13px}
+  .chip .lbl{display:none}
+  #list{position:absolute;left:0;right:0;bottom:0;max-height:60vh;padding:0 6px 6px;display:flex;flex-direction:column}
+  #sheetHandle{display:flex;align-items:center;gap:8px;width:100%;border:0;background:none;font-size:14px;font-weight:600;padding:12px 8px 10px;cursor:pointer;flex:none;position:relative}
+  #sheetHandle::before{content:'';position:absolute;top:5px;left:50%;width:36px;height:4px;margin-left:-18px;border-radius:2px;background:rgba(255,255,255,.25)}
+  #sheetHandle .chev{margin-left:auto;color:var(--muted);transition:transform .2s}
+  #list.open #sheetHandle .chev{transform:rotate(180deg)}
+  #listBody{overflow:auto;min-height:0}
+  #list:not(.open) #listBody{display:none}
+  body.carded #list{display:none}
+  #card{left:12px;right:12px;top:auto;bottom:12px;width:auto;max-height:62vh;padding:12px 14px}
+  #card h2{font-size:17px}
+  .chead{cursor:pointer}
+  .chead .more{display:inline-block;margin-top:6px;border:0;background:none;color:var(--accent);font-size:13px;font-weight:600;padding:0;cursor:pointer}
+  #card.peek .cbody{display:none}
+  #legend{display:none!important}
+  #controls{top:12px;right:12px;bottom:auto;max-height:calc(100% - 24px)}
+  #controls:not([open]){padding:0}
+  #controls:not([open]) summary{padding:11px 14px}
+  #controls:not([open]) summary::after{display:none}
+  #controls summary .lbl{display:none}
+  #controls[open]{width:260px}
+  #controls[open] #controlsLegend{display:block;border-top:1px solid var(--line);margin-top:8px;padding-top:6px;font-size:12px;line-height:1.8}
+  #controlsLegend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px}
+  .maplibregl-ctrl-bottom-right .maplibregl-ctrl-group{display:none}
+  .maplibregl-ctrl-bottom-right{top:150px;bottom:auto}
+  body.classroom #card{width:auto;transform:none;top:auto;right:12px}
+}
+@media (max-width:1099px) and (min-width:700px){
+  #list{right:auto;width:400px}
+  #card{right:auto;width:420px;max-height:70vh}
+  header.panel{max-width:460px}
+}
+</style>
+</head>
+<body>
+<div id="map"></div>
+
+<aside id="side">
+  <header class="panel">
+    <h1>Geography <span>in the News</span></h1>
+    <div class="sub">Stories from around the world, sorted by SEEP (Social, Economic, Environmental, Political). Updated every morning.</div>
+    <div class="daterow">
+      <button class="nav" id="prevDay" aria-label="Previous day">◀</button>
+      <div id="dateLabel">Loading…</div>
+      <button class="nav" id="nextDay" aria-label="Next day">▶</button>
+      <div class="seg" role="tablist"><button id="vDay" class="on">Day</button><button id="vWeek">Week</button></div>
+    </div>
+    <div id="seep"></div>
+  </header>
+  <div id="list" class="panel">
+    <button id="sheetHandle" aria-expanded="false"><span id="sheetText">Loading…</span><span class="chev">▲</span></button>
+    <div id="listBody"><div class="empty">Loading stories…</div></div>
+  </div>
+</aside>
+
+<div id="card" class="panel"></div>
+<div id="banner" class="panel"></div>
+
+<div id="classBar" class="panel">
+  <h1>Geography <span style="color:var(--accent)">in the News</span></h1>
+  <div class="sub" id="classDate"></div>
+  <div class="row"><button id="cPrev">◀ Previous</button><button id="cPause">❚❚ Pause</button><button id="cNext">Next ▶</button><button id="cExit">Exit</button></div>
+</div>
+
+<div id="legend" class="panel"></div>
+
+<details id="controls" class="panel">
+  <summary>☰ <span class="lbl">Options</span></summary>
+  <label><input type="checkbox" id="tConflict" checked> Include conflict stories</label>
+  <label><input type="checkbox" id="tLabels" checked> Place labels</label>
+  <label><input type="checkbox" id="tBorders" checked> Country borders</label>
+  <label><input type="checkbox" id="tSpin" checked> Spin the globe</label>
+  <button class="wide" id="bClass">Classroom mode</button>
+  <div id="controlsLegend"></div>
+</details>
+
+<script src="config.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@5/dist/maplibre-gl.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+<script>
+// ================= Setup =================
+const CFG = window.GITN_CONFIG || {};
+const SEEP = {
+  S: { label: 'Social', color: '#ff9f43' },
+  E: { label: 'Economic', color: '#4dabf7' },
+  En: { label: 'Environmental', color: '#51cf66' },
+  P: { label: 'Political', color: '#b197fc' },
+};
+const ORDER = ['S', 'E', 'En', 'P'];
+const TOPIC_LABEL = { hazards: 'Natural hazards', climate: 'Climate change', ecosystems: 'Ecosystems and biodiversity', development: 'Development and inequality', migration: 'Migration and population', urban: 'Urban issues', resources: 'Resource management', economy: 'Economy and trade', geopolitics: 'Geopolitics' };
+const GIBS = 'https://gibs.earthdata.nasa.gov/wmts/epsg3857/best';
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const FC = (features = []) => ({ type: 'FeatureCollection', features });
+const compactMQ = window.matchMedia('(max-width: 1099px)');
+const isCompact = () => compactMQ.matches;
+
+const state = {
+  dates: [], dateIdx: 0, view: 'day',
+  stories: [], hidden: new Set(), glossary: {},
+  filter: new Set(ORDER), conflict: true,
+  selected: null, cardPeek: false,
+  classroom: { on: false, paused: false, timer: null, idx: 0 },
+};
+
+function ago(iso) {
+  if (!iso) return '';
+  const h = (Date.now() - Date.parse(iso)) / 36e5;
+  if (h < 1) return 'just now';
+  if (h < 24) return `${Math.round(h)} h ago`;
+  const d = Math.round(h / 24);
+  return d < 8 ? `${d} day${d > 1 ? 's' : ''} ago` : new Date(iso).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
+}
+const fmtDay = (d) => new Date(d + 'T12:00:00Z').toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long' });
+
+// ================= Map =================
+const map = new maplibregl.Map({
+  container: 'map', center: [15, 20], zoom: window.innerWidth < 700 ? 0.85 : 1.6, minZoom: 0.8, maxZoom: 8,
+  attributionControl: { compact: true },
+  style: {
+    version: 8, projection: { type: 'globe' },
+    glyphs: 'https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf',
+    sky: { 'atmosphere-blend': ['interpolate', ['linear'], ['zoom'], 0, 1, 5, 1, 7, 0] },
+    sources: {
+      earth: { type: 'raster', tileSize: 256, maxzoom: 8,
+        tiles: [`${GIBS}/BlueMarble_ShadedRelief_Bathymetry/default/GoogleMapsCompatible_Level8/{z}/{y}/{x}.jpeg`],
+        attribution: 'Imagery: NASA GIBS · Headlines link to their publishers' },
+    },
+    layers: [
+      { id: 'bg', type: 'background', paint: { 'background-color': '#000' } },
+      { id: 'earth', type: 'raster', source: 'earth', paint: { 'raster-saturation': -0.35, 'raster-brightness-max': 0.8 } },
+    ],
+  },
+});
+map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'bottom-right');
+
+map.on('load', async () => {
+  try {
+    const topo = await (await fetch('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json')).json();
+    map.addSource('borders', { type: 'geojson', data: topojson.mesh(topo, topo.objects.countries) });
+    map.addLayer({ id: 'borders', type: 'line', source: 'borders', paint: { 'line-color': 'rgba(255,255,255,.3)', 'line-width': 0.6 } });
+  } catch (e) { console.warn('Borders not loaded', e); }
+
+  map.addSource('stories', { type: 'geojson', data: FC() });
+  map.addLayer({ id: 'st-glow', type: 'circle', source: 'stories', filter: ['get', 'featured'], paint: {
+    'circle-radius': ['interpolate', ['linear'], ['zoom'], 1, 18, 6, 30], 'circle-color': '#ffffff', 'circle-opacity': 0.18, 'circle-blur': 0.6 } });
+  map.addLayer({ id: 'st', type: 'circle', source: 'stories', paint: {
+    'circle-radius': ['interpolate', ['linear'], ['zoom'], 1, ['case', ['get', 'featured'], 9, 6.5], 6, ['case', ['get', 'featured'], 15, 11]],
+    'circle-color': ['get', 'c1'], 'circle-stroke-color': ['get', 'c2'], 'circle-stroke-width': ['case', ['get', 'multi'], 3, 1.5] } });
+  map.addLayer({ id: 'st-sel', type: 'circle', source: 'stories', filter: ['get', 'sel'], paint: {
+    'circle-radius': ['interpolate', ['linear'], ['zoom'], 1, 13, 6, 19], 'circle-color': 'rgba(0,0,0,0)', 'circle-stroke-color': '#ffffff', 'circle-stroke-width': 2.5 } });
+  map.addLayer({ id: 'st-label', type: 'symbol', source: 'stories', minzoom: 2.3, layout: {
+    'text-field': ['get', 'label'], 'text-font': ['Open Sans Semibold'], 'text-size': 12, 'text-offset': [0, 1.3], 'text-anchor': 'top', 'text-max-width': 10 },
+    paint: { 'text-color': '#ffffff', 'text-halo-color': '#000', 'text-halo-width': 1.4 } });
+  map.addLayer({ id: 'st-star', type: 'symbol', source: 'stories', filter: ['get', 'featured'], layout: {
+    'text-field': '★', 'text-font': ['Open Sans Semibold'], 'text-size': 13, 'text-allow-overlap': true, 'text-ignore-placement': true },
+    paint: { 'text-color': '#10131a' } });
+  map.on('click', 'st', (e) => select(e.features[0].properties.id, true));
+  map.on('mouseenter', 'st', () => (map.getCanvas().style.cursor = 'pointer'));
+  map.on('mouseleave', 'st', () => (map.getCanvas().style.cursor = ''));
+  map.on('click', (e) => {
+    if (isCompact()) { $('controls').open = false; sheet(false); }
+  });
+  render();
+  animate();
+});
+
+// ================= Data =================
+async function loadGlossary() {
+  try { for (const [name, , def] of await (await fetch('data/glossary.json')).json()) state.glossary[name] = def; } catch (e) { /* optional */ }
+}
+async function loadHidden() {
+  if (!CFG.SUPABASE_URL || !CFG.SUPABASE_ANON_KEY) return;
+  try {
+    const r = await fetch(`${CFG.SUPABASE_URL}/rest/v1/hidden_stories?select=id`, { headers: { apikey: CFG.SUPABASE_ANON_KEY, Authorization: `Bearer ${CFG.SUPABASE_ANON_KEY}` } });
+    if (r.ok) state.hidden = new Set((await r.json()).map((x) => x.id));
+  } catch (e) { console.warn('Hidden list not loaded', e); }
+}
+async function loadDay(date) {
+  const r = await fetch(`data/news/${date}.json`, { cache: 'no-cache' });
+  if (!r.ok) throw new Error('No data for ' + date);
+  const d = await r.json();
+  return d.stories.map((s) => ({ ...s, day: d.date }));
+}
+async function loadView() {
+  const dates = state.view === 'day' ? [state.dates[state.dateIdx]] : state.dates.slice(state.dateIdx, state.dateIdx + 7);
+  const lists = await Promise.all(dates.map((d) => loadDay(d).catch(() => [])));
+  const seen = new Set();
+  state.stories = lists.flat().filter((s) => !seen.has(s.id) && seen.add(s.id));
+  if (state.view === 'week') state.stories.forEach((s) => { if (s.day !== dates[0]) s.featured = false; });
+  $('dateLabel').textContent = state.view === 'day' ? fmtDay(dates[0]) : `Week to ${new Date(dates[0] + 'T12:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })}`;
+  $('classDate').textContent = fmtDay(state.dates[state.dateIdx]);
+  $('prevDay').disabled = state.dateIdx >= state.dates.length - 1;
+  $('nextDay').disabled = state.dateIdx === 0;
+  closeCard();
+  render();
+}
+async function init() {
+  await Promise.all([loadGlossary(), loadHidden()]);
+  try {
+    const idx = await (await fetch('data/news/index.json', { cache: 'no-cache' })).json();
+    state.dates = idx.dates;
+    const want = new URLSearchParams(location.search).get('date');
+    state.dateIdx = Math.max(0, want ? state.dates.indexOf(want) : 0);
+    await loadView();
+  } catch (e) {
+    console.error(e);
+    $('banner').innerHTML = '<b>No stories found yet.</b> The daily update hasn’t run, or the page was opened directly from a file. See the README for setup.';
+    $('banner').classList.add('show');
+    $('listBody').innerHTML = '<div class="empty">No stories yet.</div>';
+  }
+}
+
+// ================= Filtering and rendering =================
+const visible = () => state.stories.filter((s) => !state.hidden.has(s.id) && (state.conflict || !s.conflict) && s.seep.themes.some((t) => state.filter.has(t)));
+
+function renderSeepChips() {
+  const all = state.stories.filter((s) => !state.hidden.has(s.id) && (state.conflict || !s.conflict));
+  $('seep').innerHTML = ORDER.map((k) => {
+    const n = all.filter((s) => s.seep.themes.includes(k)).length;
+    return `<button class="chip ${state.filter.has(k) ? 'on' : ''}" data-k="${k}" style="--c:${SEEP[k].color}" aria-pressed="${state.filter.has(k)}"><b>${n}</b><span><span class="dot"></span><span class="lbl">${SEEP[k].label}</span><span class="short" style="display:none">${k}</span></span></button>`;
+  }).join('');
+  $('seep').querySelectorAll('.chip').forEach((b) => b.onclick = () => {
+    const k = b.dataset.k;
+    // Clicking a theme when all are on shows just that theme; otherwise toggle it
+    if (state.filter.size === ORDER.length) state.filter = new Set([k]);
+    else if (state.filter.has(k)) { state.filter.delete(k); if (!state.filter.size) state.filter = new Set(ORDER); }
+    else state.filter.add(k);
+    render();
+  });
+  if (isCompact()) $('seep').querySelectorAll('.short').forEach((e) => (e.style.display = ''));
+}
+
+function spread(list) {
+  // Stories in the same place are fanned out in a small circle so each can be clicked
+  const groups = {};
+  for (const s of list) { const k = `${s.place.lat},${s.place.lon}`; (groups[k] ||= []).push(s); }
+  const pos = {};
+  for (const g of Object.values(groups)) g.forEach((s, i) => {
+    if (g.length === 1) { pos[s.id] = [s.place.lon, s.place.lat]; return; }
+    const a = (i / g.length) * Math.PI * 2, r = 1.1 + g.length * 0.15;
+    pos[s.id] = [s.place.lon + r * Math.cos(a) / Math.cos(s.place.lat * Math.PI / 180), s.place.lat + r * Math.sin(a)];
+  });
+  return pos;
+}
+
+function render() {
+  renderSeepChips();
+  const list = visible();
+  if (map.getSource('stories')) {
+    const located = list.filter((s) => s.place);
+    const pos = spread(located);
+    map.getSource('stories').setData(FC(located.map((s) => {
+      const [a, b] = s.seep.themes;
+      return { type: 'Feature', geometry: { type: 'Point', coordinates: pos[s.id] }, properties: {
+        id: s.id, label: s.place.name.split(',')[0], featured: !!s.featured, sel: s.id === state.selected,
+        c1: SEEP[a].color, c2: b ? SEEP[b].color : '#ffffff', multi: !!b } };
+    })));
+  }
+  renderList(list);
+  renderLegend();
+}
+
+function bars(s) { return `<span class="bars">${s.seep.themes.map((k) => `<i style="background:${SEEP[k].color}" title="${SEEP[k].label}"></i>`).join('')}</span>`; }
+function itemMeta(s) {
+  return `${s.place ? esc(s.place.name) : '🌐 Global'} · ${esc(s.source)} · ${ago(s.published)}${s.conflict ? '<span class="tagc">Conflict</span>' : ''}`;
+}
+function renderList(list) {
+  $('sheetText').textContent = `${list.length} ${list.length === 1 ? 'story' : 'stories'}${state.filter.size < 4 ? ' (filtered)' : ''}`;
+  const body = $('listBody');
+  if (!list.length) { body.innerHTML = '<div class="empty">No stories match these filters.</div>'; return; }
+  const feat = list.find((s) => s.featured);
+  const rest = list.filter((s) => s !== feat);
+  const located = rest.filter((s) => s.place), global = rest.filter((s) => !s.place);
+  const item = (s) => `<div class="item ${s.id === state.selected ? 'active' : ''}" data-id="${s.id}">${bars(s)}<div><div class="t">${esc(s.title)}</div><div class="m">${itemMeta(s)}</div></div></div>`;
+  body.innerHTML =
+    (feat ? `<div class="feature" data-id="${feat.id}"><div class="k">★ Story of the day</div><div class="t">${esc(feat.title)}</div><div class="m">${itemMeta(feat)}</div></div>` : '') +
+    (located.length ? `<div class="group">Around the world</div>${located.map(item).join('')}` : '') +
+    (global.length ? `<div class="group">Global stories</div>${global.map(item).join('')}` : '');
+  body.querySelectorAll('[data-id]').forEach((el) => el.onclick = () => select(el.dataset.id, true));
+}
+
+function renderLegend() {
+  const html = ORDER.map((k) => `<span><i style="background:${SEEP[k].color}"></i>${SEEP[k].label}</span>`).join('') +
+    `<span style="color:var(--muted)">Outer ring = second theme · ★ = story of the day</span>`;
+  $('legend').innerHTML = html;
+  $('controlsLegend').innerHTML = ORDER.map((k) => `<div><i style="background:${SEEP[k].color}"></i>${SEEP[k].label}</div>`).join('') + '<div style="color:var(--muted)">Outer ring = second theme</div>';
+}
+
+// ================= Story card =================
+function select(id, fly) {
+  const s = state.stories.find((x) => x.id === id);
+  if (!s) return;
+  if (id !== state.selected) state.cardPeek = isCompact();
+  state.selected = id;
+  stopSpin();
+  sheet(false);
+  showCard(s);
+  render();
+  if (fly && s.place) map.flyTo({ center: [s.place.lon, s.place.lat], zoom: Math.max(map.getZoom(), s.place.precision === 'place' ? 4 : 3.2), speed: 0.8,
+    padding: isCompact() ? { bottom: 160 } : { left: 360, right: 380 } });
+}
+
+function showCard(s) {
+  const card = $('card');
+  const themes = s.seep.themes;
+  const topicList = (s.topics || []).map((t) => TOPIC_LABEL[t]).filter(Boolean);
+  const terms = (s.terms || []).filter((t) => state.glossary[t]);
+  card.innerHTML = `
+    <div class="chead">
+      <button class="close" aria-label="Close">×</button>
+      <div class="pills">${themes.map((k) => `<span class="pill" style="--c:${SEEP[k].color}">${SEEP[k].label}</span>`).join('')}${s.featured ? '<span class="pill" style="--c:#ffd24d">★ Story of the day</span>' : ''}</div>
+      <h2>${esc(s.title)}</h2>
+      <div class="meta">${s.place ? '📍 ' + esc(s.place.name) : '🌐 Global story'} · ${esc(s.source)} · ${ago(s.published)}</div>
+      <button class="more"></button>
+    </div>
+    <div class="cbody">
+      ${s.conflict ? '<div class="warn">This story is about armed conflict.</div>' : ''}
+      ${s.summary ? `<div class="summary">${esc(s.summary)}<small>Summary from ${esc(s.source)}${s.alsoIn?.length ? ` · also reported by ${esc(s.alsoIn.join(', '))}` : ''}</small></div>` : ''}
+      <div class="sec"><h3>Why is this geography?</h3><div class="why">${themes.map((k) => `<div style="--c:${SEEP[k].color}"><b>${SEEP[k].label}:</b> ${(s.seep.why[k] || []).map(esc).join(', ') || 'linked to this theme'}</div>`).join('')}
+        ${topicList.length ? `<div style="margin-top:4px"><b style="color:var(--text)">Links to:</b> ${topicList.join(' · ')}</div>` : ''}</div></div>
+      ${terms.length ? `<div class="sec"><h3>Key terms</h3><div class="terms">${terms.map((t, i) => `<button class="term" data-i="${i}">${esc(t)}</button>`).join('')}</div><div class="def" id="def"></div></div>` : ''}
+      <div class="sec"><h3>Discuss</h3><ol class="q">${s.questions.map((q) => `<li>${esc(q)}</li>`).join('')}</ol></div>
+      <a class="read" href="${esc(s.link)}" target="_blank" rel="noopener">Read the full story on ${esc(s.source)} ↗</a>
+      <div class="note">The place and SEEP themes were chosen automatically from the headline, so they may occasionally be wrong.${s.place?.also?.length ? ` The story also mentions ${esc(s.place.also.join(', '))}.` : ''}</div>
+    </div>`;
+  card.querySelectorAll('.term').forEach((b) => b.onclick = (e) => {
+    e.stopPropagation();
+    const def = $('def'), open = b.classList.contains('open');
+    card.querySelectorAll('.term').forEach((x) => x.classList.remove('open'));
+    if (open) { def.classList.remove('show'); return; }
+    b.classList.add('open');
+    def.innerHTML = `<b>${esc(terms[b.dataset.i])}</b>: ${esc(state.glossary[terms[b.dataset.i]])}`;
+    def.classList.add('show');
+  });
+  const head = card.querySelector('.chead'), more = card.querySelector('.more');
+  const setPeek = (p) => { state.cardPeek = p; card.classList.toggle('peek', isCompact() && p); more.textContent = p ? 'Show details ▲' : 'Hide details ▼'; };
+  setPeek(state.cardPeek);
+  head.onclick = (e) => { if (!isCompact() || e.target.closest('.close, a')) return; setPeek(!state.cardPeek); };
+  card.querySelector('.close').onclick = (e) => { e.stopPropagation(); closeCard(); };
+  card.classList.add('show');
+  card.scrollTop = 0;
+  document.body.classList.add('carded');
+}
+function closeCard() {
+  state.selected = null;
+  $('card').classList.remove('show');
+  document.body.classList.remove('carded');
+  if (map.getSource('stories')) render();
+}
+
+// ================= Sheet (phones and tablets) =================
+function sheet(open) { $('list').classList.toggle('open', open); $('sheetHandle').setAttribute('aria-expanded', open); }
+$('sheetHandle').onclick = () => sheet(!$('list').classList.contains('open'));
+compactMQ.addEventListener('change', () => { $('card').classList.toggle('peek', isCompact() && state.cardPeek); render(); });
+
+// ================= Animation =================
+let spinning = true;
+function stopSpin() { spinning = false; $('tSpin').checked = false; }
+map.on('dragstart', stopSpin);
+function animate() {
+  const tick = () => {
+    if (spinning && !map.isMoving() && !state.classroom.on) { const c = map.getCenter(); map.jumpTo({ center: [c.lng + 0.05, c.lat] }); }
+    requestAnimationFrame(tick);
+  };
+  requestAnimationFrame(tick);
+}
+
+// ================= Classroom mode: cycles through the day's stories =================
+function classroomShow(step) {
+  const list = visible().filter((s) => s.place);
+  if (!list.length) return;
+  const C = state.classroom;
+  C.idx = (C.idx + step + list.length) % list.length;
+  state.cardPeek = false;
+  select(list[C.idx].id, true);
+}
+function classroomTimer() {
+  clearInterval(state.classroom.timer);
+  state.classroom.timer = setInterval(() => { if (!state.classroom.paused) classroomShow(1); }, 25000);
+}
+function setClassroom(on) {
+  state.classroom.on = on;
+  document.body.classList.toggle('classroom', on);
+  $('controls').open = false;
+  if (on) {
+    const list = visible().filter((s) => s.place);
+    state.classroom.idx = Math.max(0, list.findIndex((s) => s.featured)) - 1;
+    state.classroom.paused = false; $('cPause').textContent = '❚❚ Pause';
+    classroomShow(1); classroomTimer();
+    document.documentElement.requestFullscreen?.().catch(() => {});
+  } else {
+    clearInterval(state.classroom.timer);
+    if (document.fullscreenElement) document.exitFullscreen?.();
+  }
+}
+$('bClass').onclick = () => setClassroom(true);
+$('cExit').onclick = () => setClassroom(false);
+$('cNext').onclick = () => { classroomShow(1); classroomTimer(); };
+$('cPrev').onclick = () => { classroomShow(-1); classroomTimer(); };
+$('cPause').onclick = () => { const C = state.classroom; C.paused = !C.paused; $('cPause').textContent = C.paused ? '▶ Play' : '❚❚ Pause'; };
+document.addEventListener('keydown', (e) => {
+  if (!state.classroom.on) return;
+  if (e.key === 'ArrowRight') $('cNext').click();
+  if (e.key === 'ArrowLeft') $('cPrev').click();
+  if (e.key === 'Escape') setClassroom(false);
+});
+
+// ================= Controls =================
+$('prevDay').onclick = () => { if (state.dateIdx < state.dates.length - 1) { state.dateIdx++; loadView(); } };
+$('nextDay').onclick = () => { if (state.dateIdx > 0) { state.dateIdx--; loadView(); } };
+$('vDay').onclick = () => { state.view = 'day'; $('vDay').classList.add('on'); $('vWeek').classList.remove('on'); loadView(); };
+$('vWeek').onclick = () => { state.view = 'week'; $('vWeek').classList.add('on'); $('vDay').classList.remove('on'); loadView(); };
+$('tConflict').onchange = (e) => { state.conflict = e.target.checked; render(); };
+$('tLabels').onchange = (e) => map.getLayer('st-label') && map.setLayoutProperty('st-label', 'visibility', e.target.checked ? 'visible' : 'none');
+$('tBorders').onchange = (e) => map.getLayer('borders') && map.setLayoutProperty('borders', 'visibility', e.target.checked ? 'visible' : 'none');
+$('tSpin').onchange = (e) => (spinning = e.target.checked);
+map.once('load', () => setTimeout(() => { if (isCompact()) document.querySelector('.maplibregl-ctrl-attrib')?.classList.remove('maplibregl-compact-show'); }, 300));
+
+init();
+</script>
+</body>
+</html>
