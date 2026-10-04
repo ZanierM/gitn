@@ -1,10 +1,10 @@
 # Geography in the News
 
-A 3D globe of the day's geography stories, colour-coded by **SEEP** (Social, Economic, Environmental, Political). It updates itself every morning with no AI and no API key.
+A 3D globe of the day's geography stories, colour-coded by **SEEP** (Social, Economic, Environmental, Political). It updates itself at 08:30 every weekday (London time) with no AI and no API key.
 
 ## How it works
 
-1. Every morning (and again at lunchtime) a free **GitHub Action** runs `scripts/update.mjs`.
+1. At 08:30 every weekday (London time), a free **GitHub Action** runs `scripts/update.mjs`.
 2. The script reads RSS feeds from BBC News, The Guardian, Al Jazeera and UN News. It:
    - throws out sport, celebrity and unsuitable stories using word lists
    - scores each story for each SEEP theme using keyword lists
@@ -22,7 +22,7 @@ Students only see the headline, the publisher's own short summary and a link to 
 ### 1. Put it on GitHub
 1. Create a new repository, for example `geography-news`.
 2. Upload everything in this folder, **including the hidden `.github` folder**. On a Mac, press Cmd+Shift+. in Finder to show hidden folders.
-3. Go to **Settings → Actions → General → Workflow permissions**, choose **Read and write permissions** and save.
+3. The workflow grants itself only `contents: write` permission to save the news. The repository default can stay at **Read repository contents and packages**.
 4. Go to the **Actions** tab, open **Daily geography news** and click **Run workflow** to get today's stories straight away.
 
 ### 2. Publish the website (choose one)
@@ -68,4 +68,4 @@ To test changes on your own computer (Node 18 or newer), run `node scripts/updat
 | `data/news/` | One file per day, plus `index.json` |
 | `data/gazetteer.json` | Place names with coordinates |
 | `data/glossary.json` | Key terms and definitions |
-| `.github/workflows/daily-news.yml` | Runs the update every morning |
+| `.github/workflows/daily-news.yml` | Runs the update at 08:30 each weekday (London time) |
