@@ -1,0 +1,1258 @@
+{
+ "date": "2026-10-05",
+ "generated": "2026-10-05T16:17:34.978Z",
+ "count": 28,
+ "stories": [
+  {
+   "id": "a7f88f1a0946",
+   "title": "From urban rooftops to working cattle farms: Australia’s best home gardens – in pictures",
+   "summary": "The 20 best residential gardens have been revealed in the first-ever Landscape Australia awards shortlist. Jury chair Emily Wong said each project was a response to urgent issues such as the climate crisis, fire and flood resilience, and the loss of biodiversity.",
+   "link": "https://www.theguardian.com/lifeandstyle/gallery/2026/oct/04/landscape-australia-residential-garden-award-finalists-in-pictures",
+   "source": "The Guardian",
+   "published": "2026-10-03T19:00:08.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "flood",
+      "biodiversity"
+     ],
+     "E": [
+      "farm",
+      "infrastructure"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "hazards",
+    "climate"
+   ],
+   "terms": [
+    "Biodiversity",
+    "Climate change",
+    "Flooding",
+    "Infrastructure"
+   ],
+   "questions": [
+    "What challenges does urban growth create in Australia?",
+    "What might the primary and secondary effects of this event be in Australia?"
+   ],
+   "conflict": false,
+   "score": 12.5,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "5aea8ca7a76d",
+   "title": "UN upholds housing as a human right on World Habitat Day",
+   "summary": "Representatives from governments, civil society and academia meeting in Muscat, Oman on Monday called for urgent action to address a global housing crisis affecting nearly 3.4 billion people.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168520",
+   "source": "UN News",
+   "published": "2026-10-05T12:00:00.000Z",
+   "place": {
+    "name": "Muscat, Oman",
+    "country": "Oman",
+    "iso": "OM",
+    "lat": 23.58,
+    "lon": 58.41,
+    "precision": "place",
+    "confidence": 0.525,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "En",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "housing"
+     ],
+     "En": [
+      "habitat"
+     ],
+     "P": [
+      "government",
+      "un"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "ecosystems",
+    "geopolitics"
+   ],
+   "terms": [
+    "Ecosystem"
+   ],
+   "questions": [
+    "What challenges does urban growth create in Oman?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": false,
+   "score": 9.9,
+   "alsoIn": []
+  },
+  {
+   "id": "da91d40a7fea",
+   "title": "One green shoot at a time: the women restoring mangrove forests in the oil-ravaged Niger delta",
+   "summary": "In a region of Nigeria blighted by decades of pollution, Martha Agbani and her team are not just replanting trees but regaining ownership of their lost lands and livelihoods",
+   "link": "https://www.theguardian.com/global-development/2026/oct/02/one-green-shoot-at-a-time-the-women-restoring-mangrove-forests-in-the-oil-ravaged-niger-delta",
+   "source": "The Guardian",
+   "published": "2026-10-02T08:00:14.000Z",
+   "place": {
+    "name": "Niger",
+    "country": "Niger",
+    "iso": "NE",
+    "lat": 17.41,
+    "lon": 9.33,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "forest",
+      "pollution"
+     ],
+     "S": [
+      "women"
+     ],
+     "E": [
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Pollution"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 9,
+   "alsoIn": []
+  },
+  {
+   "id": "8a924ab0299a",
+   "title": "Iran’s oil minister resigns as country’s economic crisis worsens",
+   "summary": "Departure comes amid large drop in oil receipts, rampant inflation and shrinking economy",
+   "link": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis",
+   "source": "The Guardian",
+   "published": "2026-10-05T14:16:14.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "inflation",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Inflation"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 7.3,
+   "alsoIn": []
+  },
+  {
+   "id": "d91603376071",
+   "title": "Environmental groups critical of housing levy idea",
+   "summary": "The government wants developers to fund waterways projects in Norfolk.",
+   "link": "https://www.bbc.co.uk/news/articles/cwm2q2e145p4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-05T05:35:03.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "environment"
+     ],
+     "S": [
+      "housing"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in the places involved?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 7.1,
+   "alsoIn": []
+  },
+  {
+   "id": "77fe2d6df664",
+   "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+   "summary": "Crude exports bypassing Hormuz surged in September, yet oil prices remain high. Could a secret fee be the reason?",
+   "link": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz",
+   "source": "Al Jazeera",
+   "published": "2026-10-05T13:11:42.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "export",
+      "prices",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "urban",
+    "economy"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Trade"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "What challenges does urban growth create in Iran?"
+   ],
+   "conflict": false,
+   "score": 7,
+   "alsoIn": []
+  },
+  {
+   "id": "cad03541e81c",
+   "title": "Mixed start for pre-Cop as just two non-Pacific leaders accept Australian invitation to climate summit",
+   "summary": "Anthony Albanese joins about 4,000 people in Fiji for preparatory meeting for year-ending Cop31 UN climate summit",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/05/mixed-start-for-pre-cop-as-just-two-non-pacific-leaders-accept-australian-invitation-to-climate-summit",
+   "source": "The Guardian",
+   "published": "2026-10-05T09:52:03.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": [
+     "Fiji"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "P": [
+      "summit",
+      "cop3",
+      "un"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 7,
+   "alsoIn": []
+  },
+  {
+   "id": "016777bedf55",
+   "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
+   "summary": "Britain under pressure to put tariffs on cheap Chinese vehicle imports ahead of protectionist trade measures",
+   "link": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
+   "source": "The Guardian",
+   "published": "2026-10-04T05:00:18.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.6,
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "trade",
+      "tariff",
+      "industr"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Tariff",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 6.6,
+   "alsoIn": []
+  },
+  {
+   "id": "f6ea582f000e",
+   "title": "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
+   "summary": "Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters.",
+   "link": "https://www.bbc.co.uk/news/articles/c6q8jly114j8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-03T17:08:10.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildlife",
+      "whale"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "b49be0bdb8c3",
+   "title": "Uganda’s UN-supported wildlife forensics lab turns ivory seizures into convictions",
+   "summary": "The package originated in Entebbe, Uganda, bound for Cairo, containing 10 kilograms of thumb-sized pieces that could have been either bone or elephant ivory.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168469",
+   "source": "UN News",
+   "published": "2026-10-03T12:00:00.000Z",
+   "place": {
+    "name": "Uganda",
+    "country": "Uganda",
+    "iso": "UG",
+    "lat": 1.27,
+    "lon": 32.37,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildlife"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "6a25bf6e4b2a",
+   "title": "Spanish PM Sánchez calls early election after housing protests",
+   "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-05T10:18:47.000Z",
+   "place": {
+    "name": "Spain",
+    "country": "Spain",
+    "iso": "ES",
+    "lat": 40.37,
+    "lon": -3.57,
+    "precision": "country",
+    "confidence": 0.7,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "housing",
+      "protest"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in Spain?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6.1,
+   "alsoIn": [
+    "The Guardian"
+   ]
+  },
+  {
+   "id": "b0e96b236244",
+   "title": "Rotting food waste emits 5 times more greenhouse gases than planes",
+   "summary": "Rotting food waste is causing up to 10 per cent of total global greenhouse gas emissions – five times more than the entire aviation sector, the UN’s environment agency warned this week.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168507",
+   "source": "UN News",
+   "published": "2026-10-03T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "greenhouse",
+      "environment"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Carbon emissions"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 5.9,
+   "alsoIn": []
+  },
+  {
+   "id": "4fff0b6a1aac",
+   "title": "How India became dangerously addicted to Chinese imports",
+   "summary": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
+   "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-05T01:42:11.000Z",
+   "place": {
+    "name": "India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 22.8,
+    "lon": 79.53,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "China"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "import"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "a46f5bb6ee02",
+   "title": "Creosote found in beach pollution investigation",
+   "summary": "Restrictions remain in place on Blyth Beach after a pollution incident was reported in August.",
+   "link": "https://www.bbc.co.uk/news/articles/cq398lmlp7djo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-05T14:26:20.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "pollution"
+     ],
+     "E": [
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Pollution"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "0b00706f9bbb",
+   "title": "‘I do not know if the doctor survived’: young mothers recall ‘living hell’ of Nepal’s floods",
+   "summary": "Kalpana Nepali was seven months pregnant when the flash floods hit last month, while Pooja Pariyal spent three days on a hospital roof waiting to be rescued. Now, they are living precariously in temporary shelters",
+   "link": "https://www.theguardian.com/global-development/2026/sep/30/mothers-trauma-women-children-nepal-flash-floods",
+   "source": "The Guardian",
+   "published": "2026-09-30T04:00:11.000Z",
+   "place": {
+    "name": "Nepal",
+    "country": "Nepal",
+    "iso": "NP",
+    "lat": 28.26,
+    "lon": 83.95,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ],
+     "S": [
+      "hospital"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Nepal?",
+    "How could Nepal’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "f1dcd064784e",
+   "title": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
+   "summary": "The announcement came hours after Iranian-backed Houthis reportedly cut a vital supply route to besieged city of Taiz",
+   "link": "https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory",
+   "source": "The Guardian",
+   "published": "2026-10-05T00:38:54.000Z",
+   "place": {
+    "name": "Taiz, Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 13.58,
+    "lon": 44.02,
+    "precision": "place",
+    "confidence": 1,
+    "also": [
+     "Saudi Arabia"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "government",
+      "territor",
+      "military"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in Yemen?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.2,
+   "alsoIn": []
+  },
+  {
+   "id": "09fb6baa0fee",
+   "title": "More than 1,200 Colorado students have earned a climate ‘seal’: ‘We’re the ones growing up in this world’",
+   "summary": "A statewide initiative pairs climate-focused coursework with community service – and is spreading to other states",
+   "link": "https://www.theguardian.com/us-news/2026/oct/04/colorado-climate-high-school-students",
+   "source": "The Guardian",
+   "published": "2026-10-04T12:30:27.000Z",
+   "place": {
+    "name": "Colorado",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39,
+    "lon": -105.5,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "climate"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Who are the winners and losers from this in United States?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "2fb5f231030f",
+   "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+   "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-04T03:42:15.000Z",
+   "place": {
+    "name": "Spain",
+    "country": "Spain",
+    "iso": "ES",
+    "lat": 40.37,
+    "lon": -3.57,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "housing",
+      "protest"
+     ]
+    }
+   },
+   "topics": [
+    "urban"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in Spain?",
+    "How could this city become more sustainable?"
+   ],
+   "conflict": false,
+   "score": 4.7,
+   "alsoIn": []
+  },
+  {
+   "id": "be00888292e7",
+   "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+   "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+   "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-04T16:51:30.000Z",
+   "place": {
+    "name": "Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 15.94,
+    "lon": 47.52,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "government",
+      "president",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "907cf36647ad",
+   "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+   "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins",
+   "link": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+   "source": "The Guardian",
+   "published": "2026-10-02T08:55:42.000Z",
+   "place": {
+    "name": "Cairo, Egypt",
+    "country": "Egypt",
+    "iso": "EG",
+    "lat": 30.06,
+    "lon": 31.25,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "erupt"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Volcano"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Egypt?",
+    "How could Egypt’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "f9bbf82ccaa5",
+   "title": "Hundreds of Australians, including war veterans, are being buried in unmarked communal graves",
+   "summary": "Exclusive: Guardian Australia investigation reveals state governments use shared graves to bury those deemed too poor to pay for funerals. ‘It’s unspeakable,’ one relative says",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/poor-australians-war-veterans-buried-unmarked-graves",
+   "source": "The Guardian",
+   "published": "2026-10-05T14:00:28.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "government",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Poverty"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 4.4,
+   "alsoIn": []
+  },
+  {
+   "id": "e0aaadc336f3",
+   "title": "In both France and Spain, ruling parties must prove they can give young protesters hope",
+   "summary": "Demonstrations over housing rights and crumbling schools are a sign the younger generation is withdrawing political consent",
+   "link": "https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same",
+   "source": "The Guardian",
+   "published": "2026-10-05T14:55:44.000Z",
+   "place": {
+    "name": "France",
+    "country": "France",
+    "iso": "FR",
+    "lat": 46.6,
+    "lon": 2.4,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "Spain"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "schools",
+      "housing",
+      "protest"
+     ]
+    }
+   },
+   "topics": [
+    "urban"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in France?",
+    "How could this city become more sustainable?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "5a08103e2f12",
+   "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
+   "summary": "UN warns US boat strikes in the Caribbean counter-drug war may violate international law and human rights principles.",
+   "link": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean",
+   "source": "Al Jazeera",
+   "published": "2026-10-05T14:58:02.000Z",
+   "place": {
+    "name": "Caribbean",
+    "country": "Jamaica",
+    "iso": "JM",
+    "lat": 16,
+    "lon": -73,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "law",
+      "un",
+      "military"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Human rights"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Jamaica?"
+   ],
+   "conflict": true,
+   "score": 3.8,
+   "alsoIn": []
+  },
+  {
+   "id": "5ec59aac3822",
+   "title": "Students continue to protest in France as hundreds of schools close",
+   "summary": "Education Minister Edouard Geffray said on Sunday about 500 schools likely to be fully or partially closed on Monday.",
+   "link": "https://www.aljazeera.com/news/2026/10/5/students-continue-to-protest-in-france-as-hundreds-of-schools-close",
+   "source": "Al Jazeera",
+   "published": "2026-10-05T12:25:26.000Z",
+   "place": {
+    "name": "France",
+    "country": "France",
+    "iso": "FR",
+    "lat": 46.6,
+    "lon": 2.4,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "schools",
+      "education",
+      "protest"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in France?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": false,
+   "score": 3.6,
+   "alsoIn": []
+  },
+  {
+   "id": "5af5cfaca993",
+   "title": "To cull or not to cull: Greenland debates fate of world’s slowest shark",
+   "summary": "As trawlers compete with Greenland sharks for halibut and cod, conservationists and fishers clash over what to do about misunderstood species",
+   "link": "https://www.theguardian.com/environment/2026/oct/05/to-cull-or-not-to-cull-greenland-debates-fate-of-worlds-slowest-shark",
+   "source": "The Guardian",
+   "published": "2026-10-05T04:00:47.000Z",
+   "place": {
+    "name": "Greenland",
+    "country": "Greenland",
+    "iso": "GL",
+    "lat": 73.08,
+    "lon": -41.8,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "conservation",
+      "species"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems"
+   ],
+   "terms": [
+    "Conservation"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How could this environment be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "f2ec24d34dc7",
+   "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
+   "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
+   "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-05T10:44:51.000Z",
+   "place": {
+    "name": "Birmingham, United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 52.48,
+    "lon": -1.9,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "tax"
+     ]
+    }
+   },
+   "topics": [],
+   "terms": [],
+   "questions": [
+    "Which SEEP themes does this story cover, and which is most important?",
+    "How might this story affect people in United Kingdom and elsewhere?"
+   ],
+   "conflict": false,
+   "score": 3.4,
+   "alsoIn": []
+  },
+  {
+   "id": "a5865119d807",
+   "title": "Green party drops longstanding opposition to nuclear power",
+   "summary": "Party in England and Wales ditches commitment to phase out nuclear in major shift in its energy policy",
+   "link": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+   "source": "The Guardian",
+   "published": "2026-10-05T15:53:49.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.5,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "policy",
+      "opposition"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.4,
+   "alsoIn": []
+  },
+  {
+   "id": "d78d67f34d2d",
+   "title": "Quebec poised to elect separatists to power for first time in more than a decade",
+   "summary": "Parti Québécois promises to hold independence referendum in Canada’s French-speaking region by 2028",
+   "link": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum",
+   "source": "The Guardian",
+   "published": "2026-10-05T09:30:52.000Z",
+   "place": {
+    "name": "Quebec",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 52,
+    "lon": -72,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "referendum",
+      "separatis",
+      "independence"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Canada?"
+   ],
+   "conflict": false,
+   "score": 3.3,
+   "alsoIn": []
+  }
+ ]
+}
