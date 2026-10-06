@@ -1,0 +1,1247 @@
+{
+ "date": "2026-10-06",
+ "generated": "2026-10-06T14:22:25.816Z",
+ "count": 28,
+ "stories": [
+  {
+   "id": "a485e5563d82",
+   "title": "Coalition’s migration plan risks breaching India free trade agreement and damaging economy, advocates warn",
+   "summary": "Angus Taylor’s drastic cuts to graduate visas aim to end a citizenship pathway, but universities body says changes will make Australia less competitive",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/07/coalition-migration-policy-reaction-universities-students-economy-india-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-10-06T14:00:16.000Z",
+   "place": {
+    "name": "India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 22.8,
+    "lon": 79.53,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "trade"
+     ],
+     "S": [
+      "migra"
+     ],
+     "En": [
+      "coal"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "migration",
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Migration",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": false,
+   "score": 12.3,
+   "alsoIn": [
+    "BBC News"
+   ],
+   "featured": true
+  },
+  {
+   "id": "38d51ba91c04",
+   "title": "Extreme heat making pregnancy a ‘new fault line’ in climate crisis",
+   "summary": "Pregnancy and childbirth have become a “new fault line in the global climate crisis” as extreme heat worsens, the head of the UN climate action body (UNFCCC) warned on Monday, calling for maternal and newborn health to be built into countries’ climate plans.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168522",
+   "source": "UN News",
+   "published": "2026-10-05T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "S": [
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change",
+    "Heatwave",
+    "Tectonic plates"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "What does this story suggest about quality of life in the places involved?"
+   ],
+   "conflict": false,
+   "score": 8,
+   "alsoIn": []
+  },
+  {
+   "id": "c28c85003a3f",
+   "title": "UK oil refinery broke toxic pollution limits dozens of times, documents reveal",
+   "summary": "Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest.",
+   "link": "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-06T06:01:12.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "toxic",
+      "pollution",
+      "river"
+     ],
+     "E": [
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Pollution"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "49316d1f585c",
+   "title": "Former UN food agency official claims he was fired for highlighting hunger in Gaza",
+   "summary": "Benjamin Davis appealing against dismissal from FAO, after being accused by director general of playing ‘political games’",
+   "link": "https://www.theguardian.com/world/2026/oct/06/former-un-food-agency-official-fao-benjamin-davis-hunger-gaza",
+   "source": "The Guardian",
+   "published": "2026-10-06T11:31:00.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "hunger"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Food security"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Palestine?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "a5b4d0b3584d",
+   "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
+   "summary": "Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again",
+   "link": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
+   "source": "The Guardian",
+   "published": "2026-10-06T05:00:02.000Z",
+   "place": {
+    "name": "Tigray",
+    "country": "Ethiopia",
+    "iso": "ET",
+    "lat": 14,
+    "lon": 38.8,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "En"
+    ],
+    "why": {
+     "P": [
+      "conflict",
+      "alliance"
+     ],
+     "En": [
+      "erupt"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "geopolitics"
+   ],
+   "terms": [
+    "Volcano"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Ethiopia?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "e5a23164cc66",
+   "title": "Kenya ministry of health confirms first imported Ebola case",
+   "summary": "The first imported case of Ebola has been recorded in Kenya.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case",
+   "source": "Al Jazeera",
+   "published": "2026-10-06T09:51:44.000Z",
+   "place": {
+    "name": "Kenya",
+    "country": "Kenya",
+    "iso": "KE",
+    "lat": 0.6,
+    "lon": 37.8,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "import"
+     ],
+     "S": [
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "development"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "What does this story suggest about quality of life in Kenya?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "eccf15c12df6",
+   "title": "Watch: How Spain's housing crisis has resulted in an early general election",
+   "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
+   "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-05T09:03:30.000Z",
+   "place": {
+    "name": "Spain",
+    "country": "Spain",
+    "iso": "ES",
+    "lat": 40.37,
+    "lon": -3.57,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "housing"
+     ],
+     "P": [
+      "parliament",
+      "election"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in Spain?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.7,
+   "alsoIn": []
+  },
+  {
+   "id": "c87048284d6e",
+   "title": "Spain PM pins hopes on housing crisis to help win snap election",
+   "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+   "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-05T19:30:50.000Z",
+   "place": {
+    "name": "Madrid, Spain",
+    "country": "Spain",
+    "iso": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "housing"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "urban"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "What challenges does urban growth create in Spain?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "d27779c22274",
+   "title": "Security, sacrifice or opportunity: Visions differ over effective climate action",
+   "summary": "Should the world move away sharply from fossil fuels, or manage a slower, more careful retreat?&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168526",
+   "source": "UN News",
+   "published": "2026-10-05T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "fossil fuel"
+     ]
+    }
+   },
+   "topics": [
+    "climate"
+   ],
+   "terms": [
+    "Climate change",
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Who are the winners and losers from this in the places involved?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "58d15ca5c079",
+   "title": "Argentina will stop Falklands exploiting offshore oilfields, foreign minister says",
+   "summary": "Pablo Quirno says move is part of Argentinian government’s strategy to peacefully assert sovereignty over the islands",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty",
+   "source": "The Guardian",
+   "published": "2026-10-06T11:40:03.000Z",
+   "place": {
+    "name": "Argentina",
+    "country": "Argentina",
+    "iso": "AR",
+    "lat": -34.54,
+    "lon": -64.75,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "minister",
+      "government",
+      "sovereign"
+     ],
+     "E": [
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Sovereignty"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "3fd55062614f",
+   "title": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
+   "summary": "Government offensive launched under air cover by Saudi military coalition aims to retake all Houthi-held territory",
+   "link": "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
+   "source": "The Guardian",
+   "published": "2026-10-05T19:44:01.000Z",
+   "place": {
+    "name": "Saudi Arabia",
+    "country": "Saudi Arabia",
+    "iso": "SA",
+    "lat": 24.09,
+    "lon": 44.67,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Yemen"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "government",
+      "territor",
+      "military"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "34366022bf3a",
+   "title": "Watch: Bin on fire at school protests on the streets of Lille",
+   "summary": "The demonstrators are calling for better government investment in high schools.",
+   "link": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-06T10:22:42.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "school",
+      "schools",
+      "protest"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "00dba6b2e1ae",
+   "title": "Australia faces summer of extreme weather, Anthony Albanese warns at pre-Cop",
+   "summary": "Prime minister tells delegates in Tuvalu and Fiji that ‘super El Niño’ brewing in the Pacific shows climate change is ‘here right now’",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/agreement-to-transition-away-from-fossil-fuels-not-open-for-renegotiation-pacific-leader-tells-pre-cop",
+   "source": "The Guardian",
+   "published": "2026-10-06T11:36:12.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "weather",
+      "el niño"
+     ]
+    }
+   },
+   "topics": [
+    "climate"
+   ],
+   "terms": [
+    "Climate change",
+    "El Niño",
+    "Extreme weather"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Who are the winners and losers from this in Australia?"
+   ],
+   "conflict": false,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "f06cf155ee2c",
+   "title": "US households pay 62% more for water than they did a decade ago, study finds",
+   "summary": "For-profit water corporations, federal cuts and climate crisis are ‘supercharging water rate hikes’, study co-author says",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/households-drinking-water-cost-study",
+   "source": "The Guardian",
+   "published": "2026-10-06T09:00:09.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "climate"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "6c481f1765bc",
+   "title": "Teenager shows BBC life inside Gaza displacement camp",
+   "summary": "13-year-old Lara lives in a displacement camp in Gaza City.",
+   "link": "https://www.bbc.co.uk/news/videos/c3x2w5dd21eyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-05T16:31:33.000Z",
+   "place": {
+    "name": "Gaza City, Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.52,
+    "lon": 34.45,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "displac"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "urban"
+   ],
+   "terms": [
+    "Displacement"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What challenges does urban growth create in Palestine?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "5cfc10523915",
+   "title": "Carbon tracking tower put on Scotland's largest saltmarsh",
+   "summary": "It will track how much carbon is being taken out of the atmosphere by the saltmarsh on the Solway Firth.",
+   "link": "https://www.bbc.co.uk/news/articles/cky8302y7zejo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-06T09:35:01.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "carbon"
+     ]
+    }
+   },
+   "topics": [
+    "climate"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Who are the winners and losers from this in United Kingdom?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "e4b352bb6c1b",
+   "title": "Drax datacentre could create nearly twice the yearly emissions of all Gatwick flights",
+   "summary": "Exclusive: Campaign group’s analysis of North Yorkshire plans finds datacentre would have to burn 4.9m tonnes of wood a year",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/06/drax-datacentre-yearly-co2-emissions-gatwick-flights-analysis",
+   "source": "The Guardian",
+   "published": "2026-10-06T10:27:03.000Z",
+   "place": {
+    "name": "Yorkshire",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 54,
+    "lon": -1.5,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "emission"
+     ]
+    }
+   },
+   "topics": [
+    "climate"
+   ],
+   "terms": [
+    "Carbon emissions"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Who are the winners and losers from this in United Kingdom?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "c900f38fc398",
+   "title": "Indian opposition MPs detained in protest against election chief",
+   "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
+   "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-06T10:05:22.000Z",
+   "place": {
+    "name": "India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 22.8,
+    "lon": 79.53,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "minister",
+      "election",
+      "vote"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in India?"
+   ],
+   "conflict": false,
+   "score": 4.2,
+   "alsoIn": []
+  },
+  {
+   "id": "59ebd2f6e8f0",
+   "title": "Children brave snipers and mortars to go to school near Yemen front line",
+   "summary": "In rare access to Taiz, the BBC World Service speaks to children, teachers and families affected by the war.",
+   "link": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-06T07:23:24.000Z",
+   "place": {
+    "name": "Taiz, Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 13.58,
+    "lon": 44.02,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "school",
+      "children"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Yemen?"
+   ],
+   "conflict": true,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "964c991e5a59",
+   "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+   "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+   "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-05T16:13:21.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "supply chain",
+      "company",
+      "firm"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Supply chain"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 3.8,
+   "alsoIn": []
+  },
+  {
+   "id": "405483f8c72f",
+   "title": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on",
+   "summary": "Exclusive: Guardian analysis finds more than 150,000 tonnes of fuel was shipped to Russian ports in July and August, some using sanctioned tankers",
+   "link": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
+   "source": "The Guardian",
+   "published": "2026-10-05T23:50:12.000Z",
+   "place": {
+    "name": "Russia",
+    "country": "Russia",
+    "iso": "RU",
+    "lat": 58,
+    "lon": 60,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": [
+     "South Korea",
+     "Ukraine"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "sanction",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Sanctions"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Russia?"
+   ],
+   "conflict": true,
+   "score": 3.8,
+   "alsoIn": []
+  },
+  {
+   "id": "fc7057caa7a4",
+   "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+   "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+   "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-06T11:42:52.000Z",
+   "place": {
+    "name": "Quebec",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 52,
+    "lon": -72,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "election",
+      "referendum",
+      "separatis"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Canada?"
+   ],
+   "conflict": false,
+   "score": 3.6,
+   "alsoIn": []
+  },
+  {
+   "id": "c670329bf5f1",
+   "title": "Two people killed as floods hit Spain's Catalonia region",
+   "summary": "Spain's Prime Minister Pedro Sánchez says the situation in Catalonia remains \"very complicated\".",
+   "link": "https://www.bbc.co.uk/news/videos/cw8rzdkmj5n1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-04T14:56:06.000Z",
+   "place": {
+    "name": "Spain",
+    "country": "Spain",
+    "iso": "ES",
+    "lat": 40.37,
+    "lon": -3.57,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Spain?",
+    "How could Spain’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 3.6,
+   "alsoIn": []
+  },
+  {
+   "id": "5f24616a74ae",
+   "title": "‘They take our water, our soil’: protesters fight ‘foreignisation’ as Javier Milei encourages land sales in Argentina",
+   "summary": "The country’s far-right president is courting billionaire investors by removing a block on foreign ownership of land and natural resources",
+   "link": "https://www.theguardian.com/global-development/2026/oct/06/argentina-land-reform-protests-javier-milei",
+   "source": "The Guardian",
+   "published": "2026-10-06T10:00:51.000Z",
+   "place": {
+    "name": "Argentina",
+    "country": "Argentina",
+    "iso": "AR",
+    "lat": -34.54,
+    "lon": -64.75,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "En"
+    ],
+    "why": {
+     "S": [
+      "protest"
+     ],
+     "En": [
+      "soil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Natural resources"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 3.6,
+   "alsoIn": []
+  },
+  {
+   "id": "7e922dfa85f5",
+   "title": "Irish budget to tackle childcare and energy costs",
+   "summary": "The threshold at which people start paying the higher income tax rate is also expected to increase.",
+   "link": "https://www.bbc.co.uk/news/articles/c9kgjn3zng1ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-06T05:30:06.000Z",
+   "place": {
+    "name": "Ireland",
+    "country": "Ireland",
+    "iso": "IE",
+    "lat": 53.16,
+    "lon": -8.14,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "budget",
+      "tax"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "3e95036bc750",
+   "title": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+   "summary": "Saudi aviation authority reports severe injuries and damage following Houthi strikes on Jazan and Najran airports.",
+   "link": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
+   "source": "Al Jazeera",
+   "published": "2026-10-06T10:47:54.000Z",
+   "place": {
+    "name": "Saudi Arabia",
+    "country": "Saudi Arabia",
+    "iso": "SA",
+    "lat": 24.09,
+    "lon": 44.67,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Yemen"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "border"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Saudi Arabia?"
+   ],
+   "conflict": true,
+   "score": 3.3,
+   "alsoIn": []
+  },
+  {
+   "id": "e0fecada5899",
+   "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+   "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-06T06:53:17.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "company"
+     ]
+    }
+   },
+   "topics": [],
+   "terms": [],
+   "questions": [
+    "Which SEEP themes does this story cover, and which is most important?",
+    "How might this story affect people in Australia and elsewhere?"
+   ],
+   "conflict": false,
+   "score": 3,
+   "alsoIn": []
+  },
+  {
+   "id": "275d5564c6a6",
+   "title": "Extreme heat warnings issued for parts of southern California",
+   "summary": "Temperatures in US state forecast to hit high 30s celsius this week, while regions in Indonesia grapple with wildfires",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/extreme-heat-warnings-southern-california",
+   "source": "The Guardian",
+   "published": "2026-10-05T08:20:52.000Z",
+   "place": {
+    "name": "California",
+    "country": "United States",
+    "iso": "US",
+    "lat": 37,
+    "lon": -120,
+    "precision": "place",
+    "confidence": 0.5375000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildfire",
+      "temperature"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Heatwave",
+    "Wildfire"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "How could United States’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 3,
+   "alsoIn": []
+  }
+ ]
+}
