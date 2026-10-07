@@ -1,0 +1,1261 @@
+{
+ "date": "2026-10-07",
+ "generated": "2026-10-07T14:39:01.133Z",
+ "count": 27,
+ "stories": [
+  {
+   "id": "ba75a2cad5fe",
+   "title": "From drought to deluge: ‘Super’ El Niño’s expanding reach",
+   "summary": "Across Papua New Guinea, water sources are drying up, crops are failing and food prices are rising months before the worst agricultural impacts are expected.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168537",
+   "source": "UN News",
+   "published": "2026-10-06T12:00:00.000Z",
+   "place": {
+    "name": "Papua New Guinea",
+    "country": "Papua New Guinea",
+    "iso": "PG",
+    "lat": -6.6,
+    "lon": 144.23,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "drought",
+      "ocean"
+     ],
+     "E": [
+      "prices",
+      "crop",
+      "agricultur"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "climate",
+    "hazards"
+   ],
+   "terms": [
+    "Climate change",
+    "Drought",
+    "El Niño"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 12.5,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "b40352b922c6",
+   "title": "New Zealand greenhouse gas levels hit record highs threatening catastrophic glacier melts",
+   "summary": "Government report finds the country could be hit with more frequent and intense heatwaves, as well as damaging storms and cyclones",
+   "link": "https://www.theguardian.com/world/2026/oct/07/new-zealand-greenhouse-gas-record-high-threatening-catastrophic-glacier-melts-climate",
+   "source": "The Guardian",
+   "published": "2026-10-06T23:11:27.000Z",
+   "place": {
+    "name": "New Zealand",
+    "country": "New Zealand",
+    "iso": "NZ",
+    "lat": -41.5,
+    "lon": 172.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "greenhouse",
+      "heatwave",
+      "cyclone"
+     ],
+     "E": [
+      "gas"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "climate",
+    "resources"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Extreme weather",
+    "Glacier",
+    "Heatwave"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in New Zealand?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 12.4,
+   "alsoIn": []
+  },
+  {
+   "id": "ceb3ba91ea07",
+   "title": "Heatstroke ruined his health. Years before, it took the life of another farm worker at the same company",
+   "summary": "A farm labor contractor exposed laborers on H-2A agricultural visas to heat-related health hazards, but is still bringing hundreds of migrant farm workers to North Carolina",
+   "link": "https://www.theguardian.com/environment/ng-interactive/2026/oct/07/north-carolina-farm-workers-disability-health-heat",
+   "source": "The Guardian",
+   "published": "2026-10-07T11:00:08.000Z",
+   "place": {
+    "name": "North Carolina",
+    "country": "United States",
+    "iso": "US",
+    "lat": 35.6,
+    "lon": -79.4,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "labor",
+      "farm",
+      "company"
+     ],
+     "S": [
+      "migra",
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "development",
+    "migration"
+   ],
+   "terms": [
+    "Hazard",
+    "Migration"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "What does this story suggest about quality of life in United States?"
+   ],
+   "conflict": false,
+   "score": 10.3,
+   "alsoIn": []
+  },
+  {
+   "id": "3fc86c1097bf",
+   "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
+   "summary": "Inquest under way into why President Lula’s success in curbing Amazon deforestation has not lead to success at polls",
+   "link": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+   "source": "The Guardian",
+   "published": "2026-10-07T12:03:52.000Z",
+   "place": {
+    "name": "Amazon",
+    "country": "Brazil",
+    "iso": "BR",
+    "lat": -4,
+    "lon": -62,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "deforest"
+     ],
+     "P": [
+      "president",
+      "election"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "ecosystems",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change",
+    "Deforestation"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": false,
+   "score": 9.2,
+   "alsoIn": []
+  },
+  {
+   "id": "e4555b04a121",
+   "title": "South West Water owner taps investors to fix infrastructure after sewage spills",
+   "summary": "Pennon slashes dividend and launches £550m cash call ‘to drive improved outcomes for customers and communities’",
+   "link": "https://www.theguardian.com/business/2026/oct/07/south-west-water-owner-taps-investors-to-fix-infrastructure-after-sewage-spills",
+   "source": "The Guardian",
+   "published": "2026-10-07T14:14:35.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "sewage"
+     ],
+     "E": [
+      "invest",
+      "infrastructure"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Infrastructure",
+    "Pollution"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 8,
+   "alsoIn": []
+  },
+  {
+   "id": "640d3ec36fbc",
+   "title": "Israeli demolition in East Jerusalem displaces 69 Palestinians",
+   "summary": "Sixty-nine Palestinians – more than half of them children – were displaced on Tuesday after Israeli authorities green lit the demolition of their residential building in the At Tur area of East Jerusalem, the UN aid coordination office (OCHA) has reported.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168539",
+   "source": "UN News",
+   "published": "2026-10-06T12:00:00.000Z",
+   "place": {
+    "name": "Jerusalem, Israel",
+    "country": "Israel",
+    "iso": "IL",
+    "lat": 31.77,
+    "lon": 35.22,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "displac",
+      "children"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Aid",
+    "Displacement"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What does this story suggest about quality of life in Israel?"
+   ],
+   "conflict": false,
+   "score": 7.5,
+   "alsoIn": []
+  },
+  {
+   "id": "05b2504acba1",
+   "title": "Separatists win in Quebec – but does that bring separation from Canada any closer?",
+   "summary": "Lack of majority for Parti Québécois puts any referendum in doubt, especially amid bruising trade war with Trump",
+   "link": "https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis",
+   "source": "The Guardian",
+   "published": "2026-10-07T11:00:08.000Z",
+   "place": {
+    "name": "Quebec",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 52,
+    "lon": -72,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "referendum",
+      "separatis",
+      "war"
+     ],
+     "E": [
+      "trade"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 7.5,
+   "alsoIn": []
+  },
+  {
+   "id": "100f86b902ef",
+   "title": "Half the harvest, twice the bills: how drought hit farms",
+   "summary": "Farmers gathered much less wheat in 2026 and dairy farmers' costs rose.",
+   "link": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-07T05:22:52.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "harvest",
+      "farm"
+     ],
+     "En": [
+      "drought"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "hazards"
+   ],
+   "terms": [
+    "Drought",
+    "Rural"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "What might the primary and secondary effects of this event be in the places involved?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "2c798beb7929",
+   "title": "Djibouti faces ‘overlapping emergencies’ as Yemen’s refugee exodus continues",
+   "summary": "Djibouti is facing “overlapping emergencies” as refugees fleeing the conflict in Yemen arrive on its shores while migrants continue to travel in the opposite direction, the UN migration agency (IOM) warned on Tuesday.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168535",
+   "source": "UN News",
+   "published": "2026-10-06T12:00:00.000Z",
+   "place": {
+    "name": "Djibouti",
+    "country": "Djibouti",
+    "iso": "DJ",
+    "lat": 11.75,
+    "lon": 42.56,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Yemen"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "refugee"
+     ],
+     "P": [
+      "un",
+      "conflict"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "geopolitics"
+   ],
+   "terms": [
+    "Migration",
+    "Refugee"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6.7,
+   "alsoIn": []
+  },
+  {
+   "id": "69c4b52acbfb",
+   "title": "Trump-backed Ken Paxton reportedly blames Iran war and high gas prices for midterms struggles as president heads to Texas – live",
+   "summary": "Leaked audio shows state’s attorney general tell fundraiser affordability is his campaign’s biggest problem; Trump due to speak in Texas on Wednesday",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-10-07T14:01:10.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "prices",
+      "gas"
+     ],
+     "P": [
+      "president",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 6.6,
+   "alsoIn": []
+  },
+  {
+   "id": "3066a27b4c27",
+   "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
+   "summary": "The boss of the Norwegian state company says further investment in the UK could be at risk if Rosebank and Jackdaw are not approved.",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-06T23:01:13.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.5,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "invest",
+      "oil",
+      "gas"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "59b4f581f7e0",
+   "title": "Overseas, Albanese sees ‘the very definition of climate injustice’ – but at home, he still wants coal",
+   "summary": "It isn’t hard to see a contradiction between the PM’s message in Fiji and his opposition to legal action to stop a NSW coalmine",
+   "link": "https://www.theguardian.com/environment/2026/oct/08/overseas-albanese-sees-the-very-definition-of-climate-injustice-but-at-home-he-still-wants-coal",
+   "source": "The Guardian",
+   "published": "2026-10-07T14:00:52.000Z",
+   "place": {
+    "name": "Fiji",
+    "country": "Fiji",
+    "iso": "FJ",
+    "lat": -17.82,
+    "lon": 177.97,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "coal"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "climate"
+   ],
+   "terms": [
+    "Climate change",
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "efce2a872892",
+   "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
+   "summary": "The UN Secretary-General appealed on Tuesday for an end to the United States-Iran war and the toll it has taken on global trade, as he began an official visit to Pakistan.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168532",
+   "source": "UN News",
+   "published": "2026-10-06T12:00:00.000Z",
+   "place": {
+    "name": "Islamabad, Pakistan",
+    "country": "Pakistan",
+    "iso": "PK",
+    "lat": 33.72,
+    "lon": 73.04,
+    "precision": "place",
+    "confidence": 1,
+    "also": [
+     "Iran"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "un",
+      "conflict",
+      "war"
+     ],
+     "E": [
+      "trade"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": true,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "4351110ba100",
+   "title": "Yorkshire Water admits sewage scheme falls short",
+   "summary": "The firm says the scheme to reduce storm overflow discharges has not performed as expected.",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg070l39yro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-07T12:14:49.000Z",
+   "place": {
+    "name": "Yorkshire",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 54,
+    "lon": -1.5,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "storm",
+      "sewage"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Pollution"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "9ea819ccf31a",
+   "title": "More than 184,000 displaced as fighting intensifies in Yemen",
+   "summary": "Intense fighting in Yemen has forced more than 184,000 people from their homes since the start of August, most of them since early September, the UN migration agency (IOM) said on Monday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168528",
+   "source": "UN News",
+   "published": "2026-10-05T12:00:00.000Z",
+   "place": {
+    "name": "Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 15.94,
+    "lon": 47.52,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "displac",
+      "migra"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "geopolitics"
+   ],
+   "terms": [
+    "Displacement",
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "1fd3dacb6641",
+   "title": "Photos: Three years of Israel’s war on Gaza as tent cities spread amid ruin",
+   "summary": "Tent cities in Gaza grow as families mourn the dead, care for the injured, and endure relentless displacement.",
+   "link": "https://www.aljazeera.com/gallery/2026/10/7/photos-three-years-of-israels-war-on-gaza-as-tent-cities-spread-amid-ruin",
+   "source": "Al Jazeera",
+   "published": "2026-10-07T09:55:26.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Israel"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "displac"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "migration",
+    "geopolitics"
+   ],
+   "terms": [
+    "Displacement"
+   ],
+   "questions": [
+    "What challenges does urban growth create in Palestine?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": true,
+   "score": 5.6,
+   "alsoIn": []
+  },
+  {
+   "id": "99ccbb710fc4",
+   "title": "‘Ebola takes the people children depend on’: UNICEF",
+   "summary": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) is robbing children of their loved ones – with some succumbing to the deadly disease themselves – the UN Children’s Fund (UNICEF) reported on Tuesday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168531",
+   "source": "UN News",
+   "published": "2026-10-06T12:00:00.000Z",
+   "place": {
+    "name": "Democratic Republic of the Congo",
+    "country": "Democratic Republic of the Congo",
+    "iso": "CD",
+    "lat": -2.87,
+    "lon": 23.64,
+    "precision": "country",
+    "confidence": 0.5,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "outbreak",
+      "disease",
+      "children"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Democratic Republic of the Congo?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "9d387e0b45fe",
+   "title": "EU negotiators head to China hoping to curb cheap imports of hybrid electric cars",
+   "summary": "Mood in trade talks said to have changed as EU member states harden demands for protection against Chinese imports",
+   "link": "https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars",
+   "source": "The Guardian",
+   "published": "2026-10-07T04:00:34.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "import",
+      "trade"
+     ],
+     "P": [
+      "negotiat",
+      "talks",
+      "eu"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.4,
+   "alsoIn": []
+  },
+  {
+   "id": "92abe3e1378e",
+   "title": "‘Now is the moment’: housing activists at Madrid encampment pin wary hopes on Spain’s early election",
+   "summary": "Campaigners set up in more than 1,200 tents in Puerto del Sol square say challenge now is to translate a groundswell of public support into concrete change",
+   "link": "https://www.theguardian.com/world/2026/oct/07/housing-activists-madrid-encampment-hopes-spain-early-election",
+   "source": "The Guardian",
+   "published": "2026-10-07T12:43:36.000Z",
+   "place": {
+    "name": "Madrid, Spain",
+    "country": "Spain",
+    "iso": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "housing"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in Spain?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "2788c342845f",
+   "title": "Critical funding gap threatens health response in Yemen",
+   "summary": "The World Health Organization (WHO) warned that significantly more resources are required to scale up its response in Yemen amid escalating conflict and rising needs.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168541",
+   "source": "UN News",
+   "published": "2026-10-07T12:00:00.000Z",
+   "place": {
+    "name": "Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 15.94,
+    "lon": 47.52,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Natural resources"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Yemen?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.2,
+   "alsoIn": []
+  },
+  {
+   "id": "022251499424",
+   "title": "Five reasons India's stock market is sinking even when its economy is growing",
+   "summary": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-05T23:13:11.000Z",
+   "place": {
+    "name": "India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 22.8,
+    "lon": 79.53,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "stock",
+      "market"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "cff9ee583d65",
+   "title": "Coalition MPs concede immigration pledge not fully costed by independent watchdog",
+   "summary": "Angus Taylor says opposition ‘worked closely’ with Parliamentary Budget Office but Liberal sources say it has not yet conducted a full analysis of the policy",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/07/angus-taylor-coalition-immigration-policy-not-fully-costed-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-10-07T06:52:45.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "coal"
+     ],
+     "P": [
+      "parliament",
+      "policy",
+      "opposition"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Migration"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4.9,
+   "alsoIn": []
+  },
+  {
+   "id": "e0ef7bdc55a5",
+   "title": "Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026",
+   "summary": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA.",
+   "link": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-07T13:21:53.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "tropical storm",
+      "hurricane",
+      "el niño"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "El Niño",
+    "Tropical storm"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "How could United States’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": [
+    "The Guardian"
+   ]
+  },
+  {
+   "id": "a4a3ca80b24c",
+   "title": "Testing and monitoring underway in suspected Russia plague death",
+   "summary": "The death of a lab worker in Russia’s Siberia region has sparked concerns over a possible plague case, the UN World Health Organization (WHO) said on Tuesday, adding that it was following the situation closely.&nbsp;&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168533",
+   "source": "UN News",
+   "published": "2026-10-06T12:00:00.000Z",
+   "place": {
+    "name": "Siberia",
+    "country": "Russia",
+    "iso": "RU",
+    "lat": 62,
+    "lon": 100,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Russia?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.7,
+   "alsoIn": []
+  },
+  {
+   "id": "4056fc9a150a",
+   "title": "‘The clock on AI regulation is ticking’, warns UN rights chief",
+   "summary": "The world is running out of time to put guardrails on artificial intelligence, UN High Commissioner for Human Rights Volker Türk warned Monday, as a “ruthless race” between companies and countries raises concerns about human safety and even humanity’s survival.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168529",
+   "source": "UN News",
+   "published": "2026-10-05T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "regulation",
+      "un",
+      "human rights"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Human rights"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in the places involved?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "1e690309c128",
+   "title": "Japanese city accused of inflating census as country's population shrinks",
+   "summary": "As a result, Toyama city may have received more funding from the central government than it should have.",
+   "link": "https://www.bbc.co.uk/news/articles/cwg7xgpv7v17o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-07T03:57:54.000Z",
+   "place": {
+    "name": "Japan",
+    "country": "Japan",
+    "iso": "JP",
+    "lat": 36.63,
+    "lon": 137.88,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "census",
+      "population"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "urban"
+   ],
+   "terms": [
+    "Population growth"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What challenges does urban growth create in Japan?"
+   ],
+   "conflict": false,
+   "score": 3.9,
+   "alsoIn": []
+  },
+  {
+   "id": "45d4efe9d587",
+   "title": "Reform, or lose trust: Governments press the UN to reflect the world as it is",
+   "summary": "Can the UN still remain relevant if it still looks and acts like the organization it was when it was formed in 1945? The debate over UN reform at the General Assembly in New York last month produced a striking common refrain from a diverse range of Member States.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168540",
+   "source": "UN News",
+   "published": "2026-10-07T12:00:00.000Z",
+   "place": {
+    "name": "New York, United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 40.71,
+    "lon": -74,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "government",
+      "un"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in United States?"
+   ],
+   "conflict": false,
+   "score": 3.6,
+   "alsoIn": []
+  }
+ ]
+}
