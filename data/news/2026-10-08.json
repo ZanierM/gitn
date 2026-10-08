@@ -1,0 +1,1109 @@
+{
+ "date": "2026-10-08",
+ "generated": "2026-10-08T14:46:42.931Z",
+ "count": 25,
+ "stories": [
+  {
+   "id": "a8032e889e11",
+   "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
+   "summary": "Years of conflict, displacement, economic disruption and climate shocks in Myanmar have led to the “simultaneous collapse” of shelter, healthcare, schooling and livelihoods affecting millions of people, the UN Development Programme (UNDP) said in a report issued on Thursday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168550",
+   "source": "UN News",
+   "published": "2026-10-08T12:00:00.000Z",
+   "place": {
+    "name": "Myanmar",
+    "country": "Myanmar",
+    "iso": "MM",
+    "lat": 21.15,
+    "lon": 96.49,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E",
+     "En",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "displac",
+      "health",
+      "poverty"
+     ],
+     "E": [
+      "econom"
+     ],
+     "En": [
+      "climate"
+     ],
+     "P": [
+      "un",
+      "conflict"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics",
+    "climate"
+   ],
+   "terms": [
+    "Climate change",
+    "Development",
+    "Displacement",
+    "Natural resources"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Myanmar?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 15.2,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "84d1f6ea9596",
+   "title": "Landslides, flash floods and raging seas: is California ready for the ravages of El Niño?",
+   "summary": "A mix of natural disasters could all befall the state at once as it finds itself in the crosshairs of the climate phenomenon",
+   "link": "https://www.theguardian.com/us-news/2026/oct/07/california-el-nino-preparedness",
+   "source": "The Guardian",
+   "published": "2026-10-07T14:30:52.000Z",
+   "place": {
+    "name": "California",
+    "country": "United States",
+    "iso": "US",
+    "lat": 37,
+    "lon": -120,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "flood",
+      "landslide"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "climate"
+   ],
+   "terms": [
+    "Climate change",
+    "El Niño",
+    "Flooding",
+    "Hazard"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 9.8,
+   "alsoIn": []
+  },
+  {
+   "id": "6547a39cd849",
+   "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+   "summary": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+   "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-07T23:10:13.000Z",
+   "place": {
+    "name": "Alberta",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 55,
+    "lon": -115,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "oil"
+     ],
+     "P": [
+      "vote",
+      "referendum",
+      "independence"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 9.5,
+   "alsoIn": []
+  },
+  {
+   "id": "da91d40a7fea",
+   "title": "One green shoot at a time: the women restoring mangrove forests in the oil-ravaged Niger delta",
+   "summary": "In a region of Nigeria blighted by decades of pollution, Martha Agbani and her team are not just replanting trees but regaining ownership of their lost lands and livelihoods",
+   "link": "https://www.theguardian.com/global-development/2026/oct/02/one-green-shoot-at-a-time-the-women-restoring-mangrove-forests-in-the-oil-ravaged-niger-delta",
+   "source": "The Guardian",
+   "published": "2026-10-02T08:00:14.000Z",
+   "place": {
+    "name": "Niger",
+    "country": "Niger",
+    "iso": "NE",
+    "lat": 17.41,
+    "lon": 9.33,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "forest",
+      "pollution"
+     ],
+     "S": [
+      "women"
+     ],
+     "E": [
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Pollution"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 9,
+   "alsoIn": []
+  },
+  {
+   "id": "3f7fcaf242d7",
+   "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
+   "summary": "Global bond market sell-off continues and stocks fall amid reports White House has asked to see options for more strikes against Iran",
+   "link": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
+   "source": "The Guardian",
+   "published": "2026-10-08T11:11:47.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.375,
+    "also": [
+     "Iran"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "prices",
+      "oil",
+      "market"
+     ],
+     "En": [
+      "hurricane"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Tropical storm"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 7.8,
+   "alsoIn": []
+  },
+  {
+   "id": "9782fbb9225f",
+   "title": "‘Cancer is tripling and will keep increasing’: first African to lead global action against disease ready for battle",
+   "summary": "With cancer cases rising fastest in poorer countries, Zainab Shinkafi-Bagudu, president-elect of the Union for International Cancer Control, says Africa needs investment in research, diagnosis and prevention",
+   "link": "https://www.theguardian.com/global-development/2026/oct/08/health-cancer-zainab-shinkafi-bagudu-africa-uicc-global-south",
+   "source": "The Guardian",
+   "published": "2026-10-08T09:00:15.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "disease"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.9,
+   "alsoIn": []
+  },
+  {
+   "id": "f4680bf1418f",
+   "title": "Hygiene poverty at tipping point, charity warns",
+   "summary": "The BBC hears people \"you would not expect\" can no longer afford items to be clean and healthy.",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyv502k441o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-08T05:05:42.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health",
+      "poverty"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [
+    "Poverty"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "7475b2a66ac8",
+   "title": "Can Sánchez convince Spanish voters he is their best hope for fairer housing?",
+   "summary": "Recent death of 87-year-old woman likely to focus attention on crisis in run-up to election at end of November",
+   "link": "https://www.theguardian.com/world/2026/oct/08/pedro-sanchez-spanish-voters-housing-crisis-analysis",
+   "source": "The Guardian",
+   "published": "2026-10-08T12:16:06.000Z",
+   "place": {
+    "name": "Spain",
+    "country": "Spain",
+    "iso": "ES",
+    "lat": 40.37,
+    "lon": -3.57,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "housing"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in Spain?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "d90484130f5b",
+   "title": "Residents airlifted to safety after flooding in central Chile",
+   "summary": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+   "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-08T11:31:22.000Z",
+   "place": {
+    "name": "Chile",
+    "country": "Chile",
+    "iso": "CL",
+    "lat": -33.5,
+    "lon": -70.7,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "river"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Chile?",
+    "How could Chile’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "2909046f239b",
+   "title": "Ukraine: UN condemns latest attacks and calls for civilian protection",
+   "summary": "The UN Humanitarian Coordinator for Ukraine on Wednesday&nbsp;called for an end to attacks against civilians following further overnight strikes by Russian forces that reportedly killed at least 19 in the Chernihiv Region.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168548",
+   "source": "UN News",
+   "published": "2026-10-07T12:00:00.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "humanitarian"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "development"
+   ],
+   "terms": [
+    "Humanitarian crisis"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "What does this story suggest about quality of life in Ukraine?"
+   ],
+   "conflict": true,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "abd4d1dc8bef",
+   "title": "UK bluefin tuna comeback shows nature can recover, says WWF",
+   "summary": "The tuna is one of several wildlife recoveries highlighted in a major new report from WWF.",
+   "link": "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-08T05:00:04.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildlife",
+      "nature"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How could this environment be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "5a9529dd43f3",
+   "title": "Italian law to give election winners bonus seats: Why that’s controversial",
+   "summary": "Critics say the proposed law is undemocratic, potentially granting a winning coalition outsized power in parliament.",
+   "link": "https://www.aljazeera.com/news/2026/10/8/italian-law-to-give-election-winners-bonus-seats-why-thats-controversial",
+   "source": "Al Jazeera",
+   "published": "2026-10-08T12:10:32.000Z",
+   "place": {
+    "name": "Italy",
+    "country": "Italy",
+    "iso": "IT",
+    "lat": 43.49,
+    "lon": 12.3,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "parliament",
+      "election",
+      "law"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.9,
+   "alsoIn": []
+  },
+  {
+   "id": "93ab939aaa9b",
+   "title": "No child should have to learn in a cold classroom - children's commissioner",
+   "summary": "The EA suggests cost-saving measures as it warns school gas and electricity bills are set to rise.",
+   "link": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-07T17:15:26.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "gas"
+     ],
+     "S": [
+      "school",
+      "children"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "3729dd4c28b1",
+   "title": "How toxic haze is causing Singapore’s landmarks to disappear",
+   "summary": "The BBC’s Tessa Wong breaks down how one of Indonesia’s worst wildfire seasons is impacting countries around South East Asia.",
+   "link": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-07T22:10:20.000Z",
+   "place": {
+    "name": "Singapore",
+    "country": "Singapore",
+    "iso": "SG",
+    "lat": 1.36,
+    "lon": 103.82,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildfire",
+      "toxic"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Pollution",
+    "Wildfire"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Singapore?",
+    "How could Singapore’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "2800c70e1c40",
+   "title": "Kenya races to trace all contacts after first Ebola death, WHO official says",
+   "summary": "Kenya’s first Ebola death has triggered a race to trace everyone the victim came into contact with, as the United Nations and partners provide full support, the World Health Organization’s (WHO) top official in the country has told UN News in her first interview on the case.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168542",
+   "source": "UN News",
+   "published": "2026-10-07T12:00:00.000Z",
+   "place": {
+    "name": "Kenya",
+    "country": "Kenya",
+    "iso": "KE",
+    "lat": 0.6,
+    "lon": 37.8,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "development"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "What does this story suggest about quality of life in Kenya?"
+   ],
+   "conflict": false,
+   "score": 4.7,
+   "alsoIn": []
+  },
+  {
+   "id": "39acd3e42aa2",
+   "title": "Indonesia accused of ‘gross negligence’ in wildfires lawsuit as haze tests region",
+   "summary": "NGOs in Indonesian Borneo file class action lawsuit calling for government to better manage annual fires and",
+   "link": "https://www.theguardian.com/world/2026/oct/08/indonesia-wildfires-gross-negligence-lawsuit-haze-region",
+   "source": "The Guardian",
+   "published": "2026-10-08T03:54:09.000Z",
+   "place": {
+    "name": "Borneo",
+    "country": "Indonesia",
+    "iso": "ID",
+    "lat": 0.5,
+    "lon": 114,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildfire"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Wildfire"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Indonesia?",
+    "How could Indonesia’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "988faeeda928",
+   "title": "Stockpile food – and wash your hands: is that really how to prepare for environmental catastrophe? | George Monbiot",
+   "summary": "The UK state is dumping its responsibilities on our doorsteps, while green-lighting policies that lead us closer to crisis",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/08/stockpile-food-wash-hands-how-to-prepare-environmental-catastrophe",
+   "source": "The Guardian",
+   "published": "2026-10-08T05:00:10.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "environment"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "907cf36647ad",
+   "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+   "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins",
+   "link": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+   "source": "The Guardian",
+   "published": "2026-10-02T08:55:42.000Z",
+   "place": {
+    "name": "Cairo, Egypt",
+    "country": "Egypt",
+    "iso": "EG",
+    "lat": 30.06,
+    "lon": 31.25,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "erupt"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Volcano"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Egypt?",
+    "How could Egypt’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "4f5afb6271ed",
+   "title": "‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins",
+   "summary": "People tell of lives changed beyond recognition after the 7 October attacks by Hamas three years ago and the subsequent Israeli offensive",
+   "link": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
+   "source": "The Guardian",
+   "published": "2026-10-07T21:00:01.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "disease"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Palestine?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "c05bf7bd4d9f",
+   "title": "World News in Brief: Child migrants in Europe, Greenland forced contraception scandal, FAO hunger updates",
+   "summary": "New&nbsp;data on child migrants published on Wednesday highlighted the harrowing treatment many face while travelling to Europe in search of work and shelter.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168546",
+   "source": "UN News",
+   "published": "2026-10-07T12:00:00.000Z",
+   "place": {
+    "name": "Greenland",
+    "country": "Greenland",
+    "iso": "GL",
+    "lat": 73.08,
+    "lon": -41.8,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "migra",
+      "hunger"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "development"
+   ],
+   "terms": [
+    "Food security",
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What does this story suggest about quality of life in Greenland?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "e6a5e8aa0969",
+   "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+   "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
+   "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-07T23:50:29.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "prices",
+      "fuel prices"
+     ]
+    }
+   },
+   "topics": [],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Which SEEP themes does this story cover, and which is most important?",
+    "How might this story affect people in the places involved and elsewhere?"
+   ],
+   "conflict": false,
+   "score": 4.4,
+   "alsoIn": []
+  },
+  {
+   "id": "0566d4fc5698",
+   "title": "As monarch butterflies migrate for the fall, meet the Chicago woman trying to protect them",
+   "summary": "Claudia Galeno-Sánchez has turned her home into a sanctuary for the insects by planting native milkweed and wildflowers – and sharing her experience",
+   "link": "https://www.theguardian.com/artanddesign/2026/oct/08/monarch-butterflies-chicago-garden",
+   "source": "The Guardian",
+   "published": "2026-10-08T11:00:18.000Z",
+   "place": {
+    "name": "Chicago, United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 41.85,
+    "lon": -87.65,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "migra"
+     ]
+    }
+   },
+   "topics": [
+    "migration"
+   ],
+   "terms": [
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What are the impacts on the places people leave and the places they move to?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "1055eeb41697",
+   "title": "July 2026 was worst on record for wildfires in England, data shows",
+   "summary": "Devastating blaze near Sizewell B nuclear power station in Suffolk among a record 624 wildfires in July this year",
+   "link": "https://www.theguardian.com/world/2026/oct/08/july-record-wildfires-england-data-shows",
+   "source": "The Guardian",
+   "published": "2026-10-08T10:34:34.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildfire"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Wildfire"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United Kingdom?",
+    "How could United Kingdom’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "30597102532b",
+   "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+   "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-08T12:32:12.000Z",
+   "place": {
+    "name": "Italy",
+    "country": "Italy",
+    "iso": "IT",
+    "lat": 43.49,
+    "lon": 12.3,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "minister",
+      "government",
+      "election"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Italy?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "9b1bd9d70d04",
+   "title": "A separatist party just won power in Quebec - what does that mean?",
+   "summary": "Canada's Parti Québécois has promised it will hold the province's third vote on independence, but said they won’t do so until Donald Trump is out of office.",
+   "link": "https://www.bbc.co.uk/news/videos/cjr4yl39pg4ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-06T18:23:58.000Z",
+   "place": {
+    "name": "Quebec",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 52,
+    "lon": -72,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "vote",
+      "separatis",
+      "independence"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Canada?"
+   ],
+   "conflict": false,
+   "score": 3.3,
+   "alsoIn": []
+  }
+ ]
+}
