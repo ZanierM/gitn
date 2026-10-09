@@ -1,0 +1,1025 @@
+{
+ "date": "2026-10-09",
+ "generated": "2026-10-09T14:29:12.992Z",
+ "count": 22,
+ "stories": [
+  {
+   "id": "8d601a294089",
+   "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
+   "summary": "More than 700,000 displaced people in Tawila, in Sudan’s war-ravaged Darfur region, face severe shortages of healthcare, food, water and protection, the UN World Health Organization (WHO) warned on Thursday as it called for an urgent increase in resources.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168556",
+   "source": "UN News",
+   "published": "2026-10-08T12:00:00.000Z",
+   "place": {
+    "name": "Darfur",
+    "country": "Sudan",
+    "iso": "SD",
+    "lat": 13.5,
+    "lon": 24,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "displac",
+      "health"
+     ],
+     "P": [
+      "sanction",
+      "un",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics",
+    "resources"
+   ],
+   "terms": [
+    "Displacement",
+    "Natural resources",
+    "Sanctions"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Sudan?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 10.5,
+   "alsoIn": []
+  },
+  {
+   "id": "fe7026260662",
+   "title": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
+   "summary": "Commissioner Stéphane Séjourné says bloc will support 46 strategic projects including lithium and rare earths plants",
+   "link": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
+   "source": "The Guardian",
+   "published": "2026-10-09T13:31:04.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "trade",
+      "mineral",
+      "lithium"
+     ],
+     "P": [
+      "eu",
+      "war",
+      "trade war"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Natural resources",
+    "Trade"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": true,
+   "score": 10.4,
+   "alsoIn": []
+  },
+  {
+   "id": "4dd2e0821eea",
+   "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
+   "summary": "As world leaders prepare for November’s major&nbsp;COP31 climate summit in Türkiye, record-breaking heat, devastating floods and an unprecedented El Niño climate pattern are making global climate action ever more urgent.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168555",
+   "source": "UN News",
+   "published": "2026-10-08T12:00:00.000Z",
+   "place": {
+    "name": "Türkiye",
+    "country": "Türkiye",
+    "iso": "TR",
+    "lat": 39.06,
+    "lon": 35.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "flood",
+      "el niño"
+     ],
+     "P": [
+      "summit",
+      "un",
+      "cop3"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics",
+    "hazards"
+   ],
+   "terms": [
+    "Climate change",
+    "El Niño",
+    "Flooding"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 10.4,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "1c082a291094",
+   "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
+   "summary": "UN human rights chief Volker Türk said on Thursday he was appalled by a wave of attacks that have killed civilians across Ukraine over the past four days.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168557",
+   "source": "UN News",
+   "published": "2026-10-08T12:00:00.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "En",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "health"
+     ],
+     "En": [
+      "flood"
+     ],
+     "P": [
+      "un",
+      "human rights"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Flooding",
+    "Human rights"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Ukraine?",
+    "What does this story suggest about quality of life in Ukraine?"
+   ],
+   "conflict": true,
+   "score": 9.2,
+   "alsoIn": []
+  },
+  {
+   "id": "768fd9674b6a",
+   "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
+   "summary": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday.",
+   "link": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-08T19:39:32.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "heavy rain",
+      "hurricane",
+      "weather"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "Tropical storm"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in the places involved?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 8.8,
+   "alsoIn": []
+  },
+  {
+   "id": "1e0996e9dc2f",
+   "title": "AI and the climate crisis pose existential risks. The law offers a way to reduce them | Robert Reich",
+   "summary": "Liability lawsuits have held tobacco, oil and pharma companies to account in the past. AI investors won’t ignore this threat",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/09/ai-climate-change-liability-lawsuits",
+   "source": "The Guardian",
+   "published": "2026-10-09T11:00:26.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "E": [
+      "invest",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Climate change",
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 8.8,
+   "alsoIn": []
+  },
+  {
+   "id": "bece2b5cb230",
+   "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+   "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+   "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-09T08:28:57.000Z",
+   "place": {
+    "name": "South Africa",
+    "country": "South Africa",
+    "iso": "ZA",
+    "lat": -28.97,
+    "lon": 25.19,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "En"
+    ],
+    "why": {
+     "S": [
+      "migra",
+      "outbreak"
+     ],
+     "En": [
+      "erupt"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "hazards",
+    "development"
+   ],
+   "terms": [
+    "Migration",
+    "Volcano"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What might the primary and secondary effects of this event be in South Africa?"
+   ],
+   "conflict": false,
+   "score": 8.5,
+   "alsoIn": []
+  },
+  {
+   "id": "f3d80bae88ad",
+   "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+   "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding",
+   "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+   "source": "The Guardian",
+   "published": "2026-10-09T09:59:06.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "hurricane",
+      "storm"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding",
+    "Tropical storm"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "How could United States’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 7.8,
+   "alsoIn": []
+  },
+  {
+   "id": "a047290d95e8",
+   "title": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
+   "summary": "‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in Fiji",
+   "link": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
+   "source": "The Guardian",
+   "published": "2026-10-09T12:00:28.000Z",
+   "place": {
+    "name": "Fiji",
+    "country": "Fiji",
+    "iso": "FJ",
+    "lat": -17.82,
+    "lon": 177.97,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": [
+     "Türkiye"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "P": [
+      "minister",
+      "summit",
+      "cop3"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 7.4,
+   "alsoIn": []
+  },
+  {
+   "id": "df0f29cbb2d1",
+   "title": "Revealed: the ‘black box’ wastewater trade that rakes in millions for UK utility companies",
+   "summary": "Exclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutants",
+   "link": "https://www.theguardian.com/environment/2026/oct/09/uk-water-companies-industrial-commercial-wastewater-sewage-treatment",
+   "source": "The Guardian",
+   "published": "2026-10-09T05:00:39.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "trade",
+      "industr",
+      "firms"
+     ],
+     "En": [
+      "sewage",
+      "pollut"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Pollution",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 7.3,
+   "alsoIn": []
+  },
+  {
+   "id": "e641b0eab603",
+   "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+   "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+   "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-08T19:10:06.000Z",
+   "place": {
+    "name": "Madrid, Spain",
+    "country": "Spain",
+    "iso": "ES",
+    "lat": 40.42,
+    "lon": -3.7,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "housing",
+      "protest"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in Spain?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 7.1,
+   "alsoIn": []
+  },
+  {
+   "id": "a5b4d0b3584d",
+   "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
+   "summary": "Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again",
+   "link": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
+   "source": "The Guardian",
+   "published": "2026-10-06T05:00:02.000Z",
+   "place": {
+    "name": "Tigray",
+    "country": "Ethiopia",
+    "iso": "ET",
+    "lat": 14,
+    "lon": 38.8,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "En"
+    ],
+    "why": {
+     "P": [
+      "conflict",
+      "alliance"
+     ],
+     "En": [
+      "erupt"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "geopolitics"
+   ],
+   "terms": [
+    "Volcano"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Ethiopia?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "7eb5d886eef3",
+   "title": "Data centre raises noise and wildlife impact fears",
+   "summary": "The data centre, which will have 72 chiller units on its roof, will generate 150 jobs, planners hear.",
+   "link": "https://www.bbc.co.uk/news/articles/c5n49x09e3l9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-09T05:30:42.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildlife"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "7dddcf3f0871",
+   "title": "Malaysia shuts schools as haze from Indonesian fires chokes Southeast Asia",
+   "summary": "Kuala Lumpur's Air Pollutant Index says air quality at unhealthy levels amid smog from forest fires.",
+   "link": "https://www.aljazeera.com/news/2026/10/9/malaysia-shuts-schools-as-haze-from-indonesian-fires-chokes-southeast-asia",
+   "source": "Al Jazeera",
+   "published": "2026-10-09T12:53:01.000Z",
+   "place": {
+    "name": "Kuala Lumpur, Malaysia",
+    "country": "Malaysia",
+    "iso": "MY",
+    "lat": 3.14,
+    "lon": 101.69,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "forest",
+      "pollut",
+      "air quality"
+     ],
+     "S": [
+      "schools"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems"
+   ],
+   "terms": [
+    "Pollution",
+    "Wildfire"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How could this environment be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "6fc66c5c6ee4",
+   "title": "Business Daily",
+   "summary": "The economy is high on the agenda for US voters this election.",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8gly?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-07T20:52:00.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.2,
+   "alsoIn": []
+  },
+  {
+   "id": "bd8fa6c9c0ac",
+   "title": "Hurricane Isaias barrels toward Gulf coast as category 3 storm",
+   "summary": "States of emergency declared in Alabama, Florida and Mississippi, where residents prepare for ‘long-duration power outages’",
+   "link": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
+   "source": "The Guardian",
+   "published": "2026-10-09T13:32:08.000Z",
+   "place": {
+    "name": "Mississippi",
+    "country": "United States",
+    "iso": "US",
+    "lat": 32.7,
+    "lon": -89.7,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "hurricane",
+      "storm",
+      "coast"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Tropical storm"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "How could United States’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "e5b751ea2124",
+   "title": "‘Age must never diminish rights,’ UN independent expert warns",
+   "summary": "Older women around the world face violence, exploitation and neglect, yet remain largely invisible in the laws, policies, data and services designed to protect women overall, a UN independent human rights expert said on Thursday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168553",
+   "source": "UN News",
+   "published": "2026-10-08T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "S"
+    ],
+    "why": {
+     "P": [
+      "policies",
+      "un",
+      "human rights"
+     ],
+     "S": [
+      "women"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Human rights"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in the places involved?"
+   ],
+   "conflict": false,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "dded8d63f345",
+   "title": "Contribution of high value residents discussed",
+   "summary": "More than 260 industry leaders met to discuss the role wealthy residents play in Jersey's economy.",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly0vxd2v9eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-09T05:29:43.000Z",
+   "place": {
+    "name": "Jersey",
+    "country": "Jersey",
+    "iso": "JE",
+    "lat": 49.22,
+    "lon": -2.13,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "industr"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "cf5eeee16fe4",
+   "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
+   "summary": "South African jurist and former UN High Commissioner for Human Rights Navi Pillay was on Friday announced as the winner of the 2026 Nobel Peace Prize.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168558",
+   "source": "UN News",
+   "published": "2026-10-09T12:00:00.000Z",
+   "place": {
+    "name": "South Africa",
+    "country": "South Africa",
+    "iso": "ZA",
+    "lat": -28.97,
+    "lon": 25.19,
+    "precision": "country",
+    "confidence": 0.15,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "un",
+      "human rights"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Human rights"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in South Africa?"
+   ],
+   "conflict": false,
+   "score": 4.1,
+   "alsoIn": []
+  },
+  {
+   "id": "159c51ffa08f",
+   "title": "Japan beer giants raided over suspicions they colluded to set the price of beverages",
+   "summary": "Investigators probe Asahi, Kirin, Suntory and Sapporo breweries – which together control more than 90% of Japan’s beer market",
+   "link": "https://www.theguardian.com/world/2026/oct/08/japan-beer-giants-raided-over-suspicions-they-colluded-to-set-the-price-of-beverages",
+   "source": "The Guardian",
+   "published": "2026-10-08T03:54:38.000Z",
+   "place": {
+    "name": "Sapporo, Japan",
+    "country": "Japan",
+    "iso": "JP",
+    "lat": 43.07,
+    "lon": 141.35,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "price",
+      "invest",
+      "market"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "552cde811b5c",
+   "title": "Israel’s downgrading of UK consulate aims to tighten its hold on Jerusalem",
+   "summary": "Consulate targeted in sanctions spat has unusual diplomatic status that clashes with Israel’s ambitions to fully annex the city",
+   "link": "https://www.theguardian.com/world/2026/oct/08/israel-downgrading-uk-consulate-tighten-hold-jerusalem",
+   "source": "The Guardian",
+   "published": "2026-10-08T17:16:03.000Z",
+   "place": {
+    "name": "Jerusalem, Israel",
+    "country": "Israel",
+    "iso": "IL",
+    "lat": 31.77,
+    "lon": 35.22,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "sanction",
+      "diplomat",
+      "annex"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "urban"
+   ],
+   "terms": [
+    "Sanctions",
+    "Sovereignty"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "What challenges does urban growth create in Israel?"
+   ],
+   "conflict": false,
+   "score": 3.8,
+   "alsoIn": []
+  },
+  {
+   "id": "ae63cc90fa32",
+   "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+   "summary": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
+   "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-07T23:00:55.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "invest",
+      "firms"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 3.8,
+   "alsoIn": []
+  }
+ ]
+}
