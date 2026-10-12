@@ -1,0 +1,1089 @@
+{
+ "date": "2026-10-12",
+ "generated": "2026-10-12T16:53:55.332Z",
+ "count": 24,
+ "stories": [
+  {
+   "id": "0e33cf9109b4",
+   "title": "In the Mekong Delta, a push to grow food with saltwater",
+   "summary": "For generations, farming in Viet Nam’s Mekong Delta has depended on a delicate bargain. The river flooded, retreated and flooded again, carrying freshwater and sediment across a flat landscape whose vast fields helped turn the country into one of the world’s leading rice exporters.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168545",
+   "source": "UN News",
+   "published": "2026-10-10T12:00:00.000Z",
+   "place": {
+    "name": "Mekong",
+    "country": "Vietnam",
+    "iso": "VN",
+    "lat": 11,
+    "lon": 105.5,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "export",
+      "farm",
+      "rice"
+     ],
+     "En": [
+      "flood",
+      "river"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Flooding",
+    "Trade"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Vietnam?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 9,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "bc10bd6d2052",
+   "title": "‘We need less point scoring’: What party conference season taught us about UK climate action",
+   "summary": "Tories plan to scrap low-carbon housebuilding, Greens back new nuclear reactors, and Labour put oil-drilling decisions on hold",
+   "link": "https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour",
+   "source": "The Guardian",
+   "published": "2026-10-11T06:00:18.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "carbon"
+     ],
+     "E": [
+      "labour",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources"
+   ],
+   "terms": [
+    "Climate change",
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 7.3,
+   "alsoIn": []
+  },
+  {
+   "id": "1cca424cfa07",
+   "title": "UN aid operation underway in Nepal following fresh floods",
+   "summary": "The United Nations has rushed to assist Nepal following new flash floods in the central Gorkha district on Sunday that swept away homes and bridges just weeks after catastrophic flooding in the north.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168576",
+   "source": "UN News",
+   "published": "2026-10-12T12:00:00.000Z",
+   "place": {
+    "name": "Nepal",
+    "country": "Nepal",
+    "iso": "NP",
+    "lat": 28.26,
+    "lon": 83.95,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "geopolitics",
+    "development"
+   ],
+   "terms": [
+    "Aid",
+    "Flooding",
+    "Infrastructure"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Nepal?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 7.3,
+   "alsoIn": [
+    "BBC News"
+   ]
+  },
+  {
+   "id": "6b81afcfaecc",
+   "title": "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
+   "summary": "The education minister has warned it would immediately cost his department £20m a year at a time when it is already struggling to balance its budget.",
+   "link": "https://www.bbc.co.uk/news/articles/crkg78q7yz41o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-12T08:09:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "education",
+      "hunger"
+     ],
+     "E": [
+      "budget"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [
+    "Food security"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "d83925be173d",
+   "title": "Tourism expansion v turtle nests: the dispute dividing communities in one Tobago resort",
+   "summary": "Plans for a 200-room project on an unspoiled beach have pitted developers against the conservationists fighting for smaller-scale schemes to protect the island’s habitat",
+   "link": "https://www.theguardian.com/global-development/2026/oct/10/tourism-expansion-v-turtle-nests-the-dispute-dividing-communities-in-one-tobago-resort",
+   "source": "The Guardian",
+   "published": "2026-10-10T11:00:56.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E",
+     "En"
+    ],
+    "why": {
+     "S": [
+      "communit"
+     ],
+     "E": [
+      "touris"
+     ],
+     "En": [
+      "conservation",
+      "habitat"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "economy"
+   ],
+   "terms": [
+    "Conservation",
+    "Ecosystem",
+    "Tourism"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": true,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "b94964141ad6",
+   "title": "Orangutans released back into Borneo forest after devastating fires",
+   "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+   "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-11T19:08:04.000Z",
+   "place": {
+    "name": "Borneo",
+    "country": "Indonesia",
+    "iso": "ID",
+    "lat": 0.5,
+    "lon": 114,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildfire",
+      "forest",
+      "habitat"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "hazards"
+   ],
+   "terms": [
+    "Ecosystem",
+    "Wildfire"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "What might the primary and secondary effects of this event be in Indonesia?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "f0e0768422c9",
+   "title": "‘Efficiency has limits’: UNHCR chief warns refugee protection is buckling under cuts",
+   "summary": "The money is running out faster than needs are growing: with 117 million men, women and children now forced from their homes, the UN refugee agency (UNHCR) has received just $3 billion of the $8.5 billion it needs this year – and its chief, Barham Salih, warns that the global support system for asylum-seekers risks…",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168575",
+   "source": "UN News",
+   "published": "2026-10-12T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "refugee",
+      "women",
+      "children"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "geopolitics"
+   ],
+   "terms": [
+    "Asylum seeker",
+    "Refugee"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "8c443f6e3881",
+   "title": "Storm Rachel batters Southern California, brings flooding to Las Vegas",
+   "summary": "Large waves from the post-tropical cyclone battered homes in Southern California, and also brought flooding to parts of Las Vegas.",
+   "link": "https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-12T16:12:57.000Z",
+   "place": {
+    "name": "California",
+    "country": "United States",
+    "iso": "US",
+    "lat": 37,
+    "lon": -120,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "storm",
+      "cyclone"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding",
+    "Tropical storm"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "How could United States’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "e82326a8d3af",
+   "title": "Rise in poverty is ‘a wake-up call for the world’, UN development chief says",
+   "summary": "The number of people living in “multidimensional” poverty has risen for the first time in 15 years, reaching 1.2 billion, as families struggle to meet their basic needs.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168574",
+   "source": "UN News",
+   "published": "2026-10-12T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "poverty"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Development",
+    "Poverty"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "00493270f6f7",
+   "title": "Trump faces growing backlash over plans to import diesel from Russia",
+   "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+   "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-11T23:18:45.000Z",
+   "place": {
+    "name": "Russia",
+    "country": "Russia",
+    "iso": "RU",
+    "lat": 58,
+    "lon": 60,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "import"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "9cf9e0c63f99",
+   "title": "Djibouti shipwreck: Death toll rises to 139 as 84 remain missing",
+   "summary": "At least 139 migrants have died after their boat capsized off Djibouti, with a further 84 people still missing, the UN migration agency (IOM) said on Sunday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168573",
+   "source": "UN News",
+   "published": "2026-10-11T12:00:00.000Z",
+   "place": {
+    "name": "Djibouti",
+    "country": "Djibouti",
+    "iso": "DJ",
+    "lat": 11.75,
+    "lon": 42.56,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "migra"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "geopolitics"
+   ],
+   "terms": [
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.2,
+   "alsoIn": []
+  },
+  {
+   "id": "08ec058d7bed",
+   "title": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU",
+   "summary": "PM Burnham confirms talks in Brussels next month, insisting the British public will be 'the boss' of the reset.",
+   "link": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu",
+   "source": "Al Jazeera",
+   "published": "2026-10-12T16:02:35.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.45,
+    "also": [
+     "Belgium"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "trade"
+     ],
+     "P": [
+      "talks",
+      "eu"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "5479666f23f9",
+   "title": "Thousands without power in Florida and Alabama as Isaias moves north",
+   "summary": "At least four deaths linked to storm amid warnings of flash flooding that could stretch into Appalachians",
+   "link": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
+   "source": "The Guardian",
+   "published": "2026-10-11T13:45:27.000Z",
+   "place": {
+    "name": "Alabama",
+    "country": "United States",
+    "iso": "US",
+    "lat": 32.8,
+    "lon": -86.8,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "storm"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "How could United States’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "8183caa2e554",
+   "title": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
+   "summary": "Brussels uses WTO rules to quickly impose quota, which will halve Chinese market share to 3%",
+   "link": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
+   "source": "The Guardian",
+   "published": "2026-10-12T11:23:55.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.6,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "import",
+      "market"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "78b068ae9cfa",
+   "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+   "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+   "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-11T21:12:44.000Z",
+   "place": {
+    "name": "Egypt",
+    "country": "Egypt",
+    "iso": "EG",
+    "lat": 26.46,
+    "lon": 29.88,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Sudan"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "border"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Natural resources"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "2a5d507a8652",
+   "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
+   "summary": "Oliver Blume says ‘Made in Europe’ rules to counter rapid rise of lower-price Chinese brands ‘must reward real value creation’",
+   "link": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+   "source": "The Guardian",
+   "published": "2026-10-11T16:53:01.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.15,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "price",
+      "industr"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "bd5f26fefeac",
+   "title": "India: UN rights office urges release of ‘arbitrarily detained’ protesters",
+   "summary": "The UN human rights office (OHCHR) has voiced concern over reports of mass detentions in India of demonstrators, protest leaders, civil society members, lawyers and journalists, before and during large-scale protests in Delhi on Saturday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168571",
+   "source": "UN News",
+   "published": "2026-10-10T12:00:00.000Z",
+   "place": {
+    "name": "Delhi, India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 28.65,
+    "lon": 77.23,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "protest"
+     ],
+     "P": [
+      "un",
+      "human rights"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Human rights"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in India?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "45b03a1f1db7",
+   "title": "Despair after 200-year-old ‘grandmother’ tree toppled for Trump’s border wall: ‘It crushes your heart’",
+   "summary": "Protesters spent months occupying an ancient cottonwood. Then a tense standoff with US border patrol came to a head",
+   "link": "https://www.theguardian.com/us-news/2026/oct/10/cottonwood-tree-toppling-trump-mexico-border-wall-arizona",
+   "source": "The Guardian",
+   "published": "2026-10-10T20:57:32.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "border"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in United States?"
+   ],
+   "conflict": false,
+   "score": 4.1,
+   "alsoIn": []
+  },
+  {
+   "id": "0a38212fe993",
+   "title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
+   "summary": "Deadly air raids on gold miners in Sudan expose deepening border lawlessness and regional instability.",
+   "link": "https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity",
+   "source": "Al Jazeera",
+   "published": "2026-10-12T15:30:08.000Z",
+   "place": {
+    "name": "Sudan",
+    "country": "Sudan",
+    "iso": "SD",
+    "lat": 15.97,
+    "lon": 29.91,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Egypt"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "border"
+     ],
+     "E": [
+      "mine"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Natural resources"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Sudan?"
+   ],
+   "conflict": true,
+   "score": 4.1,
+   "alsoIn": []
+  },
+  {
+   "id": "42ea7c0ac854",
+   "title": "Balkan temperatures swing as heavy rain heads for Greece",
+   "summary": "Clear skies bring warm days and cold nights to Montenegro, while a low-pressure system moves towards Aegean Sea",
+   "link": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
+   "source": "The Guardian",
+   "published": "2026-10-12T10:48:26.000Z",
+   "place": {
+    "name": "Greece",
+    "country": "Greece",
+    "iso": "GR",
+    "lat": 39.46,
+    "lon": 22.57,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "heavy rain",
+      "temperature"
+     ]
+    }
+   },
+   "topics": [],
+   "terms": [],
+   "questions": [
+    "Which SEEP themes does this story cover, and which is most important?",
+    "How might this story affect people in Greece and elsewhere?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "d2e328e4359d",
+   "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
+   "summary": "More than 100 aftershocks as high as magnitude-5.8 recorded after two quakes toppled buildings and prompted evacuations",
+   "link": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+   "source": "The Guardian",
+   "published": "2026-10-11T06:56:08.000Z",
+   "place": {
+    "name": "Panama",
+    "country": "Panama",
+    "iso": "PA",
+    "lat": 8.53,
+    "lon": -80.11,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "quake"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Earthquake"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Panama?",
+    "How could Panama’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "d358b1225dec",
+   "title": "Children and women included in Reform plan to immediately deport 90,000 asylum seekers",
+   "summary": "Farage’s party says it would ‘embed’ immigration enforcement in UK and use ‘aerial imaging’ to identify people",
+   "link": "https://www.theguardian.com/politics/2026/oct/12/children-mothers-included-reform-immediately-deport-asylum-seekers",
+   "source": "The Guardian",
+   "published": "2026-10-12T14:24:31.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "asylum",
+      "children",
+      "women"
+     ]
+    }
+   },
+   "topics": [
+    "migration"
+   ],
+   "terms": [
+    "Asylum seeker",
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What are the impacts on the places people leave and the places they move to?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "8fb44107246a",
+   "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+   "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+   "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-12T16:53:00.000Z",
+   "place": {
+    "name": "Russia",
+    "country": "Russia",
+    "iso": "RU",
+    "lat": 58,
+    "lon": 60,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "Ukraine"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "president",
+      "ceasefire"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Infrastructure"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 3.9,
+   "alsoIn": []
+  },
+  {
+   "id": "5f24616a74ae",
+   "title": "‘They take our water, our soil’: protesters fight ‘foreignisation’ as Javier Milei encourages land sales in Argentina",
+   "summary": "The country’s far-right president is courting billionaire investors by removing a block on foreign ownership of land and natural resources",
+   "link": "https://www.theguardian.com/global-development/2026/oct/06/argentina-land-reform-protests-javier-milei",
+   "source": "The Guardian",
+   "published": "2026-10-06T10:00:51.000Z",
+   "place": {
+    "name": "Argentina",
+    "country": "Argentina",
+    "iso": "AR",
+    "lat": -34.54,
+    "lon": -64.75,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "En"
+    ],
+    "why": {
+     "S": [
+      "protest"
+     ],
+     "En": [
+      "soil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Natural resources"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 3.6,
+   "alsoIn": []
+  }
+ ]
+}
