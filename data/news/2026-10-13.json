@@ -1,0 +1,985 @@
+{
+ "date": "2026-10-13",
+ "generated": "2026-10-13T15:12:12.329Z",
+ "count": 22,
+ "stories": [
+  {
+   "id": "97558be23ef1",
+   "title": "Sudan: Drought and war push Darfur and Kordofan towards famine",
+   "summary": "The risk of famine is growing in parts of Sudan already torn apart by war, as a severe El Niño drought makes life even harder in Greater Darfur and Greater Kordofan, the UN-backed global hunger monitor warned on Monday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168577",
+   "source": "UN News",
+   "published": "2026-10-12T12:00:00.000Z",
+   "place": {
+    "name": "Darfur",
+    "country": "Sudan",
+    "iso": "SD",
+    "lat": 13.5,
+    "lon": 24,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "En",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "famine"
+     ],
+     "En": [
+      "drought",
+      "el niño"
+     ],
+     "P": [
+      "un",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics",
+    "hazards"
+   ],
+   "terms": [
+    "Drought",
+    "El Niño",
+    "Famine",
+    "Food security"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Sudan?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 10.8,
+   "alsoIn": []
+  },
+  {
+   "id": "cdd52e4bee53",
+   "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
+   "summary": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.",
+   "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-13T09:38:54.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "growth forecast",
+      "econom",
+      "prices"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 9.6,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "e77162dedeaa",
+   "title": "Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels",
+   "summary": "National park officials took the precautionary measure to limit tourist access after heavy rain caused the Iguazu River to flow at six times the normal rate",
+   "link": "https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels",
+   "source": "The Guardian",
+   "published": "2026-10-13T03:03:48.000Z",
+   "place": {
+    "name": "Argentina",
+    "country": "Argentina",
+    "iso": "AR",
+    "lat": -34.54,
+    "lon": -64.75,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "heavy rain",
+      "national park",
+      "river"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Conservation",
+    "El Niño",
+    "Tourism"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 8.8,
+   "alsoIn": []
+  },
+  {
+   "id": "6954fc1f0933",
+   "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
+   "summary": "Hundreds of people displaced in Bangka Belitung province as shift in wind direction drove blaze towards settlement",
+   "link": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
+   "source": "The Guardian",
+   "published": "2026-10-13T12:44:44.000Z",
+   "place": {
+    "name": "Indonesia",
+    "country": "Indonesia",
+    "iso": "ID",
+    "lat": -2.5,
+    "lon": 118,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "wildfire",
+      "el niño"
+     ],
+     "S": [
+      "displac"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "migration",
+    "resources"
+   ],
+   "terms": [
+    "Displacement",
+    "El Niño",
+    "Wildfire"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Indonesia?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": false,
+   "score": 8.5,
+   "alsoIn": []
+  },
+  {
+   "id": "c6709e77c0e4",
+   "title": "A super el Niño threatens our food system. Here’s how farms can prepare | Liz Carlisle",
+   "summary": "Planting cover crops or perennial plants can protect soil amid potential flooding. Congress must act to protect these practices",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/12/super-el-nino-farms-prepare",
+   "source": "The Guardian",
+   "published": "2026-10-12T13:00:55.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "el niño",
+      "soil"
+     ],
+     "E": [
+      "farm",
+      "crop"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "hazards"
+   ],
+   "terms": [
+    "El Niño",
+    "Flooding"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "What might the primary and secondary effects of this event be in the places involved?"
+   ],
+   "conflict": false,
+   "score": 8.1,
+   "alsoIn": []
+  },
+  {
+   "id": "cba5d058e152",
+   "title": "IMF warns global economy ‘could soon test the limits of resilience’",
+   "summary": "World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026",
+   "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+   "source": "The Guardian",
+   "published": "2026-10-13T02:00:11.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "imf",
+      "budget"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "GDP",
+    "Adaptation"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 7.3,
+   "alsoIn": []
+  },
+  {
+   "id": "c47dab054af8",
+   "title": "Scientists deploy a 24-armed secret weapon to save California’s kelp forests",
+   "summary": "Team works to restore the sunflower sea star as 95% of these key underwater ecosystems have been decimated along the Pacific coast in past decade",
+   "link": "https://www.theguardian.com/environment/2026/oct/13/sunflower-sea-star-california-kelp-forests",
+   "source": "The Guardian",
+   "published": "2026-10-13T12:00:01.000Z",
+   "place": {
+    "name": "California",
+    "country": "United States",
+    "iso": "US",
+    "lat": 37,
+    "lon": -120,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "forest",
+      "coast",
+      "ecosystem"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems"
+   ],
+   "terms": [
+    "Ecosystem"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How could this environment be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "6f56554e1e4f",
+   "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
+   "summary": "Yemen's entrenched civil war is now impossible to ignore. But in operating rooms in its port city of Aden, geopolitics feels remote.",
+   "link": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-12T16:28:10.000Z",
+   "place": {
+    "name": "Aden, Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 12.79,
+    "lon": 45.02,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "war",
+      "geopolit"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "ecosystems",
+    "urban"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": true,
+   "score": 6.1,
+   "alsoIn": []
+  },
+  {
+   "id": "088306f3f3bc",
+   "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+   "summary": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
+   "link": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-11T23:48:25.000Z",
+   "place": {
+    "name": "Borneo",
+    "country": "Indonesia",
+    "iso": "ID",
+    "lat": 0.5,
+    "lon": 114,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildfire",
+      "habitat"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "ecosystems"
+   ],
+   "terms": [
+    "Ecosystem",
+    "Wildfire"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Indonesia?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": false,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "9782fbb9225f",
+   "title": "‘Cancer is tripling and will keep increasing’: first African to lead global action against disease ready for battle",
+   "summary": "With cancer cases rising fastest in poorer countries, Zainab Shinkafi-Bagudu, president-elect of the Union for International Cancer Control, says Africa needs investment in research, diagnosis and prevention",
+   "link": "https://www.theguardian.com/global-development/2026/oct/08/health-cancer-zainab-shinkafi-bagudu-africa-uicc-global-south",
+   "source": "The Guardian",
+   "published": "2026-10-08T09:00:15.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "disease"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.9,
+   "alsoIn": []
+  },
+  {
+   "id": "138e38d4e88e",
+   "title": "Three things we've learnt about the UK economy from the IMF",
+   "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+   "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-13T11:58:43.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "imf"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "761214e9321b",
+   "title": "Why some have no choice but to pay costly oil prices",
+   "summary": "Rural communities are badly hit by the rising cost of heating oil, as our Wiltshire reporter explains.",
+   "link": "https://www.bbc.co.uk/news/videos/cq4g1dn81y9xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-12T15:34:48.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "prices",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Rural"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "e1e16dd4edb4",
+   "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+   "summary": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each exists",
+   "link": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+   "source": "The Guardian",
+   "published": "2026-10-10T23:01:09.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "ccc1126f25fb",
+   "title": "African Union holds Kigali talks as fighting continues in eastern DRC",
+   "summary": "Three former African presidents discussed security commitments, refugee protection and regional cooperation.",
+   "link": "https://www.aljazeera.com/news/2026/10/13/african-union-holds-kigali-talks-as-fighting-continues-in-eastern-drc",
+   "source": "Al Jazeera",
+   "published": "2026-10-13T12:40:26.000Z",
+   "place": {
+    "name": "Kigali, Rwanda",
+    "country": "Rwanda",
+    "iso": "RW",
+    "lat": -1.95,
+    "lon": 30.06,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": [
+     "Democratic Republic of the Congo"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "S"
+    ],
+    "why": {
+     "P": [
+      "president",
+      "talks",
+      "african union"
+     ],
+     "S": [
+      "refugee"
+     ]
+    }
+   },
+   "topics": [
+    "migration"
+   ],
+   "terms": [
+    "Refugee"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What are the impacts on the places people leave and the places they move to?"
+   ],
+   "conflict": true,
+   "score": 4.9,
+   "alsoIn": []
+  },
+  {
+   "id": "2d0da4ea9994",
+   "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
+   "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding",
+   "link": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
+   "source": "The Guardian",
+   "published": "2026-10-13T04:29:46.000Z",
+   "place": {
+    "name": "Mexico",
+    "country": "Mexico",
+    "iso": "MX",
+    "lat": 23.92,
+    "lon": -102.15,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "hurricane",
+      "tropical storm"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding",
+    "Infrastructure",
+    "Tropical storm"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Mexico?",
+    "How could Mexico’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "c191b5454773",
+   "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – Europe live",
+   "summary": "Ukraine’s president says his country has halted strikes on Russian oil refineries for two days after Trump’s energy ceasefire announcement",
+   "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-10-13T14:53:38.000Z",
+   "place": {
+    "name": "Kyiv, Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "president",
+      "ceasefire"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 4.4,
+   "alsoIn": []
+  },
+  {
+   "id": "0f9e13c8c96b",
+   "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
+   "summary": "Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168580",
+   "source": "UN News",
+   "published": "2026-10-12T12:00:00.000Z",
+   "place": {
+    "name": "Colombia",
+    "country": "Colombia",
+    "iso": "CO",
+    "lat": 3.9,
+    "lon": -73.08,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "agreement",
+      "un",
+      "peace deal"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Colombia?"
+   ],
+   "conflict": false,
+   "score": 4.4,
+   "alsoIn": []
+  },
+  {
+   "id": "37dcdb117b61",
+   "title": "Greta Thunberg says French students are being “robbed” amid nationwide prot",
+   "summary": "Climate activist Greta Thunberg has joined demonstrating high school students in France as protests continue to grow.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/greta-thunberg-says-french-students-are-being-robbed-amid-nationwide-prot",
+   "source": "Al Jazeera",
+   "published": "2026-10-13T12:48:06.000Z",
+   "place": {
+    "name": "France",
+    "country": "France",
+    "iso": "FR",
+    "lat": 46.6,
+    "lon": 2.4,
+    "precision": "country",
+    "confidence": 0.7,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "En"
+    ],
+    "why": {
+     "S": [
+      "school",
+      "protest"
+     ],
+     "En": [
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "climate"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Who are the winners and losers from this in France?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "e637725fbf28",
+   "title": "How protests have shaped India: From anti-Hindi agitation to farm laws",
+   "summary": "Activists challenging India's government over electoral roll controversies have a long legacy of protest to draw on.",
+   "link": "https://www.aljazeera.com/news/2026/10/13/how-protests-have-shaped-india-from-anti-hindi-agitation-to-farm-laws",
+   "source": "Al Jazeera",
+   "published": "2026-10-13T11:57:51.000Z",
+   "place": {
+    "name": "India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 22.8,
+    "lon": 79.53,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "farm"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.6,
+   "alsoIn": []
+  },
+  {
+   "id": "78abc95760a3",
+   "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+   "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-12T05:00:52.000Z",
+   "place": {
+    "name": "Russia",
+    "country": "Russia",
+    "iso": "RU",
+    "lat": 58,
+    "lon": 60,
+    "precision": "country",
+    "confidence": 0.15,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "tax",
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "9a8e5291ba8a",
+   "title": "Watch: What's behind Trump's energy ceasefire claim?",
+   "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+   "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-11T20:55:02.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "president",
+      "ceasefire"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 3.4,
+   "alsoIn": []
+  },
+  {
+   "id": "4396f4894ee2",
+   "title": "Homes and bridges swept away as fresh floods hit Nepal",
+   "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+   "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-12T05:26:47.000Z",
+   "place": {
+    "name": "Nepal",
+    "country": "Nepal",
+    "iso": "NP",
+    "lat": 28.26,
+    "lon": 83.95,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding",
+    "Infrastructure"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Nepal?",
+    "How could Nepal’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 3.3,
+   "alsoIn": []
+  }
+ ]
+}
