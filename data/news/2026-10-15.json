@@ -1,0 +1,1069 @@
+{
+ "date": "2026-10-15",
+ "generated": "2026-10-15T12:45:58.003Z",
+ "count": 23,
+ "stories": [
+  {
+   "id": "feccf9c86ef9",
+   "title": "‘I am still a child, it cannot be good to be married’: how drought forces Afghan families to sell girls as brides",
+   "summary": "As climate breakdown pushes families to starvation, many feel forced to ‘sacrifice’ daughters to save siblings. Photographer Elise Blanchard travelled the country speaking to girls as young as eight, 10 and 14 who have been engaged or married to repay debts or pay for food",
+   "link": "https://www.theguardian.com/global-development/2026/oct/15/afghanistan-drought-hunger-displaced-families-girls-child-marriage-poverty",
+   "source": "The Guardian",
+   "published": "2026-10-15T04:00:21.000Z",
+   "place": {
+    "name": "Afghanistan",
+    "country": "Afghanistan",
+    "iso": "AF",
+    "lat": 33.82,
+    "lon": 65.93,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "drought"
+     ],
+     "S": [
+      "starv",
+      "girls"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "climate",
+    "development"
+   ],
+   "terms": [
+    "Climate change",
+    "Debt",
+    "Drought",
+    "Famine"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Afghanistan?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 12,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "3ad5d277058e",
+   "title": "G20 finance ministers, central bankers gather amid fallout from Iran war",
+   "summary": "Officials meet in Thailand as conflict drives energy prices higher and casts uncertainty over global economy.",
+   "link": "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war",
+   "source": "Al Jazeera",
+   "published": "2026-10-15T06:16:46.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "prices",
+      "energy prices"
+     ],
+     "P": [
+      "minister",
+      "g20",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "resources",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": true,
+   "score": 9.1,
+   "alsoIn": []
+  },
+  {
+   "id": "0da4252df785",
+   "title": "Yemen: WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
+   "summary": "Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168591",
+   "source": "UN News",
+   "published": "2026-10-14T12:00:00.000Z",
+   "place": {
+    "name": "Taiz, Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 13.58,
+    "lon": 44.02,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "humanitarian"
+     ],
+     "P": [
+      "un",
+      "conflict"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics",
+    "urban"
+   ],
+   "terms": [
+    "Aid",
+    "Humanitarian crisis",
+    "Infrastructure"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Yemen?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 7.9,
+   "alsoIn": []
+  },
+  {
+   "id": "16fd90a3720a",
+   "title": "India’s cockroach protesters defy Modi’s crackdown – The Latest",
+   "summary": "A fresh wave of protests by India’s youth-led Cockroach movement has been met with a brutal crackdown by Narendra Modi’s government and the closure of a historic protest site in Delhi. Two of the movement’s leaders have been imprisoned for five days for violating suppression measures.",
+   "link": "https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest",
+   "source": "The Guardian",
+   "published": "2026-10-14T17:40:05.000Z",
+   "place": {
+    "name": "Delhi, India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 28.65,
+    "lon": 77.23,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "S"
+    ],
+    "why": {
+     "P": [
+      "government",
+      "vote",
+      "un"
+     ],
+     "S": [
+      "education",
+      "protest"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Unemployment"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in India?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 7.6,
+   "alsoIn": []
+  },
+  {
+   "id": "5e0fc06550a7",
+   "title": "Is it really ‘madness’ to account for emissions from fossil fuels burned overseas? The Coalition sure thinks so | Temperature Check",
+   "summary": "The emissions might occur elsewhere, but they generate global harm that scientists can now quantify",
+   "link": "https://www.theguardian.com/environment/2026/oct/14/is-it-really-madness-to-account-for-emissions-from-fossil-fuels-burned-overseas-the-coalition-sure-thinks-so",
+   "source": "The Guardian",
+   "published": "2026-10-14T14:14:43.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "emission",
+      "fossil fuel",
+      "coal"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 7.5,
+   "alsoIn": []
+  },
+  {
+   "id": "d83925be173d",
+   "title": "Tourism expansion v turtle nests: the dispute dividing communities in one Tobago resort",
+   "summary": "Plans for a 200-room project on an unspoiled beach have pitted developers against the conservationists fighting for smaller-scale schemes to protect the island’s habitat",
+   "link": "https://www.theguardian.com/global-development/2026/oct/10/tourism-expansion-v-turtle-nests-the-dispute-dividing-communities-in-one-tobago-resort",
+   "source": "The Guardian",
+   "published": "2026-10-10T11:00:56.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E",
+     "En"
+    ],
+    "why": {
+     "S": [
+      "communit"
+     ],
+     "E": [
+      "touris"
+     ],
+     "En": [
+      "conservation",
+      "habitat"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "economy"
+   ],
+   "terms": [
+    "Conservation",
+    "Ecosystem",
+    "Tourism"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": true,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "61a836bc4f97",
+   "title": "I work for a major insurer. Much of my industry is fudging the numbers in the face of the climate crisis | Anonymous",
+   "summary": "Insurers are taking on more risk than they should. If – or when – a major disaster hits, the catastrophe will have far-reaching consequences",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/14/climate-crisis-insurance-risk-disaster-catastrophe",
+   "source": "The Guardian",
+   "published": "2026-10-14T10:00:01.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "E": [
+      "industr"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "economy"
+   ],
+   "terms": [
+    "Climate change",
+    "Hazard"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "12dff38b72eb",
+   "title": "WHO calls for urgent health action across the Eastern Mediterranean",
+   "summary": "The head of the World Health Organization (WHO) has called for promoting, providing and protecting health in the Eastern Mediterranean region, home to some of the world’s top humanitarian crises such as Sudan, Yemen and the Occupied Palestinian Territory.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168590",
+   "source": "UN News",
+   "published": "2026-10-14T12:00:00.000Z",
+   "place": {
+    "name": "Mediterranean",
+    "country": "Italy",
+    "iso": "IT",
+    "lat": 36,
+    "lon": 16,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health",
+      "humanitarian"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Humanitarian crisis"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Italy?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 6.6,
+   "alsoIn": []
+  },
+  {
+   "id": "6f7801f844e0",
+   "title": "Colombia: UN independent experts call for Ecopetrol to provide reparations to victims of armed conflict",
+   "summary": "UN independent experts welcomed on Wednesday&nbsp;a recent landmark corporate accountability ruling involving the Ecopetrol oil company by Colombia’s Special Jurisdiction for Peace, calling for reparations for victims.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168597",
+   "source": "UN News",
+   "published": "2026-10-14T12:00:00.000Z",
+   "place": {
+    "name": "Colombia",
+    "country": "Colombia",
+    "iso": "CO",
+    "lat": 3.9,
+    "lon": -73.08,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "un",
+      "conflict"
+     ],
+     "E": [
+      "oil",
+      "company"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 6.6,
+   "alsoIn": []
+  },
+  {
+   "id": "314f227cf7e5",
+   "title": "Plan unveiled to increase share of land farmed organically in England to 10%",
+   "summary": "Government says ambition for 2036 will be good for food and climate resilience, but concerns remain over funding",
+   "link": "https://www.theguardian.com/environment/2026/oct/14/land-farmed-organically-england-share-10-pc-2036-plan-food-climate",
+   "source": "The Guardian",
+   "published": "2026-10-14T16:49:15.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "E": [
+      "farm"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "climate"
+   ],
+   "terms": [
+    "Climate change",
+    "Adaptation"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 6.4,
+   "alsoIn": []
+  },
+  {
+   "id": "8892e925967f",
+   "title": "Victoria to become first state to make abortions free as Coalition matches Labor election promise",
+   "summary": "Exclusive: Out-of-pocket costs for abortion care to be covered regardless of who wins November election as Jess Wilson says Liberals and Nationals ‘will not allow Labor to play politics on this issue’",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/15/victoria-to-become-first-state-to-make-abortions-free",
+   "source": "The Guardian",
+   "published": "2026-10-15T06:35:48.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "labor"
+     ],
+     "En": [
+      "coal"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 6.1,
+   "alsoIn": []
+  },
+  {
+   "id": "5a661ac011f7",
+   "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
+   "summary": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
+   "link": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-15T03:26:36.000Z",
+   "place": {
+    "name": "Indonesia",
+    "country": "Indonesia",
+    "iso": "ID",
+    "lat": -2.5,
+    "lon": 118,
+    "precision": "country",
+    "confidence": 0.15,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildfire",
+      "smog"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "urban"
+   ],
+   "terms": [
+    "Pollution",
+    "Wildfire"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Indonesia?",
+    "What challenges does urban growth create in Indonesia?"
+   ],
+   "conflict": false,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "9ea972ef1e3d",
+   "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+   "summary": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook markets",
+   "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+   "source": "The Guardian",
+   "published": "2026-10-15T10:38:26.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "inflation",
+      "interest rate",
+      "debt"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "development"
+   ],
+   "terms": [
+    "Debt",
+    "Inflation"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "What does this story suggest about quality of life in United States?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "59d8ae0160d5",
+   "title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable development",
+   "summary": "The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168596",
+   "source": "UN News",
+   "published": "2026-10-14T12:00:00.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "humanitarian"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics",
+    "urban"
+   ],
+   "terms": [
+    "Development",
+    "Humanitarian crisis",
+    "Sustainability"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Palestine?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.7,
+   "alsoIn": []
+  },
+  {
+   "id": "746492d732dd",
+   "title": "Poland’s ascent from communist state to top 20 economy reverses the brain drain",
+   "summary": "In the final part of our series on the country, Poles tell how wages have soared – along with the cost of living",
+   "link": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
+   "source": "The Guardian",
+   "published": "2026-10-15T05:56:12.000Z",
+   "place": {
+    "name": "Poland",
+    "country": "Poland",
+    "iso": "PL",
+    "lat": 52.11,
+    "lon": 19.42,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "cost of living",
+      "wages"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Cost of living"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "19e0c371d8e7",
+   "title": "Severe drought declared in six areas of England as public water supplies under threat",
+   "summary": "Some reservoirs in south-east and south-west at critically low levels as water companies call for non-essential user bans on businesses",
+   "link": "https://www.theguardian.com/environment/2026/oct/15/severe-drought-declared-six-areas-england-public-water-supplies-threat",
+   "source": "The Guardian",
+   "published": "2026-10-15T12:18:27.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "drought"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "hazards"
+   ],
+   "terms": [
+    "Drought"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "What might the primary and secondary effects of this event be in United Kingdom?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "733e6acd82cd",
+   "title": "Trump returns to Washington amid midterms campaign blitz as new polls reveal voters’s concern about US economy – live",
+   "summary": "Key voting groups are increasingly disenchanted with the economy, new Harris polls finds; about 8 in 10 people say the economy or the cost of living is top voting issue, new AP poll finds",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+   "source": "The Guardian",
+   "published": "2026-10-15T12:22:21.000Z",
+   "place": {
+    "name": "Washington, United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 38.9,
+    "lon": -77.04,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "cost of living"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Cost of living"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "35d2ef9f276d",
+   "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+   "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+   "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-15T11:25:19.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "import"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": true,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "66c7d45c3e8c",
+   "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+   "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+   "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-15T09:29:54.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "budget"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "GDP",
+    "Adaptation"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "6f2ca1673ea4",
+   "title": "Russia says Ukraine resumes attacks on oil refineries",
+   "summary": "Ukraine's president earlier said Kyiv was 'done' with energy ceasefire and that strikes on Russian oil refineries would resume.",
+   "link": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries",
+   "source": "Al Jazeera",
+   "published": "2026-10-15T10:02:17.000Z",
+   "place": {
+    "name": "Kyiv, Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "precision": "place",
+    "confidence": 1,
+    "also": [
+     "Russia"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "a8ba11d53854",
+   "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+   "summary": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
+   "link": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-14T23:32:11.000Z",
+   "place": {
+    "name": "Himalayas",
+    "country": "Nepal",
+    "iso": "NP",
+    "lat": 28.5,
+    "lon": 84,
+    "precision": "place",
+    "confidence": 1,
+    "also": [
+     "China",
+     "India"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "climate"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Who are the winners and losers from this in Nepal?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "e374ed7c04c7",
+   "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
+   "summary": "Reduced missile warnings increase threat to civilians as Trump pushes an 'energy ceasefire' and peace negotiations.",
+   "link": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify",
+   "source": "Al Jazeera",
+   "published": "2026-10-15T11:45:39.000Z",
+   "place": {
+    "name": "Russia",
+    "country": "Russia",
+    "iso": "RU",
+    "lat": 58,
+    "lon": 60,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "negotiat",
+      "ceasefire"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 3.4,
+   "alsoIn": []
+  },
+  {
+   "id": "f6897a77380f",
+   "title": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
+   "summary": "Global human rights commitments adopted by government extend reach to enablers of unlawful activity",
+   "link": "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements",
+   "source": "The Guardian",
+   "published": "2026-10-14T16:51:25.000Z",
+   "place": {
+    "name": "Israel",
+    "country": "Israel",
+    "iso": "IL",
+    "lat": 31.45,
+    "lon": 35,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "government",
+      "sanction",
+      "human rights"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Human rights",
+    "Sanctions"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Israel?"
+   ],
+   "conflict": false,
+   "score": 3.1,
+   "alsoIn": []
+  }
+ ]
+}
