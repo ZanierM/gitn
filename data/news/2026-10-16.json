@@ -1,0 +1,1072 @@
+{
+ "date": "2026-10-16",
+ "generated": "2026-10-16T12:38:12.340Z",
+ "count": 24,
+ "stories": [
+  {
+   "id": "b84172ceae1d",
+   "title": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
+   "summary": "Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168604",
+   "source": "UN News",
+   "published": "2026-10-15T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "inequalit",
+      "communit"
+     ],
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Inequality",
+    "Renewable energy"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 11.6,
+   "alsoIn": []
+  },
+  {
+   "id": "13fbac6ed04e",
+   "title": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
+   "summary": "Fewer than half of the national targets set to protect the world’s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yerevan, Armenia, for the COP17 biodiversity conference.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168607",
+   "source": "UN News",
+   "published": "2026-10-15T12:00:00.000Z",
+   "place": {
+    "name": "Yerevan, Armenia",
+    "country": "Armenia",
+    "iso": "AM",
+    "lat": 40.18,
+    "lon": 44.51,
+    "precision": "place",
+    "confidence": 0.525,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "biodiversity",
+      "nature",
+      "ecosystem"
+     ],
+     "P": [
+      "un",
+      "cop1",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "geopolitics",
+    "climate"
+   ],
+   "terms": [
+    "Biodiversity",
+    "Ecosystem"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 9.5,
+   "alsoIn": []
+  },
+  {
+   "id": "ea00261ecb82",
+   "title": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands",
+   "summary": "Mines in supply chains of western carmakers linked to widespread deforestation of primary rainforest in nickel-rich lands inhabited by Tolaki people in Indonesia",
+   "link": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands",
+   "source": "The Guardian",
+   "published": "2026-10-16T07:00:56.000Z",
+   "place": {
+    "name": "Indonesia",
+    "country": "Indonesia",
+    "iso": "ID",
+    "lat": -2.5,
+    "lon": 118,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "deforest"
+     ],
+     "E": [
+      "supply chain",
+      "mines"
+     ],
+     "S": [
+      "indigenous"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "economy"
+   ],
+   "terms": [
+    "Deforestation",
+    "Indigenous peoples",
+    "Natural resources",
+    "Supply chain"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 8.8,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "b7b9bbd99796",
+   "title": "Flash floods destroy villages in central Nepal",
+   "summary": "Landslide blocks river and triggers downstream flooding, while summer temperatures persist in Portugal",
+   "link": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal",
+   "source": "The Guardian",
+   "published": "2026-10-16T10:12:48.000Z",
+   "place": {
+    "name": "Nepal",
+    "country": "Nepal",
+    "iso": "NP",
+    "lat": 28.26,
+    "lon": 83.95,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "landslide",
+      "river"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding",
+    "Landslide",
+    "Rural"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Nepal?",
+    "How could Nepal’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 8,
+   "alsoIn": []
+  },
+  {
+   "id": "5758a19d1a18",
+   "title": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
+   "summary": "The UN is warning that nearly one million displaced Palestinians face flooding risks as winter approaches.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T10:12:34.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ],
+     "S": [
+      "displac"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "geopolitics",
+    "migration"
+   ],
+   "terms": [
+    "Displacement",
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Palestine?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 7.8,
+   "alsoIn": []
+  },
+  {
+   "id": "395cfcd2470e",
+   "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+   "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+   "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-16T05:00:17.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "export",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Trade"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": true,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "f715f454ef0e",
+   "title": "China-North Korea border bridge may do little to spur trade, experts say",
+   "summary": "Sanctions and a North Korean leadership that prioritises security dim prospects for trade, analysts say.",
+   "link": "https://www.aljazeera.com/economy/2026/10/16/china-north-korea-border-bridge-may-do-little-to-spur-trade-experts-say",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T09:21:40.000Z",
+   "place": {
+    "name": "North Korea",
+    "country": "North Korea",
+    "iso": "KP",
+    "lat": 40.14,
+    "lon": 127.16,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": [
+     "China"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "sanction",
+      "border"
+     ],
+     "E": [
+      "trade"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Sanctions",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "c6c4a27a8ed6",
+   "title": "£15m for zero-emission testing at Belfast Harbour",
+   "summary": "It comes after a £15m investment from UK Research and Innovation's Local Innovation Partnerships Fund.",
+   "link": "https://www.bbc.co.uk/news/articles/c6kgqr9n8082o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-15T14:55:03.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "emission"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "economy"
+   ],
+   "terms": [
+    "Carbon emissions"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "a0c658a6b395",
+   "title": "Iguazu Falls in South America hits record 10 times normal water flow – video",
+   "summary": "Iguazu Falls, an Unesco world heritage site, has reached a record water flow after heavy rains across the river basin. El Niño weather patterns are said to have driven the water flow to hit 10 times the normal amount.",
+   "link": "https://www.theguardian.com/world/video/2026/oct/16/iguazu-falls-in-south-america-hits-record-10-times-normal-water-flow-video",
+   "source": "The Guardian",
+   "published": "2026-10-16T09:37:13.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "heavy rain",
+      "river",
+      "el niño"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "El Niño"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 5.9,
+   "alsoIn": []
+  },
+  {
+   "id": "346db1fdb2a5",
+   "title": "Afghanistan faces record hunger levels amid rampant rights violations",
+   "summary": "Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168605",
+   "source": "UN News",
+   "published": "2026-10-15T12:00:00.000Z",
+   "place": {
+    "name": "Afghanistan",
+    "country": "Afghanistan",
+    "iso": "AF",
+    "lat": 33.82,
+    "lon": 65.93,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "hunger",
+      "malnutri"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "resources"
+   ],
+   "terms": [
+    "Food security"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Afghanistan?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "089fa0e2e63f",
+   "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
+   "summary": "Ongoing and deadly Russian attacks across Ukraine are causing serious healthcare disruption, with more than $1.5 million-worth of medicines and supplies destroyed in four separate strikes on warehouses used by the UN there since July.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168603",
+   "source": "UN News",
+   "published": "2026-10-15T12:00:00.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Russia"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Ukraine?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.2,
+   "alsoIn": []
+  },
+  {
+   "id": "e1e16dd4edb4",
+   "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+   "summary": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each exists",
+   "link": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+   "source": "The Guardian",
+   "published": "2026-10-10T23:01:09.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "717ec9cb4e9c",
+   "title": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
+   "summary": "The review called for Norway's sovereign wealth fund to lift ethical risk limitations on its investments.",
+   "link": "https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row",
+   "source": "Al Jazeera",
+   "published": "2026-10-16T08:36:13.000Z",
+   "place": {
+    "name": "Norway",
+    "country": "Norway",
+    "iso": "NO",
+    "lat": 61.5,
+    "lon": 9.5,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Palestine"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "ban",
+      "sovereign"
+     ],
+     "E": [
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "600b47563b41",
+   "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+   "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+   "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-15T11:34:55.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "invest",
+      "stock",
+      "market"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Infrastructure"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "261e52e00916",
+   "title": "Why is Alberta voting to separate from Canada, and how likely is it to happen?",
+   "summary": "The oil-rich province will decide on Monday whether to stay part of Canada or trigger a binding independence referendum.",
+   "link": "https://www.bbc.co.uk/news/articles/c809jg1gj9yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-16T11:14:58.000Z",
+   "place": {
+    "name": "Alberta",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 55,
+    "lon": -115,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "referendum",
+      "independence"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "91142016b6f2",
+   "title": "WHO urges vigilance after Kenya confirms second Ebola case",
+   "summary": "The World Health Organization (WHO) continues to support Kenya’s efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency’s representative in the country said on Thursday.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168602",
+   "source": "UN News",
+   "published": "2026-10-15T12:00:00.000Z",
+   "place": {
+    "name": "Kenya",
+    "country": "Kenya",
+    "iso": "KE",
+    "lat": 0.6,
+    "lon": 37.8,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Kenya?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.7,
+   "alsoIn": []
+  },
+  {
+   "id": "3f1d45cba743",
+   "title": "Trump calls Ukraine’s renewed strikes on Russian oil refineries ‘a disgrace’",
+   "summary": "US president says Zelenskyy ‘more difficult ​to deal with ​than Putin’ after ‘energy ceasefire’ collapses",
+   "link": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
+   "source": "The Guardian",
+   "published": "2026-10-16T10:01:58.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "Russia"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "8b8f37d37e3c",
+   "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
+   "summary": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
+   "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-15T15:42:37.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "drought"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Drought"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United Kingdom?",
+    "How could United Kingdom’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "f9936a0b3044",
+   "title": "'I paid thousands to a company for jobs that never came'",
+   "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+   "link": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-15T17:19:49.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "jobs",
+      "company"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "43563c1cd3bc",
+   "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
+   "summary": "Vessels were hit by missiles as rise in strikes suggests Iran is trying to close waterway before US midterm elections",
+   "link": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+   "source": "The Guardian",
+   "published": "2026-10-14T17:05:42.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.7,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "container"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 4.2,
+   "alsoIn": []
+  },
+  {
+   "id": "3474ad414003",
+   "title": "What we know about the criminal investigation into US congresswoman Ilhan Omar",
+   "summary": "The nature of the investigation is unclear but comes after officials cast doubt on her US citizenship.",
+   "link": "https://www.bbc.co.uk/news/articles/cq98zpk30pd5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-15T16:59:31.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "b023d73119e0",
+   "title": "‘Like selling wolves from Yellowstone’: how protected US sharks are being sold off to foreign aquariums",
+   "summary": "While anglers cannot take endangered sand tiger sharks, a loophole lets private firms catch the fish to sell abroad, profiting from Delaware Bay’s conservation success",
+   "link": "https://www.theguardian.com/environment/2026/oct/15/conservation-aquariums-endangered-sharks-protected-waters-delaware-bay-us-sand-tiger-sharks",
+   "source": "The Guardian",
+   "published": "2026-10-15T09:00:14.000Z",
+   "place": {
+    "name": "Delaware",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39,
+    "lon": -75.5,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "conservation"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems"
+   ],
+   "terms": [
+    "Conservation"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How could this environment be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "84d007dc8e0a",
+   "title": "From black soldier flies to mealworms: farming insects for food, fodder and fertiliser in Uganda",
+   "summary": "Cultivating the nutritious bugs means families can raise livestock and enrich their own food, while lowering pressures on the land",
+   "link": "https://www.theguardian.com/global-development/2026/oct/14/farming-insects-food-fodder-fertiliser-uganda",
+   "source": "The Guardian",
+   "published": "2026-10-14T10:00:01.000Z",
+   "place": {
+    "name": "Uganda",
+    "country": "Uganda",
+    "iso": "UG",
+    "lat": 1.27,
+    "lon": 32.37,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "farm",
+      "livestock"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "6fb2ec0b67f5",
+   "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+   "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
+   "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-15T17:31:37.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Russia"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "president",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Ukraine?"
+   ],
+   "conflict": true,
+   "score": 3.4,
+   "alsoIn": []
+  }
+ ]
+}
