@@ -1,0 +1,1233 @@
+{
+ "date": "2026-10-19",
+ "generated": "2026-10-19T14:51:44.355Z",
+ "count": 27,
+ "stories": [
+  {
+   "id": "375a6d6a3a6f",
+   "title": "Cop17 at a glance: everything you need to know about the UN’s nature summit",
+   "summary": "This month’s biodiversity summit in Yerevan, Armenia, aims to push governments to meet the 23 targets agreed at Cop15 in 2022",
+   "link": "https://www.theguardian.com/environment/2026/oct/19/environment-cop17-un-biodiversity-summit-yerevan-explainer-conservation",
+   "source": "The Guardian",
+   "published": "2026-10-19T04:00:19.000Z",
+   "place": {
+    "name": "Yerevan, Armenia",
+    "country": "Armenia",
+    "iso": "AM",
+    "lat": 40.18,
+    "lon": 44.51,
+    "precision": "place",
+    "confidence": 0.525,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "biodiversity",
+      "nature"
+     ],
+     "P": [
+      "government",
+      "summit",
+      "cop1"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "climate",
+    "ecosystems"
+   ],
+   "terms": [
+    "Biodiversity"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 9.5,
+   "alsoIn": [
+    "UN News"
+   ],
+   "featured": true
+  },
+  {
+   "id": "cc04fc7e52c0",
+   "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+   "summary": "Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next",
+   "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+   "source": "The Guardian",
+   "published": "2026-10-18T04:00:49.000Z",
+   "place": {
+    "name": "Argentina",
+    "country": "Argentina",
+    "iso": "AR",
+    "lat": -34.54,
+    "lon": -64.75,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "industr",
+      "oil"
+     ],
+     "S": [
+      "slum"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "urban",
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Urbanisation"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "What challenges does urban growth create in Argentina?"
+   ],
+   "conflict": true,
+   "score": 8.4,
+   "alsoIn": []
+  },
+  {
+   "id": "ea632e97924f",
+   "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+   "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece",
+   "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+   "source": "The Guardian",
+   "published": "2026-10-19T10:07:09.000Z",
+   "place": {
+    "name": "Greece",
+    "country": "Greece",
+    "iso": "GR",
+    "lat": 39.46,
+    "lon": 22.57,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Mexico"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "heavy rain",
+      "hurricane"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "Flooding",
+    "Tropical storm"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Greece?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 8,
+   "alsoIn": []
+  },
+  {
+   "id": "1e3ed41b56a6",
+   "title": "A California town’s beaches are washing away. Can its residents turn the tide?",
+   "summary": "Rapid coastal erosion threatens coastal homes and economies, and as Super El Niño rounds the corner, a town is reckoning with the reality of climate crisis",
+   "link": "https://www.theguardian.com/us-news/2026/oct/18/california-beach-erosion-san-clemente",
+   "source": "The Guardian",
+   "published": "2026-10-18T11:00:03.000Z",
+   "place": {
+    "name": "California",
+    "country": "United States",
+    "iso": "US",
+    "lat": 37,
+    "lon": -120,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "el niño",
+      "coast"
+     ],
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "economy"
+   ],
+   "terms": [
+    "Climate change",
+    "El Niño",
+    "Sea level rise"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 7.5,
+   "alsoIn": []
+  },
+  {
+   "id": "7c07041bc291",
+   "title": "Tap water no longer drinkable in Norwegian town as climate-related thawing releases heavy metals",
+   "summary": "Warning for other Arctic communities as residents told not to use water in Longyearbyen in Svalbard, one of the fastest-warming places in the world",
+   "link": "https://www.theguardian.com/environment/2026/oct/19/tap-water-no-longer-drinkable-norwegian-town-climate-related-thawing-heavy-metals-arctic-longyearbyen-svalbard",
+   "source": "The Guardian",
+   "published": "2026-10-19T05:00:20.000Z",
+   "place": {
+    "name": "Norway",
+    "country": "Norway",
+    "iso": "NO",
+    "lat": 61.5,
+    "lon": 9.5,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": [
+     "Svalbard and Jan Mayen"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "arctic"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "climate"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 7.3,
+   "alsoIn": []
+  },
+  {
+   "id": "b9f2c54e8796",
+   "title": "Mexican protesters demanding clean water storm state congress",
+   "summary": "",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress",
+   "source": "Al Jazeera",
+   "published": "2026-10-19T10:08:01.000Z",
+   "place": {
+    "name": "Mexico",
+    "country": "Mexico",
+    "iso": "MX",
+    "lat": 23.92,
+    "lon": -102.15,
+    "precision": "country",
+    "confidence": 0.6,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "En"
+    ],
+    "why": {
+     "S": [
+      "clean water",
+      "protest"
+     ],
+     "En": [
+      "storm"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Water scarcity"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "6afb460d7032",
+   "title": "EPA quietly backtracks on claims US has phased out toxic Pfas compounds",
+   "summary": "Agency changes wording on website as Texas-based firm continues manufacture of plastic container barriers",
+   "link": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins",
+   "source": "The Guardian",
+   "published": "2026-10-18T22:53:27.000Z",
+   "place": {
+    "name": "Texas",
+    "country": "United States",
+    "iso": "US",
+    "lat": 31,
+    "lon": -99,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "toxic",
+      "plastic"
+     ],
+     "E": [
+      "manufactur",
+      "container",
+      "firm"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Plastic pollution",
+    "Pollution"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "e310b7bf10f9",
+   "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+   "summary": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand",
+   "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+   "source": "The Guardian",
+   "published": "2026-10-19T09:27:04.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "gdp",
+      "export"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "GDP",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": [
+    "BBC News"
+   ]
+  },
+  {
+   "id": "bef10fbb9534",
+   "title": "Attacked from the sky: Sudanese goldminers count deadly cost of eking out a living on the Egypt border",
+   "summary": "As civil war has left their country in ruins, many young Sudanese have turned to artisanal mining. An airstrike on a mine last week killed more than 100 and has provoked anger against Egypt, seen as the most likely suspect",
+   "link": "https://www.theguardian.com/global-development/2026/oct/18/attacked-from-the-sky-sudanese-goldminers-count-deadly-cost-of-eking-out-a-living-on-the-egypt-border",
+   "source": "The Guardian",
+   "published": "2026-10-18T07:00:52.000Z",
+   "place": {
+    "name": "Egypt",
+    "country": "Egypt",
+    "iso": "EG",
+    "lat": 26.46,
+    "lon": 29.88,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Sudan"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "border",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "resources"
+   ],
+   "terms": [
+    "Natural resources"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": true,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "52b2dd40a215",
+   "title": "Burnham urged to launch inquiry into unequal health impacts of air pollution",
+   "summary": "Letter from 150 scientists, MPs and activists calls for action to protect lower-income and minority-ethnic communities",
+   "link": "https://www.theguardian.com/environment/2026/oct/19/andy-burnham-government-inquiry-unequal-health-impacts-air-pollution",
+   "source": "The Guardian",
+   "published": "2026-10-19T05:00:20.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "pollution"
+     ],
+     "S": [
+      "health",
+      "communit"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [
+    "Pollution"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "07aa045c9b71",
+   "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
+   "summary": "There have been new reports of Iranian support for the Houthis in Yemen amid a wave of attacks on Saudi cities.",
+   "link": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit",
+   "source": "Al Jazeera",
+   "published": "2026-10-19T10:49:23.000Z",
+   "place": {
+    "name": "Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 15.94,
+    "lon": 47.52,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Saudi Arabia",
+     "Iran"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "erupt"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "hazards",
+    "geopolitics"
+   ],
+   "terms": [
+    "Volcano"
+   ],
+   "questions": [
+    "What challenges does urban growth create in Yemen?",
+    "What might the primary and secondary effects of this event be in Yemen?"
+   ],
+   "conflict": true,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "ed6a186ca338",
+   "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
+   "summary": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168619",
+   "source": "UN News",
+   "published": "2026-10-17T12:00:00.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "geopolitics"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Palestine?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "bbbf5caff322",
+   "title": "BBC visits wildfire front in haze-choked Indonesia",
+   "summary": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.",
+   "link": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-19T01:57:02.000Z",
+   "place": {
+    "name": "Indonesia",
+    "country": "Indonesia",
+    "iso": "ID",
+    "lat": -2.5,
+    "lon": 118,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildfire",
+      "toxic"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Pollution",
+    "Wildfire"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Indonesia?",
+    "How could Indonesia’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "005ed156c7ec",
+   "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
+   "summary": "Two-thirds of population face crisis levels of food insecurity and 200,000 people are in danger of famine",
+   "link": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
+   "source": "The Guardian",
+   "published": "2026-10-19T09:54:33.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "population",
+      "food insecurity",
+      "famine"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "development",
+    "migration"
+   ],
+   "terms": [
+    "Famine",
+    "Food security",
+    "Population growth"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "What does this story suggest about quality of life in Palestine?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "d55544bb1353",
+   "title": "Fuel leak spreads more than two miles along River Taff",
+   "summary": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
+   "link": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-18T19:20:57.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "river"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in United Kingdom?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "7d8c6de21bea",
+   "title": "Indonesia battles worst forest fires and toxic haze in 11 years",
+   "summary": "",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years",
+   "source": "Al Jazeera",
+   "published": "2026-10-19T11:05:57.000Z",
+   "place": {
+    "name": "Indonesia",
+    "country": "Indonesia",
+    "iso": "ID",
+    "lat": -2.5,
+    "lon": 118,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "forest",
+      "toxic"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems"
+   ],
+   "terms": [
+    "Pollution",
+    "Wildfire"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How could this environment be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "9f308b9c06a2",
+   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+   "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+   "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-18T23:28:45.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "China"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "tariff",
+      "import"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Tariff",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "f06d27e1ad74",
+   "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
+   "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-17T19:13:21.000Z",
+   "place": {
+    "name": "California",
+    "country": "United States",
+    "iso": "US",
+    "lat": 37,
+    "lon": -120,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildfire"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "Wildfire"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "1b06a23e4bf5",
+   "title": "Heating oil customers face tough winter",
+   "summary": "The government plans to regulate heating oil prices after increases.",
+   "link": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-18T06:07:40.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "prices",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4.9,
+   "alsoIn": []
+  },
+  {
+   "id": "276d1a82d650",
+   "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+   "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
+   "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-19T06:00:18.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "un",
+      "territor"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "development",
+    "resources"
+   ],
+   "terms": [
+    "Aid"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "What does this story suggest about quality of life in Palestine?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "41df5885efdd",
+   "title": "'I took a chance on the whisky industry and I haven't looked back'",
+   "summary": "Zoey Darnbrough had no idea there was a distillery near her home - now she has a top tourism role there.",
+   "link": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-18T08:12:17.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "industr",
+      "touris"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Tourism"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "bf179519391f",
+   "title": "Seabird numbers bounce back in Solent region after 2022 avian flu wipeout",
+   "summary": "Conservation work by RSPB has led to recovery of terns, gulls, plovers and oystercatchers on England’s south coast",
+   "link": "https://www.theguardian.com/environment/2026/oct/19/seabird-numbers-bounce-back-solent-region-avian-flu-rspb",
+   "source": "The Guardian",
+   "published": "2026-10-19T06:00:21.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "conservation",
+      "coast"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems"
+   ],
+   "terms": [
+    "Conservation"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How could this environment be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "553f5698c229",
+   "title": "Charities 'busier than ever' with furniture poverty",
+   "summary": "Charities in Hampshire tell the BBC that furniture poverty is becoming an increasing problem.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-19T05:10:28.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "poverty"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [
+    "Poverty"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "b2284d6e2a78",
+   "title": "France hit by debt sell-off as protests unnerve investors",
+   "summary": "Difference between French and German 10-year borrowing costs widens after violence breaks out",
+   "link": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
+   "source": "The Guardian",
+   "published": "2026-10-19T07:32:59.000Z",
+   "place": {
+    "name": "France",
+    "country": "France",
+    "iso": "FR",
+    "lat": 46.6,
+    "lon": 2.4,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "debt",
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "economy"
+   ],
+   "terms": [
+    "Debt"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in France?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "e0fb987709e8",
+   "title": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
+   "summary": "Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the&nbsp;UN Biodiversity Conference in Yerevan, said on Monday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168620",
+   "source": "UN News",
+   "published": "2026-10-19T12:00:00.000Z",
+   "place": {
+    "name": "Yerevan, Armenia",
+    "country": "Armenia",
+    "iso": "AM",
+    "lat": 40.18,
+    "lon": 44.51,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "biodiversity"
+     ],
+     "P": [
+      "talks",
+      "un"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "geopolitics"
+   ],
+   "terms": [
+    "Biodiversity"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "5b73bd941bc5",
+   "title": "‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists",
+   "summary": "Voters to be asked whether province should remain part of Canada or hold a second, binding independence vote",
+   "link": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
+   "source": "The Guardian",
+   "published": "2026-10-19T05:00:22.000Z",
+   "place": {
+    "name": "Alberta",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 55,
+    "lon": -115,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "referendum",
+      "vote",
+      "separatis"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Canada?"
+   ],
+   "conflict": false,
+   "score": 3.6,
+   "alsoIn": []
+  },
+  {
+   "id": "b14530ac4337",
+   "title": "The father and son on opposite sides of Alberta’s separation vote",
+   "summary": "Albertans are voting on whether to stay in Canada or pursue independence via a referendum, splitting even some close-knit families.",
+   "link": "https://www.bbc.co.uk/news/videos/c6g7xj3d88nvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-19T07:55:32.000Z",
+   "place": {
+    "name": "Alberta",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 55,
+    "lon": -115,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "vote",
+      "referendum",
+      "independence"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Canada?"
+   ],
+   "conflict": false,
+   "score": 3.1,
+   "alsoIn": []
+  }
+ ]
+}
