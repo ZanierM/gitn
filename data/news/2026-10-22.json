@@ -1,0 +1,1108 @@
+{
+ "date": "2026-10-22",
+ "generated": "2026-10-22T13:05:33.071Z",
+ "count": 24,
+ "stories": [
+  {
+   "id": "dfb82fe003bf",
+   "title": "Summit in Samarkand, a boon for child wellbeing and health",
+   "summary": "Representatives from across the international community are meeting in Samarkand, Uzbekistan, to ensure that children everywhere can thrive in a world marred by war, climate chaos and other fundamental challenges.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168640",
+   "source": "UN News",
+   "published": "2026-10-21T12:00:00.000Z",
+   "place": {
+    "name": "Uzbekistan",
+    "country": "Uzbekistan",
+    "iso": "UZ",
+    "lat": 41.78,
+    "lon": 63.29,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P",
+     "En"
+    ],
+    "why": {
+     "S": [
+      "health",
+      "children",
+      "communit"
+     ],
+     "P": [
+      "summit",
+      "war"
+     ],
+     "En": [
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "climate",
+    "development"
+   ],
+   "terms": [
+    "Climate change",
+    "Quality of life"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": true,
+   "score": 9.8,
+   "alsoIn": []
+  },
+  {
+   "id": "042a50c6be2f",
+   "title": "Can European leaders fix the cost-of-living crisis?",
+   "summary": "Anger over housing, wages and public services tests European governments facing debt pressures and looming elections.",
+   "link": "https://www.aljazeera.com/video/counting-the-cost/2026/10/22/can-european-leaders-fix-the-cost-of-living-crisis",
+   "source": "Al Jazeera",
+   "published": "2026-10-22T09:58:21.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "cost-of-living",
+      "wages",
+      "debt"
+     ],
+     "S": [
+      "housing"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "urban",
+    "geopolitics"
+   ],
+   "terms": [
+    "Cost of living",
+    "Debt"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "What challenges does urban growth create in the places involved?"
+   ],
+   "conflict": false,
+   "score": 9.1,
+   "alsoIn": []
+  },
+  {
+   "id": "4e37aa59a0f0",
+   "title": "How bad is Jackdaw gasfield approval for the climate? – The Latest",
+   "summary": "Climate campaigners have condemned the UK government’s decision to allow the drilling of the Jackdaw gasfield. Critics argue the move will put climate targets at risk, while failing to reduce energy bills and the cost of living crisis.",
+   "link": "https://www.theguardian.com/news/video/2026/oct/21/how-bad-is-jackdaw-gasfield-approval-for-the-climate-the-latest",
+   "source": "The Guardian",
+   "published": "2026-10-21T18:51:39.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "environment"
+     ],
+     "E": [
+      "cost of living",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources"
+   ],
+   "terms": [
+    "Climate change",
+    "Cost of living"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 8.6,
+   "alsoIn": [
+    "BBC News"
+   ],
+   "featured": true
+  },
+  {
+   "id": "c776e6a77a3c",
+   "title": "Marine life in Gulf of Mexico has still not fully recovered from 2010 BP oil spill",
+   "summary": "New study reveals dramatic population drops in fish, cephalopods and more after the Deepwater Horizon spill",
+   "link": "https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life",
+   "source": "The Guardian",
+   "published": "2026-10-22T12:00:44.000Z",
+   "place": {
+    "name": "Gulf of Mexico",
+    "country": "United States",
+    "iso": "US",
+    "lat": 25,
+    "lon": -90,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "marine"
+     ],
+     "E": [
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "migration",
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Population growth"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": false,
+   "score": 8,
+   "alsoIn": []
+  },
+  {
+   "id": "b9184a847707",
+   "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
+   "summary": "The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168642",
+   "source": "UN News",
+   "published": "2026-10-21T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "migra"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "geopolitics"
+   ],
+   "terms": [
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 7,
+   "alsoIn": []
+  },
+  {
+   "id": "cd83f0bb469b",
+   "title": "At least four dead after storm brings flooding to southern France",
+   "summary": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+   "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-22T11:23:16.000Z",
+   "place": {
+    "name": "France",
+    "country": "France",
+    "iso": "FR",
+    "lat": 46.6,
+    "lon": 2.4,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "storm"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in France?",
+    "How could France’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 7,
+   "alsoIn": []
+  },
+  {
+   "id": "7d63ea06bec7",
+   "title": "Trendy LA neighborhood’s war over wild coyote erupts after child attacked",
+   "summary": "Coyote euthanized after reportedly roaming Atwater Village comfortably for months and attacking one-year-old boy",
+   "link": "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles",
+   "source": "The Guardian",
+   "published": "2026-10-20T16:00:39.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "erupt"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "geopolitics"
+   ],
+   "terms": [
+    "Rural",
+    "Volcano"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in the places involved?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "5e05acb179c0",
+   "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
+   "summary": "Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168638",
+   "source": "UN News",
+   "published": "2026-10-21T12:00:00.000Z",
+   "place": {
+    "name": "Sudan",
+    "country": "Sudan",
+    "iso": "SD",
+    "lat": 15.97,
+    "lon": 29.91,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "humanitarian"
+     ],
+     "P": [
+      "talks",
+      "conflict",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "development"
+   ],
+   "terms": [
+    "Humanitarian crisis"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "What does this story suggest about quality of life in Sudan?"
+   ],
+   "conflict": true,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "bef10fbb9534",
+   "title": "Attacked from the sky: Sudanese goldminers count deadly cost of eking out a living on the Egypt border",
+   "summary": "As civil war has left their country in ruins, many young Sudanese have turned to artisanal mining. An airstrike on a mine last week killed more than 100 and has provoked anger against Egypt, seen as the most likely suspect",
+   "link": "https://www.theguardian.com/global-development/2026/oct/18/attacked-from-the-sky-sudanese-goldminers-count-deadly-cost-of-eking-out-a-living-on-the-egypt-border",
+   "source": "The Guardian",
+   "published": "2026-10-18T07:00:52.000Z",
+   "place": {
+    "name": "Egypt",
+    "country": "Egypt",
+    "iso": "EG",
+    "lat": 26.46,
+    "lon": 29.88,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Sudan"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "border",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "resources"
+   ],
+   "terms": [
+    "Natural resources"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": true,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "fb1b0ba1107e",
+   "title": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
+   "summary": "Water and fresh food running out in Taiz as fighting intensifies and Houthi advance cuts off most supply routes",
+   "link": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
+   "source": "The Guardian",
+   "published": "2026-10-21T14:24:02.000Z",
+   "place": {
+    "name": "Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 15.94,
+    "lon": 47.52,
+    "precision": "country",
+    "confidence": 0.725,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "aid workers"
+     ],
+     "E": [
+      "workers"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "development",
+    "urban"
+   ],
+   "terms": [
+    "Aid"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "What does this story suggest about quality of life in Yemen?"
+   ],
+   "conflict": true,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "871671182ad8",
+   "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+   "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-21T23:27:05.000Z",
+   "place": {
+    "name": "North Sea",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 56,
+    "lon": 3,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "invest",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "441ead6a8c75",
+   "title": "Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals",
+   "summary": "Treasury is revising all the numbers for the mid-year budget update as economists warn of a difficult six months ahead",
+   "link": "https://www.theguardian.com/business/2026/oct/22/jim-chalmers-economy-speech-rising-unemployment-inflation",
+   "source": "The Guardian",
+   "published": "2026-10-22T11:30:43.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "unemploy",
+      "budget"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Unemployment"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "82c826d7c0dd",
+   "title": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 displaced",
+   "summary": "Yemen's government forces launched hundreds of strikes on Houthi locations, a spokesperson says.",
+   "link": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced",
+   "source": "Al Jazeera",
+   "published": "2026-10-22T09:00:05.000Z",
+   "place": {
+    "name": "Taiz, Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 13.58,
+    "lon": 44.02,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "displac"
+     ],
+     "P": [
+      "government",
+      "un"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "geopolitics"
+   ],
+   "terms": [
+    "Displacement"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.7,
+   "alsoIn": []
+  },
+  {
+   "id": "6c8c3cae0452",
+   "title": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
+   "summary": "Overnight attacks on Kyiv injured 15 people, while two were injured in Moscow as Russia said it intercepted 163 drones.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks",
+   "source": "Al Jazeera",
+   "published": "2026-10-22T09:57:47.000Z",
+   "place": {
+    "name": "Moscow, Russia",
+    "country": "Russia",
+    "iso": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "precision": "place",
+    "confidence": 1,
+    "also": [
+     "Ukraine"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "trade"
+     ],
+     "P": [
+      "talks",
+      "peace talks"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": true,
+   "score": 5.4,
+   "alsoIn": []
+  },
+  {
+   "id": "ef27568c3f8d",
+   "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+   "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+   "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-21T15:36:31.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "environment"
+     ],
+     "E": [
+      "oil",
+      "gas"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 5.4,
+   "alsoIn": []
+  },
+  {
+   "id": "53d65475ee41",
+   "title": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000",
+   "summary": "The Cali Fund, set up to raise $1bn a year for biodiversity from drug companies, remains near empty",
+   "link": "https://www.theguardian.com/environment/2026/oct/22/cop17-cali-conservation-fund-pharmaceutical-freeriding-nature-aoe",
+   "source": "The Guardian",
+   "published": "2026-10-22T09:00:59.000Z",
+   "place": {
+    "name": "Cali, Colombia",
+    "country": "Colombia",
+    "iso": "CO",
+    "lat": 3.44,
+    "lon": -76.52,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "biodiversity",
+      "nature"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems"
+   ],
+   "terms": [
+    "Biodiversity"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How could this environment be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "f742c3911c35",
+   "title": "Oil prices jump to five-month high as attacks threaten global supply",
+   "summary": "Iran’s IRGC says it hit four vessels in the northern Gulf and three more struck mines near the strait of Hormuz",
+   "link": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+   "source": "The Guardian",
+   "published": "2026-10-22T11:28:11.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "prices",
+      "oil",
+      "mines"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Globalisation",
+    "Natural resources"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": true,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "932b76322c94",
+   "title": "US embassy accuses Canada of election meddling ahead of midterms",
+   "summary": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
+   "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-22T03:05:28.000Z",
+   "place": {
+    "name": "Canada",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 56,
+    "lon": -100,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "trade"
+     ],
+     "P": [
+      "minister",
+      "election"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.9,
+   "alsoIn": []
+  },
+  {
+   "id": "f8cbf25825e0",
+   "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
+   "summary": "Eastern Libya’s parliament backs a sea border pact with Ankara, a shift that analysts say redraws Libya’s alliances.",
+   "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed",
+   "source": "Al Jazeera",
+   "published": "2026-10-22T11:36:02.000Z",
+   "place": {
+    "name": "Ankara, Türkiye",
+    "country": "Türkiye",
+    "iso": "TR",
+    "lat": 39.92,
+    "lon": 32.85,
+    "precision": "place",
+    "confidence": 1,
+    "also": [
+     "Libya",
+     "Egypt"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "parliament",
+      "eu",
+      "border"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Türkiye?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "019235557f81",
+   "title": "Whale carcass closes Maroubra and Coogee beaches in Sydney – video",
+   "summary": "Video released by Randwick city council shows a whale carcass floating in the water in a Sydney bay, causing the closure of two busy beaches. The whale's decomposed body was found on Thursday morning at Lurline Bay, a rocky cove surrounded by cliffs in Sydney’s eastern suburbs. It’s believed to be a juvenile humpback",
+   "link": "https://www.theguardian.com/environment/video/2026/oct/22/whale-carcass-closes-maroubra-and-coogee-beaches-in-sydney-video",
+   "source": "The Guardian",
+   "published": "2026-10-22T05:38:31.000Z",
+   "place": {
+    "name": "Sydney, Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -33.87,
+    "lon": 151.21,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "whale"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in Australia?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "ffb09212ace7",
+   "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
+   "summary": "The World Health Organization (WHO) is&nbsp;scaling up emergency health response operations across Afar, Amhara and Tigray in Ethiopia to address growing humanitarian and health needs resulting from ongoing hostilities.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168643",
+   "source": "UN News",
+   "published": "2026-10-21T12:00:00.000Z",
+   "place": {
+    "name": "Tigray",
+    "country": "Ethiopia",
+    "iso": "ET",
+    "lat": 14,
+    "lon": 38.8,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health",
+      "humanitarian"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [
+    "Aid",
+    "Heatwave",
+    "Humanitarian crisis"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Ethiopia?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": true,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "fb0dbcf28488",
+   "title": "Chiricahua monument in Arizona is now the 64th US national park",
+   "summary": "New designation of the Land of Standing-Up Rocks, known for its historic rock spires, passed with bipartisan support",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/chiricahua-monument-arizona-new-national-park",
+   "source": "The Guardian",
+   "published": "2026-10-22T12:08:40.000Z",
+   "place": {
+    "name": "Arizona",
+    "country": "United States",
+    "iso": "US",
+    "lat": 34.3,
+    "lon": -111.7,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "national park"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems"
+   ],
+   "terms": [
+    "Conservation"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How could this environment be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "87ca3b832b35",
+   "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
+   "summary": "Three years on from the reported resumption of large-scale forcible returns of nationals of the Democratic People’s Republic of Korea (DPRK) from China, serious concerns persist about their fate, according to a group of Human Rights Council-appointed independent experts.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168645",
+   "source": "UN News",
+   "published": "2026-10-21T12:00:00.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "un",
+      "human rights"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Human rights"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in China?"
+   ],
+   "conflict": false,
+   "score": 3.8,
+   "alsoIn": []
+  },
+  {
+   "id": "008d7322ad26",
+   "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+   "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+   "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-21T21:27:41.000Z",
+   "place": {
+    "name": "Kyiv, Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 50.45,
+    "lon": 30.52,
+    "precision": "place",
+    "confidence": 1,
+    "also": [
+     "Russia"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "president",
+      "talks",
+      "peace talks"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Ukraine?"
+   ],
+   "conflict": true,
+   "score": 3.5,
+   "alsoIn": []
+  }
+ ]
+}
