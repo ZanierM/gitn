@@ -1,0 +1,1126 @@
+{
+ "date": "2026-10-23",
+ "generated": "2026-10-23T12:44:44.982Z",
+ "count": 25,
+ "stories": [
+  {
+   "id": "52d4860625f8",
+   "title": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
+   "summary": "The deadly flash flood that tore through Nepal in August is a “defining moment” for both the country and the international community, according to the head of the UN field agency which builds roads, schools and clinics in crisis zones.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168651",
+   "source": "UN News",
+   "published": "2026-10-22T12:00:00.000Z",
+   "place": {
+    "name": "Nepal",
+    "country": "Nepal",
+    "iso": "NP",
+    "lat": 28.26,
+    "lon": 83.95,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "glacier"
+     ],
+     "S": [
+      "schools",
+      "communit"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Flooding",
+    "Glacier",
+    "Infrastructure"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Nepal?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 11,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "50e7489c2c1d",
+   "title": "Mothers get nearly eight times more paid leave than fathers – and women pay the price",
+   "summary": "Mothers around the world get nearly eight times as much paid leave as fathers, leaving women to shoulder most of the care burden – at a cost to families, children and economies, according to new UN data published on Thursday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168650",
+   "source": "UN News",
+   "published": "2026-10-22T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "price"
+     ],
+     "S": [
+      "women"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 7.5,
+   "alsoIn": []
+  },
+  {
+   "id": "dd493742081f",
+   "title": "We will make the net-zero transition work for Britain – approving the Jackdaw gasfield is part of the plan | Andy Burnham",
+   "summary": "Protecting jobs and strengthening energy security in the short term does not mean wavering on Labour’s deep commitment to a cleaner, greener future",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/22/net-zero-transition-britain-jackdaw-gasfield-jobs-energy-security-labour",
+   "source": "The Guardian",
+   "published": "2026-10-22T17:00:45.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "net-zero"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Energy security",
+    "Mitigation"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 7.3,
+   "alsoIn": []
+  },
+  {
+   "id": "e6f37a12f4f6",
+   "title": "In allowing coal expansion in the Hunter, Chris Minns is pouring fuel on the climate fire. His decision will come back to hurt us all | Jack Egan",
+   "summary": "The high court found NSW is responsible for emissions from burning exported coal. What message does it send when the government can step in and bypass the law?",
+   "link": "https://www.theguardian.com/australia-news/commentisfree/2026/oct/23/chris-minns-coal-expansion-laws-will-hurt-us-all-climate-mount-pleasant",
+   "source": "The Guardian",
+   "published": "2026-10-23T01:08:49.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "emission",
+      "coal"
+     ],
+     "E": [
+      "export"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Climate change",
+    "Fossil fuels",
+    "Trade"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 7,
+   "alsoIn": []
+  },
+  {
+   "id": "be1515692c56",
+   "title": "‘For Panama, it is life or death’: how drought is choking the canal that feeds a nation",
+   "summary": "Failed rains and a dire El Niño threaten the waterway that sustains the country, with farmers selling cattle to survive",
+   "link": "https://www.theguardian.com/global-development/2026/oct/20/panama-canal-environment-water-drought-el-nino-farming",
+   "source": "The Guardian",
+   "published": "2026-10-20T10:00:32.000Z",
+   "place": {
+    "name": "Panama",
+    "country": "Panama",
+    "iso": "PA",
+    "lat": 8.53,
+    "lon": -80.11,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "drought",
+      "el niño"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "hazards"
+   ],
+   "terms": [
+    "Drought",
+    "El Niño",
+    "Rural"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "What might the primary and secondary effects of this event be in Panama?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "fc5a23d697a6",
+   "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
+   "summary": "With global temperature rise set to exceed 1.5°C above pre-industrial levels, countries “must pull out all the stops” and urgently cut emissions to minimize the overshoot and return to the internationally agreed threshold by the end of this century.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168634",
+   "source": "UN News",
+   "published": "2026-10-21T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "global warming",
+      "emission",
+      "temperature"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "economy"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Climate change",
+    "Mitigation"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "822a44a8c12b",
+   "title": "‘Connect the dots’ between street protests and global turmoil, urges Guterres",
+   "summary": "The international community must combat inequality and stop wars from expanding to ensure a safer world for all, the UN Secretary-General said on Thursday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168646",
+   "source": "UN News",
+   "published": "2026-10-22T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "inequalit",
+      "communit",
+      "protest"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Inequality"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "9336944c13f0",
+   "title": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
+   "summary": "At the midpoint of the last century the region had 1,450 glaciers and a new study reveals the extent of losses",
+   "link": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
+   "source": "The Guardian",
+   "published": "2026-10-23T12:00:26.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "glacier"
+     ]
+    }
+   },
+   "topics": [
+    "climate"
+   ],
+   "terms": [
+    "Climate change",
+    "Glacier"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Who are the winners and losers from this in United States?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "bdadd4095ea3",
+   "title": "Europe needs a war economy",
+   "summary": "With US support increasingly uncertain, Europe must mobilise its financial and industrial power to defend itself.",
+   "link": "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy",
+   "source": "Al Jazeera",
+   "published": "2026-10-23T07:08:10.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "industr"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "b6ecef602075",
+   "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+   "summary": "The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.",
+   "link": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-22T20:48:56.000Z",
+   "place": {
+    "name": "New York, United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 40.71,
+    "lon": -74,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "workers",
+      "industr",
+      "touris"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "urban"
+   ],
+   "terms": [
+    "Tourism"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "What challenges does urban growth create in United States?"
+   ],
+   "conflict": false,
+   "score": 6.1,
+   "alsoIn": []
+  },
+  {
+   "id": "d14103109644",
+   "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+   "summary": "Latest smartphones are finding their way into Iran despite sanctions and trade restrictions, but many can't afford them.",
+   "link": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit",
+   "source": "Al Jazeera",
+   "published": "2026-10-23T09:56:28.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "trade",
+      "prices"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "economy"
+   ],
+   "terms": [
+    "Sanctions",
+    "Trade"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6.1,
+   "alsoIn": []
+  },
+  {
+   "id": "305f4aee5ae8",
+   "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
+   "summary": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday.",
+   "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-23T09:47:42.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "heavy rain",
+      "storm"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "91a852a1ecea",
+   "title": "Every Briton should stockpile water and food supplies, government advises",
+   "summary": "Be Ready campaign aims to prepare UK for impact of climate crisis, technological dependency and threats by hostile state",
+   "link": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+   "source": "The Guardian",
+   "published": "2026-10-22T18:10:11.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "climate"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "faea9efb2fa1",
+   "title": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
+   "summary": "‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz says",
+   "link": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
+   "source": "The Guardian",
+   "published": "2026-10-22T15:00:29.000Z",
+   "place": {
+    "name": "Alberta",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 55,
+    "lon": -115,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "cost of living",
+      "workers"
+     ],
+     "S": [
+      "migra"
+     ]
+    }
+   },
+   "topics": [
+    "migration"
+   ],
+   "terms": [
+    "Cost of living",
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What are the impacts on the places people leave and the places they move to?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "933e6bffe036",
+   "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+   "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+   "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-22T15:56:36.000Z",
+   "place": {
+    "name": "Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 15.94,
+    "lon": 47.52,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "hunger"
+     ],
+     "P": [
+      "government",
+      "conflict"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Food security"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Yemen?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.7,
+   "alsoIn": []
+  },
+  {
+   "id": "666eba96da32",
+   "title": "Denmark to ban mink farming in government U-turn",
+   "summary": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
+   "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-23T12:17:45.000Z",
+   "place": {
+    "name": "Denmark",
+    "country": "Denmark",
+    "iso": "DK",
+    "lat": 56.23,
+    "lon": 9.35,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "industr",
+      "farm"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.6,
+   "alsoIn": []
+  },
+  {
+   "id": "e450d03e81ee",
+   "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+   "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago. BBC Africa correspondent Barbara Plett Usher explains.",
+   "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-23T11:30:32.000Z",
+   "place": {
+    "name": "Sudan",
+    "country": "Sudan",
+    "iso": "SD",
+    "lat": 15.97,
+    "lon": 29.91,
+    "precision": "country",
+    "confidence": 0.875,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "hospital",
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "urban",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Sudan?",
+    "What challenges does urban growth create in Sudan?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "a4567f47f96e",
+   "title": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
+   "summary": "People succumbed to heat at highest rates in Malta, Italy and Hungary, with health issues, loneliness and poverty exacerbating toll",
+   "link": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
+   "source": "The Guardian",
+   "published": "2026-10-23T04:01:01.000Z",
+   "place": {
+    "name": "Hungary",
+    "country": "Hungary",
+    "iso": "HU",
+    "lat": 47.17,
+    "lon": 19.38,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": [
+     "Italy",
+     "Malta"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health",
+      "poverty"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "urban"
+   ],
+   "terms": [
+    "Poverty"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Hungary?",
+    "What challenges does urban growth create in Hungary?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "0939ddfd332b",
+   "title": "DR Congo: Ebola responders under pressure as outbreak expands",
+   "summary": "As the deadly Ebola disease outbreak reached an eighth province of the Democratic Republic of the Congo (DRC), investigators pursued all leads on Thursday to assess the risk of the disease spreading in Nigeria.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168647",
+   "source": "UN News",
+   "published": "2026-10-22T12:00:00.000Z",
+   "place": {
+    "name": "Democratic Republic of the Congo",
+    "country": "Democratic Republic of the Congo",
+    "iso": "CD",
+    "lat": -2.87,
+    "lon": 23.64,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "outbreak",
+      "disease"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Democratic Republic of the Congo?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "e9711ab8c014",
+   "title": "Brazil’s election and the battle for the Amazon – podcast",
+   "summary": "Our Latin America correspondent, Tom Phillips, heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday. Send your comments and questions to tif.questions@theguardian.com",
+   "link": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+   "source": "The Guardian",
+   "published": "2026-10-23T02:00:56.000Z",
+   "place": {
+    "name": "Amazon",
+    "country": "Brazil",
+    "iso": "BR",
+    "lat": -4,
+    "lon": -62,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "rainforest"
+     ],
+     "P": [
+      "president",
+      "election"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.4,
+   "alsoIn": []
+  },
+  {
+   "id": "78ad058ff06b",
+   "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
+   "summary": "With emergency stocks at multidecade lows, analysts say the world may have only a month or two if Hormuz shuts again.",
+   "link": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war",
+   "source": "Al Jazeera",
+   "published": "2026-10-23T07:37:12.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "oil",
+      "stock"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "9392ddc9f622",
+   "title": "South Korea invites North for military talks over border",
+   "summary": "The proposal comes days after Pyongyang says it moved new military units into 'firing positions' along the border.",
+   "link": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border",
+   "source": "Al Jazeera",
+   "published": "2026-10-23T10:20:31.000Z",
+   "place": {
+    "name": "South Korea",
+    "country": "South Korea",
+    "iso": "KR",
+    "lat": 36.45,
+    "lon": 127.87,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "talks",
+      "border",
+      "military"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in South Korea?"
+   ],
+   "conflict": true,
+   "score": 4.7,
+   "alsoIn": []
+  },
+  {
+   "id": "a94b17bd40aa",
+   "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+   "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+   "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-23T10:23:07.000Z",
+   "place": {
+    "name": "Sudan",
+    "country": "Sudan",
+    "iso": "SD",
+    "lat": 15.97,
+    "lon": 29.91,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "S"
+    ],
+    "why": {
+     "P": [
+      "un",
+      "war",
+      "human rights"
+     ],
+     "S": [
+      "hospital"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Human rights"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Sudan?"
+   ],
+   "conflict": true,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "34794b753085",
+   "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+   "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+   "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-22T23:16:20.000Z",
+   "place": {
+    "name": "Moscow, Russia",
+    "country": "Russia",
+    "iso": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "diplomat",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Russia?"
+   ],
+   "conflict": true,
+   "score": 3.1,
+   "alsoIn": []
+  },
+  {
+   "id": "74117fb45bfb",
+   "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+   "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+   "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-21T19:58:06.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "president",
+      "talks",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Ukraine?"
+   ],
+   "conflict": true,
+   "score": 3.1,
+   "alsoIn": []
+  }
+ ]
+}
