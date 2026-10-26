@@ -1,0 +1,1069 @@
+{
+ "date": "2026-10-26",
+ "generated": "2026-10-26T15:21:51.743Z",
+ "count": 24,
+ "stories": [
+  {
+   "id": "7c5e755dd893",
+   "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+   "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy?",
+   "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+   "source": "The Guardian",
+   "published": "2026-10-26T11:00:40.000Z",
+   "place": {
+    "name": "Somalia",
+    "country": "Somalia",
+    "iso": "SO",
+    "lat": 4.74,
+    "lon": 45.68,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "river",
+      "el niño"
+     ],
+     "S": [
+      "population",
+      "women",
+      "children"
+     ],
+     "P": [
+      "territor",
+      "military"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "migration",
+    "resources"
+   ],
+   "terms": [
+    "El Niño",
+    "Flooding",
+    "Population growth"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Somalia?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": true,
+   "score": 12.5,
+   "alsoIn": []
+  },
+  {
+   "id": "5c8e7931e99b",
+   "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+   "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+   "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-26T00:26:49.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "labour",
+      "budget"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 7.1,
+   "alsoIn": []
+  },
+  {
+   "id": "939170c7995b",
+   "title": "Typhoon Champi declared strongest storm of year so far",
+   "summary": "One dead and 527 injured as winds of up to 185mph hit Taiwan and southern Japan, while Greece issues flood alerts",
+   "link": "https://www.theguardian.com/world/2026/oct/26/typhoon-champi-taiwan-japan-storm-greece-floods",
+   "source": "The Guardian",
+   "published": "2026-10-26T09:28:59.000Z",
+   "place": {
+    "name": "Greece",
+    "country": "Greece",
+    "iso": "GR",
+    "lat": 39.46,
+    "lon": 22.57,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": [
+     "Taiwan",
+     "Japan"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "typhoon",
+      "storm"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "Flooding",
+    "Tropical storm"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Greece?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "44da220e8984",
+   "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
+   "summary": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
+   "link": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-25T21:11:43.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "heavy rain",
+      "storm",
+      "weather"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": [
+    "The Guardian"
+   ]
+  },
+  {
+   "id": "177ee20d9810",
+   "title": "Budget to include £1bn for social and affordable housing",
+   "summary": "The move will take funding for the 10-year programme to more than £40bn.",
+   "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-25T10:03:17.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "budget"
+     ],
+     "S": [
+      "housing"
+     ]
+    }
+   },
+   "topics": [
+    "urban"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in the places involved?",
+    "How could this city become more sustainable?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "a82b46945df8",
+   "title": "Firms 'holding back' on new jobs ahead of Budget",
+   "summary": "Some businesses say they want to see employment costs come down in the October Budget.",
+   "link": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-25T07:06:12.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "jobs",
+      "budget",
+      "firms"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "25657deb7829",
+   "title": "Has Pakistan reopened its border with Iran for trade?",
+   "summary": "Traders say some exports are crossing border after a weeklong halt, but Tehran says its cargo is not getting through.",
+   "link": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade",
+   "source": "Al Jazeera",
+   "published": "2026-10-26T13:01:16.000Z",
+   "place": {
+    "name": "Tehran, Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 35.69,
+    "lon": 51.42,
+    "precision": "place",
+    "confidence": 1,
+    "also": [
+     "Pakistan"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "trade"
+     ],
+     "P": [
+      "border"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "c8ddceb8d419",
+   "title": "The aftermath of Storm Boelo across Scotland",
+   "summary": "Flooding, travel disruption and fallen trees - Storm Boelo has left it's mark across Scotland.",
+   "link": "https://www.bbc.co.uk/news/videos/cr3wvzl947q7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-25T19:31:36.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "storm"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United Kingdom?",
+    "How could United Kingdom’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "f06838f075fd",
+   "title": "Rosebank: Life on the oil field at the centre of a political storm",
+   "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+   "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-25T07:15:38.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "storm"
+     ],
+     "E": [
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "fc93e2bb4c6d",
+   "title": "Business Daily",
+   "summary": "A Chinese export surge has implications far beyond its borders",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-25T19:00:00.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.15,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "export"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.6,
+   "alsoIn": []
+  },
+  {
+   "id": "1a51e90606f8",
+   "title": "Have scientists finally found a way to save the banana from disaster?",
+   "summary": "With the climate crisis and diseases threatening one of the world’s most popular fruits, researchers are hoping a breakthrough in breeding techniques could give the Cavendish banana a certain future",
+   "link": "https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster",
+   "source": "The Guardian",
+   "published": "2026-10-22T13:00:05.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "En"
+    ],
+    "why": {
+     "S": [
+      "disease"
+     ],
+     "En": [
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "development"
+   ],
+   "terms": [
+    "Climate change",
+    "Hazard"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "What does this story suggest about quality of life in the places involved?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "51f1df1c39ce",
+   "title": "Why Israel's election is one of the most important in its history",
+   "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+   "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-25T22:05:30.000Z",
+   "place": {
+    "name": "Israel",
+    "country": "Israel",
+    "iso": "IL",
+    "lat": 31.45,
+    "lon": 35,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "import"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "a87c95f104a4",
+   "title": "Man found dead in Queensland flood waters as state hit by multiple storms and days-long deluge",
+   "summary": "Many rivers and roads left flooded after torrential downpours across Queensland",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge",
+   "source": "The Guardian",
+   "published": "2026-10-26T07:43:52.000Z",
+   "place": {
+    "name": "Queensland",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -22,
+    "lon": 144,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "river"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "Flooding",
+    "Infrastructure"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Australia?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "4910a9025d64",
+   "title": "Ebola: UN officials condemn killing of nurse in DR Congo",
+   "summary": "The UN’s Ebola coordinator and the head of the World Health Organization (WHO) have deplored the killing of a nurse working to halt the spread of the disease in the Democratic Republic of the Congo (DRC).&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168667",
+   "source": "UN News",
+   "published": "2026-10-26T12:00:00.000Z",
+   "place": {
+    "name": "Democratic Republic of the Congo",
+    "country": "Democratic Republic of the Congo",
+    "iso": "CD",
+    "lat": -2.87,
+    "lon": 23.64,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health",
+      "disease"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Democratic Republic of the Congo?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "77bf582ae5d8",
+   "title": "‘It’s collective punishment’: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes",
+   "summary": "Families forced to flee as Netanyahu tries to prove security credentials after two Israeli soldiers killed days before election",
+   "link": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes",
+   "source": "The Guardian",
+   "published": "2026-10-26T07:00:25.000Z",
+   "place": {
+    "name": "Israel",
+    "country": "Israel",
+    "iso": "IL",
+    "lat": 31.45,
+    "lon": 35,
+    "precision": "country",
+    "confidence": 0.6,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "displac"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "geopolitics"
+   ],
+   "terms": [
+    "Displacement"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "7585b0fd1918",
+   "title": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
+   "summary": "Lana Nusseibeh has Palestine’s endorsement but faces criticism over UAE’s record on human rights and Sudan",
+   "link": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
+   "source": "The Guardian",
+   "published": "2026-10-25T19:00:10.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "United Arab Emirates"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "diplomat",
+      "un",
+      "human rights"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Aid",
+    "Human rights"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Palestine?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "287df8b24088",
+   "title": "US south-west braces for more storms after enduring days of rain and flooding",
+   "summary": "More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week",
+   "link": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
+   "source": "The Guardian",
+   "published": "2026-10-25T19:02:51.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "weather"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "How could United States’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "88dbc3c2dc95",
+   "title": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
+   "summary": "Australia’s public debt may be well below that of France but there are lessons to be taken from its economic woes",
+   "link": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
+   "source": "The Guardian",
+   "published": "2026-10-26T14:00:43.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "France"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "debt"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "economy"
+   ],
+   "terms": [
+    "Debt"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Australia?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "1c6da570aaee",
+   "title": "Part of Antarctica named after former BBC science correspondent",
+   "summary": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
+   "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-26T14:54:40.000Z",
+   "place": {
+    "name": "Antarctica",
+    "country": "Antarctica",
+    "iso": "AQ",
+    "lat": -84.68,
+    "lon": 83.04,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "antarctic"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "696ffd5db420",
+   "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+   "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-26T13:18:57.000Z",
+   "place": {
+    "name": "Niger",
+    "country": "Niger",
+    "iso": "NE",
+    "lat": 17.41,
+    "lon": 9.33,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Algeria"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "border",
+      "troops"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 4.1,
+   "alsoIn": []
+  },
+  {
+   "id": "308203c16071",
+   "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+   "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+   "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-25T05:15:52.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": [
+     "Israel"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "election",
+      "crackdown"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Palestine?"
+   ],
+   "conflict": false,
+   "score": 4.1,
+   "alsoIn": []
+  },
+  {
+   "id": "81a7dd354a21",
+   "title": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults",
+   "summary": "Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’",
+   "link": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
+   "source": "The Guardian",
+   "published": "2026-10-26T09:47:14.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "jobs",
+      "market"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "3dc7471b1a1d",
+   "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+   "summary": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+   "source": "UN News",
+   "published": "2026-10-24T12:00:00.000Z",
+   "place": {
+    "name": "Khartoum, Sudan",
+    "country": "Sudan",
+    "iso": "SD",
+    "lat": 15.55,
+    "lon": 32.53,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "women"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Sudan?"
+   ],
+   "conflict": true,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "80ce4086e420",
+   "title": "In Egypt, Guterres warns against Iran-US escalation",
+   "summary": "UN Secretary-General António Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+   "source": "UN News",
+   "published": "2026-10-26T12:00:00.000Z",
+   "place": {
+    "name": "Cairo, Egypt",
+    "country": "Egypt",
+    "iso": "EG",
+    "lat": 30.06,
+    "lon": 31.25,
+    "precision": "place",
+    "confidence": 1,
+    "also": [
+     "Iran"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "un",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Egypt?"
+   ],
+   "conflict": true,
+   "score": 3.4,
+   "alsoIn": []
+  }
+ ]
+}
