@@ -1,0 +1,936 @@
+{
+ "date": "2026-10-28",
+ "generated": "2026-10-28T15:19:04.265Z",
+ "count": 21,
+ "stories": [
+  {
+   "id": "cd0efeee8448",
+   "title": "Rosebank oilfield would not breach UK emission targets, say government insiders",
+   "summary": "Emissions from exported oil would not count against carbon budget, insiders say – reasoning likely to draw dismay from climate campaigners",
+   "link": "https://www.theguardian.com/environment/2026/oct/27/rosebank-oilfield-north-sea-uk-emissions-targets-insiders",
+   "source": "The Guardian",
+   "published": "2026-10-27T19:17:55.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "export",
+      "budget",
+      "oil"
+     ],
+     "En": [
+      "emission"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Climate change",
+    "Fossil fuels",
+    "Trade"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 10.8,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "4539d46714f9",
+   "title": "Ocean’s ability to absorb carbon is weakening as climate change intensifies, UN warns",
+   "summary": "The ocean absorbs around 30 per cent of human-caused carbon dioxide (CO₂) emissions and 90 per cent of excess heat trapped by greenhouse gases.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168687",
+   "source": "UN News",
+   "published": "2026-10-28T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "carbon",
+      "climate",
+      "ocean"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "ecosystems",
+    "geopolitics"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": false,
+   "score": 8.8,
+   "alsoIn": []
+  },
+  {
+   "id": "f70d104c63ab",
+   "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
+   "summary": "The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of another bitterly cold winter.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168682",
+   "source": "UN News",
+   "published": "2026-10-27T12:00:00.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Kenya",
+     "Iran"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "refugee",
+      "population",
+      "humanitarian"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Humanitarian crisis",
+    "Population growth",
+    "Refugee"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What does this story suggest about quality of life in Ukraine?"
+   ],
+   "conflict": true,
+   "score": 8.2,
+   "alsoIn": []
+  },
+  {
+   "id": "7dddf4940d14",
+   "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
+   "summary": "Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warming, the World Meteorological Organization (WMO) said on Tuesday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168677",
+   "source": "UN News",
+   "published": "2026-10-27T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "carbon",
+      "fossil fuel",
+      "weather"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Climate change",
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 8.1,
+   "alsoIn": []
+  },
+  {
+   "id": "a1fdd39bbee7",
+   "title": "The climate crisis will destroy our economies – we learned this 20 years ago. When will we act? | Fiona Harvey",
+   "summary": "The radical Stern report showed that a low-carbon future is also good economics. But it seems that capitalism needs a reminder",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/28/nicholas-stern-report-climate-consensus-lessons-capitalism",
+   "source": "The Guardian",
+   "published": "2026-10-28T08:00:01.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "carbon"
+     ],
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "economy"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 7.5,
+   "alsoIn": []
+  },
+  {
+   "id": "6e3e9dd7c681",
+   "title": "Aerial video shows California flooding amid ‘record-breaking tides’ – video",
+   "summary": "Coastal communities across California were preparing for days of flooding amid potentially 'record-breaking tides' this week, as water levels began rising on Monday.",
+   "link": "https://www.theguardian.com/us-news/video/2026/oct/27/aerial-video-shows-california-flooding-amid-record-breaking-tides-video",
+   "source": "The Guardian",
+   "published": "2026-10-27T21:55:44.000Z",
+   "place": {
+    "name": "California",
+    "country": "United States",
+    "iso": "US",
+    "lat": 37,
+    "lon": -120,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "coast"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "5c6b193a8561",
+   "title": "UK growth forecast for 2027 slashed despite Healey’s budget measures",
+   "summary": "OBR outlook for living standards also downgraded as part of impact of Middle East conflict on economy",
+   "link": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+   "source": "The Guardian",
+   "published": "2026-10-28T14:57:29.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "growth forecast",
+      "econom",
+      "budget"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "6fd942ee20f2",
+   "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
+   "summary": "The General Assembly opened its annual debate on the US economic embargo against Cuba on Tuesday. On Wednesday, 28 October, Member States will vote for the 34th time on a resolution calling for it to end.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168686",
+   "source": "UN News",
+   "published": "2026-10-27T12:00:00.000Z",
+   "place": {
+    "name": "Cuba",
+    "country": "Cuba",
+    "iso": "CU",
+    "lat": 21.63,
+    "lon": -78.91,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "vote",
+      "general assembly"
+     ],
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.6,
+   "alsoIn": []
+  },
+  {
+   "id": "64494e6a888c",
+   "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
+   "summary": "Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains",
+   "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+   "source": "The Guardian",
+   "published": "2026-10-28T14:52:11.000Z",
+   "place": {
+    "name": "Israel",
+    "country": "Israel",
+    "iso": "IL",
+    "lat": 31.45,
+    "lon": 35,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "government",
+      "election",
+      "opposition"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.4,
+   "alsoIn": []
+  },
+  {
+   "id": "63656e1dd91b",
+   "title": "Jim Chalmers is blaming Australia’s accelerating inflation on Trump – but voters aren’t buying it",
+   "summary": "As next week’s all but certain rate rise looms, there is one thing we can all agree on: the end of war in the Middle East can’t come soon enough",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it",
+   "source": "The Guardian",
+   "published": "2026-10-28T05:58:24.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "vote",
+      "war"
+     ],
+     "E": [
+      "inflation"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Inflation"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "dd6b63718d05",
+   "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+   "summary": "Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation.",
+   "link": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit",
+   "source": "Al Jazeera",
+   "published": "2026-10-28T13:47:39.000Z",
+   "place": {
+    "name": "Syria",
+    "country": "Syria",
+    "iso": "SY",
+    "lat": 35.02,
+    "lon": 38.49,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "Iraq"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "trade",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Trade"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.2,
+   "alsoIn": []
+  },
+  {
+   "id": "38ae77d125bf",
+   "title": "Record heat-related deaths in 2023, WHO-partnered report finds",
+   "summary": "Climate inaction continues to harm and kill people in all countries with a record 710,000 estimated deaths globally from heat in 2023, a UN-partnered report warned on Wednesday. For the first time, more than seven in 10 fatalities were attributable to human-caused climate change.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168688",
+   "source": "UN News",
+   "published": "2026-10-28T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change",
+    "Extreme weather"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.2,
+   "alsoIn": []
+  },
+  {
+   "id": "350cd3fc6919",
+   "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
+   "summary": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billions",
+   "link": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+   "source": "The Guardian",
+   "published": "2026-10-28T14:30:29.000Z",
+   "place": {
+    "name": "Texas",
+    "country": "United States",
+    "iso": "US",
+    "lat": 31,
+    "lon": -99,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "emission",
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "climate"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Who are the winners and losers from this in United States?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "6e55d7ac3a7f",
+   "title": "Russia-Africa Summit: What is on the agenda, and why does it matter?",
+   "summary": "Moscow aims to strengthen economic and security ties with African leaders during the two-day gathering.",
+   "link": "https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter",
+   "source": "Al Jazeera",
+   "published": "2026-10-28T11:33:26.000Z",
+   "place": {
+    "name": "Moscow, Russia",
+    "country": "Russia",
+    "iso": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "08cd356e4867",
+   "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
+   "summary": "Families in Gaza are bracing for a fourth winter in tents and makeshift shelters as UN aid operations face mounting obstacles, with transport suspended on Tuesday due to Israel’s closure of the key Kerem Shalom crossing for election day.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168685",
+   "source": "UN News",
+   "published": "2026-10-27T12:00:00.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "election",
+      "un"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Aid"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Palestine?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.4,
+   "alsoIn": []
+  },
+  {
+   "id": "2e558ede2ef8",
+   "title": "Mark Carney is celebrated abroad – while consolidating power at home | Shiri Pasternak",
+   "summary": "The Canadian prime minister’s reckoning with Trumpism in Davos clashes with his attacks on environmental, Indigenous and labour rights",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/28/mark-carney-trump-davos",
+   "source": "The Guardian",
+   "published": "2026-10-28T13:00:04.000Z",
+   "place": {
+    "name": "Canada",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 56,
+    "lon": -100,
+    "precision": "country",
+    "confidence": 0.15,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "environment"
+     ]
+    }
+   },
+   "topics": [],
+   "terms": [
+    "Indigenous peoples"
+   ],
+   "questions": [
+    "Which SEEP themes does this story cover, and which is most important?",
+    "How might this story affect people in Canada and elsewhere?"
+   ],
+   "conflict": true,
+   "score": 4.4,
+   "alsoIn": []
+  },
+  {
+   "id": "764acdca1ab9",
+   "title": "Cyclone leaves trail of destruction in India as thousands evacuated",
+   "summary": "Cyclone Arnab has left a trail of destruction along India’s eastern coast.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/cyclone-leaves-trail-of-destruction-in-india-as-thousands-evacuated",
+   "source": "Al Jazeera",
+   "published": "2026-10-28T11:41:04.000Z",
+   "place": {
+    "name": "India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 22.8,
+    "lon": 79.53,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "cyclone",
+      "coast"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Tropical storm"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in India?",
+    "How could India’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "5d32ed72e5f2",
+   "title": "Families brace for a fourth winter of wind, rain and floods in Gaza’s camps",
+   "summary": "Gaza's impending winter is likely to lead to further devastation for Palestinians.",
+   "link": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps",
+   "source": "Al Jazeera",
+   "published": "2026-10-28T11:36:04.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Palestine?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "7d394da3018e",
+   "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+   "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment",
+   "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+   "source": "The Guardian",
+   "published": "2026-10-28T09:37:49.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "outbreak",
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in United Kingdom?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "3ffb8fb45c4a",
+   "title": "Judoka determined to prove refugees belong at Dakar 2026",
+   "summary": "Arno Yafunga Botay fled DR Congo with his family in 2017 and will compete at the Dakar 2026 Youth Olympics as a member of the Refugee Olympic Team.",
+   "link": "https://www.bbc.co.uk/sport/olympics/articles/c9gkv2pvg1gzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-28T14:50:04.000Z",
+   "place": {
+    "name": "Dakar, Senegal",
+    "country": "Senegal",
+    "iso": "SN",
+    "lat": 14.69,
+    "lon": -17.44,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "refugee"
+     ]
+    }
+   },
+   "topics": [
+    "migration"
+   ],
+   "terms": [
+    "Refugee"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What are the impacts on the places people leave and the places they move to?"
+   ],
+   "conflict": false,
+   "score": 3.3,
+   "alsoIn": []
+  },
+  {
+   "id": "12ce55a57cdb",
+   "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
+   "summary": "As Ebola cases in the Democratic Republic of the Congo (DRC) surpass the 10,000 mark, the World Health Organization (WHO) has underlined the need for continued efforts to contain spread of the disease.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168689",
+   "source": "UN News",
+   "published": "2026-10-28T12:00:00.000Z",
+   "place": {
+    "name": "Democratic Republic of the Congo",
+    "country": "Democratic Republic of the Congo",
+    "iso": "CD",
+    "lat": -2.87,
+    "lon": 23.64,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health",
+      "disease"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Democratic Republic of the Congo?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": false,
+   "score": 3,
+   "alsoIn": []
+  }
+ ]
+}
