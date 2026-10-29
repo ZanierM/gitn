@@ -1,0 +1,925 @@
+{
+ "date": "2026-10-29",
+ "generated": "2026-10-29T15:24:06.434Z",
+ "count": 20,
+ "stories": [
+  {
+   "id": "7c5e755dd893",
+   "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+   "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy?",
+   "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+   "source": "The Guardian",
+   "published": "2026-10-26T11:00:40.000Z",
+   "place": {
+    "name": "Somalia",
+    "country": "Somalia",
+    "iso": "SO",
+    "lat": 4.74,
+    "lon": 45.68,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "river",
+      "el niño"
+     ],
+     "S": [
+      "population",
+      "women",
+      "children"
+     ],
+     "P": [
+      "territor",
+      "military"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "migration",
+    "resources"
+   ],
+   "terms": [
+    "El Niño",
+    "Flooding",
+    "Population growth"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Somalia?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": true,
+   "score": 12.5,
+   "alsoIn": []
+  },
+  {
+   "id": "4f8c99c0580e",
+   "title": "Serious pollution by water industry remains high despite £5bn investment",
+   "summary": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
+   "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-29T12:08:01.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "pollution",
+      "environment"
+     ],
+     "E": [
+      "industr",
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Pollution",
+    "Poverty"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 9.3,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "22c216981dca",
+   "title": "What we now know about the UK economy in four charts",
+   "summary": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+   "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-28T20:08:45.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "prices",
+      "budget"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "resources"
+   ],
+   "terms": [
+    "GDP"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 8.3,
+   "alsoIn": []
+  },
+  {
+   "id": "10953fe84cac",
+   "title": "Finland launches criminal investigation into Google’s clearing of forest for datacentre site",
+   "summary": "Authorities allege company may have breached Finnish environmental laws by forgoing required impact assessment",
+   "link": "https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre",
+   "source": "The Guardian",
+   "published": "2026-10-29T14:51:45.000Z",
+   "place": {
+    "name": "Finland",
+    "country": "Finland",
+    "iso": "FI",
+    "lat": 64.26,
+    "lon": 26.21,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "forest",
+      "environment"
+     ],
+     "E": [
+      "invest",
+      "company"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 8.3,
+   "alsoIn": []
+  },
+  {
+   "id": "a652108e078b",
+   "title": "UN human rights chief urges better protection of civilians in conflicts",
+   "summary": "Youth-led protests against corruption and inequality in Serbia, Bangladesh, Nepal and Madagascar reflect a growing demand for reinforcing human rights around the world, UN&nbsp;human rights chief&nbsp;Volker Türk said at a press briefing on Wednesday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168695",
+   "source": "UN News",
+   "published": "2026-10-28T12:00:00.000Z",
+   "place": {
+    "name": "Bangladesh",
+    "country": "Bangladesh",
+    "iso": "BD",
+    "lat": 23.89,
+    "lon": 90.23,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": [
+     "Madagascar",
+     "Serbia",
+     "Nepal"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "S"
+    ],
+    "why": {
+     "P": [
+      "un",
+      "conflict",
+      "human rights"
+     ],
+     "S": [
+      "inequalit",
+      "protest"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "development"
+   ],
+   "terms": [
+    "Human rights",
+    "Inequality"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "What does this story suggest about quality of life in Bangladesh?"
+   ],
+   "conflict": false,
+   "score": 8.2,
+   "alsoIn": []
+  },
+  {
+   "id": "2862d23e156e",
+   "title": "Ending conflict is ‘number one thing’ to reduce world hunger, new WFP chief says",
+   "summary": "Reducing conflict is the single most effective way to tackle global hunger, the new head of the UN World Food Programme (WFP), Luke Lindberg, said on Wednesday, noting that conflict drives two thirds of the acute food insecurity affecting 266 million people worldwide.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168693",
+   "source": "UN News",
+   "published": "2026-10-28T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "hunger"
+     ],
+     "P": [
+      "un",
+      "conflict"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "development",
+    "resources"
+   ],
+   "terms": [
+    "Food security"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "What does this story suggest about quality of life in the places involved?"
+   ],
+   "conflict": false,
+   "score": 8,
+   "alsoIn": []
+  },
+  {
+   "id": "e306bc453d4e",
+   "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+   "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+   "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-28T18:45:09.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "cost of living",
+      "tax"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Cost of living"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 7.7,
+   "alsoIn": []
+  },
+  {
+   "id": "160ecbb11ec0",
+   "title": "Weather warning lifted as third storm to hit Scotland eases off",
+   "summary": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain.",
+   "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-27T21:20:52.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "heavy rain",
+      "storm",
+      "weather"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "0898fb9fce38",
+   "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+   "summary": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+   "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-28T23:11:59.000Z",
+   "place": {
+    "name": "India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 22.8,
+    "lon": 79.53,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": [
+     "Nepal"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "housing"
+     ],
+     "E": [
+      "touris",
+      "infrastructure"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "economy"
+   ],
+   "terms": [
+    "Hazard",
+    "Infrastructure",
+    "Tourism"
+   ],
+   "questions": [
+    "What challenges does urban growth create in India?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "b52bc99421d1",
+   "title": "Higher Ground: How New York is raising a park to hold back the sea",
+   "summary": "On 29 October 2012, Hurricane Sandy slammed into New York City, unleashing a devastating storm surge that flooded homes, subways and tunnels, knocked out power and sparked deadly fires.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168679",
+   "source": "UN News",
+   "published": "2026-10-28T12:00:00.000Z",
+   "place": {
+    "name": "New York, United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 40.71,
+    "lon": -74,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "hurricane",
+      "storm"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "urban"
+   ],
+   "terms": [
+    "Flooding",
+    "Tropical storm"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "What challenges does urban growth create in United States?"
+   ],
+   "conflict": false,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "6da82e4e29c8",
+   "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
+   "summary": "Opium production in Afghanistan has risen fivefold in a year. According to a UN survey released on Thursday, it’s the first significant increase since the Taliban banned poppy cultivation in 2022.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168697",
+   "source": "UN News",
+   "published": "2026-10-29T12:00:00.000Z",
+   "place": {
+    "name": "Afghanistan",
+    "country": "Afghanistan",
+    "iso": "AF",
+    "lat": 33.82,
+    "lon": 65.93,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "farm"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Rural"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.7,
+   "alsoIn": []
+  },
+  {
+   "id": "18b5276cd0e6",
+   "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
+   "summary": "The UN General Assembly on Wednesday called for the 34th time for an end to the US economic, commercial and financial embargo on Cuba – but with the weakest backing for the resolution in two decades.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168694",
+   "source": "UN News",
+   "published": "2026-10-28T12:00:00.000Z",
+   "place": {
+    "name": "Cuba",
+    "country": "Cuba",
+    "iso": "CU",
+    "lat": 21.63,
+    "lon": -78.91,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.6,
+   "alsoIn": []
+  },
+  {
+   "id": "cee0df3b3d63",
+   "title": "South West Water given lowest environmental rating",
+   "summary": "The water firm is performing \"significantly below target\" for pollution, the Environment Agency says.",
+   "link": "https://www.bbc.co.uk/news/articles/c574p7r0xnvpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-29T12:56:58.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "pollution",
+      "environment"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Pollution"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "20dcedb73ff2",
+   "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+   "summary": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
+   "link": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-29T11:25:16.000Z",
+   "place": {
+    "name": "Rwanda",
+    "country": "Rwanda",
+    "iso": "RW",
+    "lat": -1.99,
+    "lon": 29.92,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Democratic Republic of the Congo"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "sanction",
+      "conflict"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "resources"
+   ],
+   "terms": [
+    "Natural resources",
+    "Sanctions"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": true,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "702a646ae510",
+   "title": "A new wave of electric ferries is here in the US. Some even fly",
+   "summary": "Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality",
+   "link": "https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries",
+   "source": "The Guardian",
+   "published": "2026-10-29T10:00:31.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "emission",
+      "air quality"
+     ]
+    }
+   },
+   "topics": [
+    "climate"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Mitigation",
+    "Pollution"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Who are the winners and losers from this in United States?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "39fee0add44f",
+   "title": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
+   "summary": "Fighting has forced more than 281,000 people from their homes in Yemen since the beginning of August, the UN said.",
+   "link": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access",
+   "source": "Al Jazeera",
+   "published": "2026-10-29T12:46:29.000Z",
+   "place": {
+    "name": "Taiz, Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 13.58,
+    "lon": 44.02,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "humanitarian"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "development"
+   ],
+   "terms": [
+    "Humanitarian crisis"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "What does this story suggest about quality of life in Yemen?"
+   ],
+   "conflict": true,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "3a1a5401338e",
+   "title": "US central bank holds interest rates steady ahead of midterm elections – here's what that means",
+   "summary": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
+   "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-28T19:42:42.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "interest rate",
+      "loan"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in United States?"
+   ],
+   "conflict": false,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "ec06ef9c948f",
+   "title": "Study of 100,000 Australians seeks causes of mental health disorders and early onset cancer",
+   "summary": "Sax Institute is recruiting for 18 and Up, an intergenerational study of wellbeing and ageing which follows its landmark 45 and Up study",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/30/study-of-100000-australians-seeks-causes-of-mental-health-disorders-and-early-onset-cancer",
+   "source": "The Guardian",
+   "published": "2026-10-29T14:00:48.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "ageing",
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "migration"
+   ],
+   "terms": [
+    "Quality of life"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "e9f9d6a24eaa",
+   "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+   "summary": "Projections show votes for Palestinian parties surged in a tight contest that drew highest turnout in decades",
+   "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-10-28T19:58:27.000Z",
+   "place": {
+    "name": "Israel",
+    "country": "Israel",
+    "iso": "IL",
+    "lat": 31.45,
+    "lon": 35,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "En"
+    ],
+    "why": {
+     "P": [
+      "vote",
+      "talks"
+     ],
+     "En": [
+      "coal"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "befd9aa704e4",
+   "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
+   "summary": "With five days to go before the US midterms, analysts say the war could affect how people vote.",
+   "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-says-iran-war-has-cost-us-taxpayers-47bn-what-that-means",
+   "source": "Al Jazeera",
+   "published": "2026-10-29T11:12:43.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "vote",
+      "war"
+     ],
+     "E": [
+      "tax"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Iran?"
+   ],
+   "conflict": true,
+   "score": 4.3,
+   "alsoIn": []
+  }
+ ]
+}
