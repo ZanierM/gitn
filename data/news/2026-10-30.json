@@ -1,0 +1,1230 @@
+{
+ "date": "2026-10-30",
+ "generated": "2026-10-30T15:10:34.642Z",
+ "count": 27,
+ "stories": [
+  {
+   "id": "dbdf688109b0",
+   "title": "El Niño-driven drought in Papua New Guinea a ‘national crisis’ as rivers dry up and local farms fail",
+   "summary": "As many as 8 million people have been affected by food shortages, electricity blackouts and health clinic closures",
+   "link": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
+   "source": "The Guardian",
+   "published": "2026-10-30T01:45:56.000Z",
+   "place": {
+    "name": "Papua New Guinea",
+    "country": "Papua New Guinea",
+    "iso": "PG",
+    "lat": -6.6,
+    "lon": 144.23,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "drought",
+      "river",
+      "el niño"
+     ],
+     "E": [
+      "farm"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "hazards",
+    "development"
+   ],
+   "terms": [
+    "Drought",
+    "El Niño",
+    "Energy security",
+    "Food security"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "What might the primary and secondary effects of this event be in Papua New Guinea?"
+   ],
+   "conflict": false,
+   "score": 10,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "b06e115d93ff",
+   "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+   "summary": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan’s South Darfur state, on Monday, the UN Children’s Fund (UNICEF) said on Thursday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+   "source": "UN News",
+   "published": "2026-10-29T12:00:00.000Z",
+   "place": {
+    "name": "Darfur",
+    "country": "Sudan",
+    "iso": "SD",
+    "lat": 13.5,
+    "lon": 24,
+    "precision": "place",
+    "confidence": 1,
+    "also": [
+     "Haiti",
+     "Yemen"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "hunger",
+      "children"
+     ],
+     "P": [
+      "un",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "development"
+   ],
+   "terms": [
+    "Food security"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "What does this story suggest about quality of life in Sudan?"
+   ],
+   "conflict": true,
+   "score": 8.3,
+   "alsoIn": []
+  },
+  {
+   "id": "bbe903297a1e",
+   "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
+   "summary": "Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168707",
+   "source": "UN News",
+   "published": "2026-10-30T12:00:00.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "displac"
+     ],
+     "P": [
+      "un",
+      "human rights"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "geopolitics"
+   ],
+   "terms": [
+    "Displacement",
+    "Human rights",
+    "Infrastructure"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 7.5,
+   "alsoIn": []
+  },
+  {
+   "id": "8d958a4733bc",
+   "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+   "summary": "Myanmar’s human rights situation is “catastrophic”, the&nbsp;UN independent expert on the country warned at a press briefing Thursday, as the war spirals with no end in sight.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
+   "source": "UN News",
+   "published": "2026-10-29T12:00:00.000Z",
+   "place": {
+    "name": "Myanmar",
+    "country": "Myanmar",
+    "iso": "MM",
+    "lat": 21.15,
+    "lon": 96.49,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "econom"
+     ],
+     "P": [
+      "un",
+      "war",
+      "human rights"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "economy"
+   ],
+   "terms": [
+    "Human rights"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": true,
+   "score": 7.4,
+   "alsoIn": []
+  },
+  {
+   "id": "b804dc3ad369",
+   "title": "Electrocutions, disease and no pay: how workers risk exploitation in Europe’s datacentres",
+   "summary": "As thousands of datacentres are constructed across Europe, the Guardian and Investigate Europe have uncovered disturbing evidence that some workers building them are exposed to dangerous conditions and living in fear of speaking out",
+   "link": "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres",
+   "source": "The Guardian",
+   "published": "2026-10-30T05:00:46.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "disease"
+     ],
+     "E": [
+      "workers",
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 7,
+   "alsoIn": []
+  },
+  {
+   "id": "46feefc25634",
+   "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+   "summary": "Activists call for people to make their anger known over poor public services including education and housing",
+   "link": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+   "source": "The Guardian",
+   "published": "2026-10-30T14:42:46.000Z",
+   "place": {
+    "name": "Germany",
+    "country": "Germany",
+    "iso": "DE",
+    "lat": 51.03,
+    "lon": 10.35,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "France"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "education",
+      "housing",
+      "protest"
+     ],
+     "E": [
+      "cost of living"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "urban"
+   ],
+   "terms": [
+    "Cost of living",
+    "Poverty"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Germany?",
+    "What challenges does urban growth create in Germany?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "132fdc82e7fb",
+   "title": "What makes this golden eagle chick so important?",
+   "summary": "The bird's arrival on a managed grouse moor in southern Scotland is seen as a key moment for the species.",
+   "link": "https://www.bbc.co.uk/news/articles/cq4g1jyj9dv7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-30T06:22:37.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "species"
+     ],
+     "E": [
+      "import"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "c81fac5ea566",
+   "title": "Russia drone strike on Ukrainian railway station kills 13",
+   "summary": "The UN’s top humanitarian official in Ukraine on Thursday condemned a Russian drone attack on the city of Dnipro that killed at least 13 civilians and injured 10 others at its main railway station.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168702",
+   "source": "UN News",
+   "published": "2026-10-29T12:00:00.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 0.975,
+    "also": [
+     "Russia"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "humanitarian"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "urban",
+    "geopolitics"
+   ],
+   "terms": [
+    "Humanitarian crisis",
+    "Infrastructure"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Ukraine?",
+    "What challenges does urban growth create in Ukraine?"
+   ],
+   "conflict": true,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "aa8415414570",
+   "title": "Five reasons why the US midterms matter for the climate – and your energy bill",
+   "summary": "Voters are feeling the pinch of Trump’s anti-climate agenda as energy costs rise, but a shake-up in Congress could shift things",
+   "link": "https://www.theguardian.com/us-news/2026/oct/30/climate-crisis-midterms-affordability",
+   "source": "The Guardian",
+   "published": "2026-10-30T11:30:52.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "7eb60cb784d1",
+   "title": "Yemen war makes reaching assistance too dangerous for many",
+   "summary": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+   "source": "UN News",
+   "published": "2026-10-30T12:00:00.000Z",
+   "place": {
+    "name": "Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 15.94,
+    "lon": 47.52,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "displac",
+      "refugee"
+     ],
+     "P": [
+      "un",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "geopolitics"
+   ],
+   "terms": [
+    "Displacement",
+    "Refugee"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "42113445b7b0",
+   "title": "Public sector an ‘afterthought’ to North Sea oil jobs, says Unison leader",
+   "summary": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’",
+   "link": "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
+   "source": "The Guardian",
+   "published": "2026-10-30T13:04:03.000Z",
+   "place": {
+    "name": "North Sea",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 56,
+    "lon": 3,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "jobs",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "dc4941fcf401",
+   "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+   "summary": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected",
+   "link": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+   "source": "The Guardian",
+   "published": "2026-10-30T10:07:16.000Z",
+   "place": {
+    "name": "Türkiye",
+    "country": "Türkiye",
+    "iso": "TR",
+    "lat": 39.06,
+    "lon": 35.41,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Greece"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "rainfall",
+      "flood",
+      "tornado"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Türkiye?",
+    "How could Türkiye’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "df6061f6f037",
+   "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+   "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+   "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-30T15:09:29.000Z",
+   "place": {
+    "name": "Israel",
+    "country": "Israel",
+    "iso": "IL",
+    "lat": 31.45,
+    "lon": 35,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "election",
+      "opposition"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "234fb873d6a1",
+   "title": "Faisal Islam: This Budget was micro and that was deliberate",
+   "summary": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+   "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-29T15:48:44.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "budget"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "2bdd7c0d8ae3",
+   "title": "What the Budget offers for under 25s - and what it leaves out",
+   "summary": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+   "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-28T20:02:38.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "budget"
+     ],
+     "S": [
+      "housing"
+     ]
+    }
+   },
+   "topics": [
+    "urban"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in the places involved?",
+    "How could this city become more sustainable?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "6437bc7d740f",
+   "title": "Bhutan hot springs hit by flood from glacial lake burst",
+   "summary": "No injuries reported after glacial lake burst, causing a flash flood and disrupting Bhutan's Gasa Tshachu hot springs.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/bhutan-hot-springs-hit-by-flood-from-glacial-lake-burst",
+   "source": "Al Jazeera",
+   "published": "2026-10-30T14:01:03.000Z",
+   "place": {
+    "name": "Bhutan",
+    "country": "Bhutan",
+    "iso": "BT",
+    "lat": 27.41,
+    "lon": 90.4,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "lake"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Bhutan?",
+    "How could Bhutan’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "d4884afa8425",
+   "title": "Italy tightens security as students, unions launch nationwide protests",
+   "summary": "Rallies across the country target living costs, investment in education and the wars in the Middle East.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests",
+   "source": "Al Jazeera",
+   "published": "2026-10-30T13:14:11.000Z",
+   "place": {
+    "name": "Italy",
+    "country": "Italy",
+    "iso": "IT",
+    "lat": 43.49,
+    "lon": 12.3,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "education",
+      "protest"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Italy?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": true,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "3481c1b09580",
+   "title": "The South West reacts to Budget announcements",
+   "summary": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
+   "link": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-29T18:07:26.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "budget",
+      "touris"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Tourism"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "451e173e4c25",
+   "title": "Healey’s budget cuts mean Britain is likely to miss green heating targets",
+   "summary": "Ex-energy secretary Ed Miliband’s agenda appears undermined as money is diverted from renewables to defence",
+   "link": "https://www.theguardian.com/environment/2026/oct/30/john-healey-budget-cuts-miss-green-heating-targets",
+   "source": "The Guardian",
+   "published": "2026-10-30T10:00:50.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "renewable"
+     ],
+     "E": [
+      "budget"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Renewable energy"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "dec4345aa509",
+   "title": "Feral deer will become Australia’s next feral pig problem without prompt action, report warns",
+   "summary": "The invasive species has increased in spread and numbers and is costing farmers millions of dollars",
+   "link": "https://www.theguardian.com/environment/2026/oct/30/australia-feral-deer-problem-report-national-action-plan",
+   "source": "The Guardian",
+   "published": "2026-10-30T03:30:42.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "species"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "resources"
+   ],
+   "terms": [
+    "Rural"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "eacbf4847613",
+   "title": "Nature is making a comeback – now restoration funding must quadruple",
+   "summary": "From salmon spawning grounds in Canada to coral reefs in Indonesia, ecosystems around the world are being restored at an unprecedented rate.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168700",
+   "source": "UN News",
+   "published": "2026-10-29T12:00:00.000Z",
+   "place": {
+    "name": "Indonesia",
+    "country": "Indonesia",
+    "iso": "ID",
+    "lat": -2.5,
+    "lon": 118,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": [
+     "Canada"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "coral",
+      "reef",
+      "nature"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems"
+   ],
+   "terms": [
+    "Ecosystem"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How could this environment be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "1d7c40f64ed7",
+   "title": "The Iran war is deepening the US energy crisis. A bad winter is ahead | Mark Wolfe",
+   "summary": "Congress must act to ensure that families are able to heat their homes before the start of the season",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/30/iran-war-energy-crisis-winter",
+   "source": "The Guardian",
+   "published": "2026-10-30T14:00:20.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "congress",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Energy security"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 4.4,
+   "alsoIn": []
+  },
+  {
+   "id": "38d67bbae04b",
+   "title": "Netanyahu accused of smearing Arab voters to hold on to power",
+   "summary": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority",
+   "link": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+   "source": "The Guardian",
+   "published": "2026-10-29T23:14:53.000Z",
+   "place": {
+    "name": "Israel",
+    "country": "Israel",
+    "iso": "IL",
+    "lat": 31.45,
+    "lon": 35,
+    "precision": "country",
+    "confidence": 0.15,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "minister",
+      "vote",
+      "election"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.4,
+   "alsoIn": []
+  },
+  {
+   "id": "a702e1c32b7c",
+   "title": "Firefighters celebrate rain during Indonesia wildfires",
+   "summary": "A number of clips show firefighters celebrating in the rain.",
+   "link": "https://www.bbc.co.uk/news/videos/cm93zere04plo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-29T18:31:27.000Z",
+   "place": {
+    "name": "Indonesia",
+    "country": "Indonesia",
+    "iso": "ID",
+    "lat": -2.5,
+    "lon": 118,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildfire"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Wildfire"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Indonesia?",
+    "How could Indonesia’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "9edacec14e70",
+   "title": "On the US border in Texas, Trump deportation drive galvanises midterm vote",
+   "summary": "Border issues helped propel Trump in the Rio Grande Valley in 2024. His deportation policies could bury Republicans.",
+   "link": "https://www.aljazeera.com/news/2026/10/30/on-the-us-border-in-texas-trump-deportation-drive-galvanises-midterm-vote",
+   "source": "Al Jazeera",
+   "published": "2026-10-30T10:22:54.000Z",
+   "place": {
+    "name": "Texas",
+    "country": "United States",
+    "iso": "US",
+    "lat": 31,
+    "lon": -99,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "vote",
+      "policies",
+      "border"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in United States?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "3957844ea4ba",
+   "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+   "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+   "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-30T09:33:51.000Z",
+   "place": {
+    "name": "North Korea",
+    "country": "North Korea",
+    "iso": "KP",
+    "lat": 40.14,
+    "lon": 127.16,
+    "precision": "country",
+    "confidence": 0.15,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "trade",
+      "firms"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "37d286960b0f",
+   "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+   "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
+   "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-10-29T17:02:59.000Z",
+   "place": {
+    "name": "Canada",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 56,
+    "lon": -100,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "summit",
+      "eu",
+      "opposition"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Canada?"
+   ],
+   "conflict": false,
+   "score": 3.8,
+   "alsoIn": []
+  }
+ ]
+}
