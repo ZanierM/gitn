@@ -1,0 +1,1236 @@
+{
+ "date": "2026-11-02",
+ "generated": "2026-11-02T18:40:19.491Z",
+ "count": 28,
+ "stories": [
+  {
+   "id": "325bf9aefa6f",
+   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+   "summary": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities",
+   "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+   "source": "The Guardian",
+   "published": "2026-11-01T12:00:12.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "war",
+      "conflict",
+      "trade war"
+     ],
+     "E": [
+      "trade"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics",
+    "development"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 8.9,
+   "alsoIn": [
+    "Al Jazeera"
+   ]
+  },
+  {
+   "id": "a151df339242",
+   "title": "‘They have schedules to follow’: how fast ferries can threaten endangered whales in the Mediterranean",
+   "summary": "A Guardian investigation has found that despite a recommendation to slow down, leading shipping companies continue to travel above advised speeds in a key habitat for cetaceans",
+   "link": "https://www.theguardian.com/environment/2026/nov/02/fast-ferries-threaten-endangered-whales-mediterranean",
+   "source": "The Guardian",
+   "published": "2026-11-02T05:00:32.000Z",
+   "place": {
+    "name": "Mediterranean",
+    "country": "Italy",
+    "iso": "IT",
+    "lat": 36,
+    "lon": 16,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "habitat",
+      "whale"
+     ],
+     "E": [
+      "invest",
+      "shipping"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "ecosystems"
+   ],
+   "terms": [
+    "Ecosystem"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": false,
+   "score": 8,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "f6dfe53010f8",
+   "title": "Greenpeace activists create ‘boulder barrier’ in North Sea to deter industrial fishing",
+   "summary": "Action taken to prevent bottom trawling in the marine protected area and conserve porpoise populations",
+   "link": "https://www.theguardian.com/environment/2026/nov/02/greenpeace-boulder-barrier-north-sea-industrial-fishing-bottom-trawling-marine-protected-area",
+   "source": "The Guardian",
+   "published": "2026-11-02T13:10:08.000Z",
+   "place": {
+    "name": "North Sea",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 56,
+    "lon": 3,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "marine"
+     ],
+     "E": [
+      "industr"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "migration",
+    "economy"
+   ],
+   "terms": [
+    "Conservation",
+    "Population growth"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": false,
+   "score": 7.5,
+   "alsoIn": []
+  },
+  {
+   "id": "29fe40e3c195",
+   "title": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
+   "summary": "At the halfway mark to 2030, countries meeting in Armenia have agreed a roadmap to accelerate action for nature, after a global review found the world off track to meet its biodiversity targets.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168718",
+   "source": "UN News",
+   "published": "2026-11-01T12:00:00.000Z",
+   "place": {
+    "name": "Yerevan, Armenia",
+    "country": "Armenia",
+    "iso": "AM",
+    "lat": 40.18,
+    "lon": 44.51,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "biodiversity",
+      "nature"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "ecosystems"
+   ],
+   "terms": [
+    "Biodiversity"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": false,
+   "score": 7.1,
+   "alsoIn": []
+  },
+  {
+   "id": "349c9bdc69f0",
+   "title": "‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms",
+   "summary": "Australia’s central bank expected to hit mortgage holders again on Tuesday, as war in Middle East combines with collapsing house prices",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms",
+   "source": "The Guardian",
+   "published": "2026-11-02T06:57:29.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 0.7,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "interest rate",
+      "prices"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "e8945d7d0316",
+   "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+   "summary": "Survey finds UK government’s decision to impose trade ban was not a decisive factor in how Israelis voted in election",
+   "link": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
+   "source": "The Guardian",
+   "published": "2026-11-02T06:00:33.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "government",
+      "poll",
+      "vote"
+     ],
+     "E": [
+      "trade"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "economy"
+   ],
+   "terms": [
+    "Sanctions",
+    "Trade"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "acf1c2f2f0a8",
+   "title": "‘Don’t worry about the leopard. It’s a man you don’t want to run into’: Delhi women reclaim the outdoors",
+   "summary": "On a wildlife walk in the Indian capital, a group of women share their stories of trying to enjoy nature in a city where strangers feel entitled to harass them",
+   "link": "https://www.theguardian.com/global-development/2026/oct/31/delhi-women-natureleopards-its-a-man-you-dont-want-run-in-to-the-delhi-women-trying-to-reclaim-their-right-to-nature",
+   "source": "The Guardian",
+   "published": "2026-10-31T03:00:30.000Z",
+   "place": {
+    "name": "Delhi, India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 28.65,
+    "lon": 77.23,
+    "precision": "place",
+    "confidence": 0.9750000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "wildlife",
+      "nature"
+     ],
+     "S": [
+      "women"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "urban"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "What challenges does urban growth create in India?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "70e5da24af66",
+   "title": "Ryanair says it may freeze workers' pay and raise airfares",
+   "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+   "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-02T12:22:10.000Z",
+   "place": {
+    "name": "Israel",
+    "country": "Israel",
+    "iso": "IL",
+    "lat": 31.45,
+    "lon": 35,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": [
+     "Iran",
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "prices",
+      "workers",
+      "fuel prices"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Israel?"
+   ],
+   "conflict": true,
+   "score": 6.2,
+   "alsoIn": []
+  },
+  {
+   "id": "fe2bd460e083",
+   "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+   "summary": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks",
+   "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+   "source": "The Guardian",
+   "published": "2026-11-02T17:14:23.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "price",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 6.1,
+   "alsoIn": []
+  },
+  {
+   "id": "b1475e8e762c",
+   "title": "Chinese cigarettes and Bolivian beer: the Amazonian town transformed by a rampant mining boom",
+   "summary": "Mayaya, once-remote, has become a hub for Chinese companies. But critics accuse them of exploitation and illegal exports",
+   "link": "https://www.theguardian.com/global-development/2026/nov/02/chinese-cigarettes-and-bolivian-beer-the-amazonian-town-transformed-by-a-rampant-mining-boom",
+   "source": "The Guardian",
+   "published": "2026-11-02T14:00:43.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.6,
+    "also": [
+     "Bolivia"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "export",
+      "mining"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Natural resources",
+    "Trade"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "046414c90739",
+   "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+   "summary": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+   "source": "UN News",
+   "published": "2026-10-31T12:00:00.000Z",
+   "place": {
+    "name": "Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 15.94,
+    "lon": 47.52,
+    "precision": "country",
+    "confidence": 0.15,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "un",
+      "human rights"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "economy"
+   ],
+   "terms": [
+    "Human rights"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": true,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "e3656abbf25c",
+   "title": "At least seven migrants die on boat bound for Canary Islands amid storm",
+   "summary": "At least seven migrants have died aboard a boat carrying 139 people bound for the Canary Islands after a storm hit.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/at-least-seven-migrants-die-on-boat-bound-for-canary-islands-amid-storm",
+   "source": "Al Jazeera",
+   "published": "2026-11-02T16:13:21.000Z",
+   "place": {
+    "name": "Canary Islands",
+    "country": "Spain",
+    "iso": "ES",
+    "lat": 28.3,
+    "lon": -16,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "En"
+    ],
+    "why": {
+     "S": [
+      "migra"
+     ],
+     "En": [
+      "storm"
+     ]
+    }
+   },
+   "topics": [
+    "migration"
+   ],
+   "terms": [
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What are the impacts on the places people leave and the places they move to?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "6f269ae13ab8",
+   "title": "Lobster industry caught in Maine’s political headwinds before US midterms",
+   "summary": "Senator Susan Collins and Democratic challenger Troy Jackson clash over tariffs and their impact on Maine's economy.",
+   "link": "https://www.aljazeera.com/economy/2026/11/2/lobster-industry-caught-in-maines-political-headwinds-before-midterms",
+   "source": "Al Jazeera",
+   "published": "2026-11-02T15:54:53.000Z",
+   "place": {
+    "name": "Maine",
+    "country": "United States",
+    "iso": "US",
+    "lat": 45.4,
+    "lon": -69.2,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "tariff",
+      "industr"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Tariff"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "ff875f42f0d5",
+   "title": "How US oil firms profit $130bn from Iran war as household bills surge",
+   "summary": "As energy from the Gulf and Russia take a hit, American oil and gas firms are the big gainers.",
+   "link": "https://www.aljazeera.com/news/2026/11/2/how-us-oil-firms-profit-130bn-from-iran-war-as-household-bills-surge",
+   "source": "Al Jazeera",
+   "published": "2026-11-02T14:27:50.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "oil",
+      "firms"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "d14c551f5b78",
+   "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
+   "summary": "The Democratic People’s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate. But its people are more cut off from the outside world than at any point in the country’s history.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168690",
+   "source": "UN News",
+   "published": "2026-10-31T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "hospital"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in the places involved?"
+   ],
+   "conflict": false,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "ef02487c5ab7",
+   "title": "Samarkand: A ‘living museum’ on the Silk Road grapples with a tourism boom",
+   "summary": "As the sun sets over Samarkand’s majestic Registan, its last rays glint across the turquoise mosaics. Dusk settles on the ancient square where great trade routes have crossed for centuries.",
+   "link": "https://news.un.org/feed/view/en/story/2026/10/1168711",
+   "source": "UN News",
+   "published": "2026-10-31T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "trade",
+      "touris"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Supply chain",
+    "Tourism",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "f60885e79ce5",
+   "title": "Poundland's former owner offers to invest as minister prepares to meet board",
+   "summary": "Wolverhampton's Steve Smith said he wants to put some money back into the firm he started.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-02T13:40:36.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "invest",
+      "firm"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "b1f994c77c83",
+   "title": "Shops looted as German cost-of-living protests turn violent",
+   "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+   "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-01T11:57:48.000Z",
+   "place": {
+    "name": "Germany",
+    "country": "Germany",
+    "iso": "DE",
+    "lat": 51.03,
+    "lon": 10.35,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "cost-of-living"
+     ]
+    }
+   },
+   "topics": [
+    "urban"
+   ],
+   "terms": [
+    "Cost of living"
+   ],
+   "questions": [
+    "What challenges does urban growth create in Germany?",
+    "How could this city become more sustainable?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "6b980d301034",
+   "title": "A lackluster response to North Carolina flooding disasters is eroding Republican support in one county",
+   "summary": "At more than $52m, the race has become the most expensive in US history, but residents are fed up with flooding",
+   "link": "https://www.theguardian.com/us-news/2026/nov/02/north-carolina-congress-republicans",
+   "source": "The Guardian",
+   "published": "2026-11-02T12:00:41.000Z",
+   "place": {
+    "name": "North Carolina",
+    "country": "United States",
+    "iso": "US",
+    "lat": 35.6,
+    "lon": -79.4,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding",
+    "Hazard"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "How could United States’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "942eb83aa21f",
+   "title": "Trump promised a steel mill in this rural Iowa region. But is it all a midterm election ploy?",
+   "summary": "Residents would welcome the development, but the president’s past false promises cast doubt on the proposal",
+   "link": "https://www.theguardian.com/us-news/2026/nov/02/iowa-midterms-steel-mill",
+   "source": "The Guardian",
+   "published": "2026-11-02T17:00:23.000Z",
+   "place": {
+    "name": "Iowa",
+    "country": "United States",
+    "iso": "US",
+    "lat": 42.1,
+    "lon": -93.5,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "president",
+      "election"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Development",
+    "Rural"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in United States?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.2,
+   "alsoIn": []
+  },
+  {
+   "id": "522a758e51d0",
+   "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
+   "summary": "The broadband firm has not finalised numbers but it is likely be a sizeable chunk of staff, the BBC understands.",
+   "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-01T16:57:14.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "jobs",
+      "firm"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "35cecf2e130b",
+   "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
+   "summary": "Led by Congress party, India’s opposition alliance channels anger over removal of 130 million names from voter roll",
+   "link": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+   "source": "The Guardian",
+   "published": "2026-11-01T16:11:50.000Z",
+   "place": {
+    "name": "Delhi, India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 28.65,
+    "lon": 77.23,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "congress",
+      "vote",
+      "regime"
+     ]
+    }
+   },
+   "topics": [],
+   "terms": [],
+   "questions": [
+    "Which SEEP themes does this story cover, and which is most important?",
+    "How might this story affect people in India and elsewhere?"
+   ],
+   "conflict": false,
+   "score": 3.9,
+   "alsoIn": []
+  },
+  {
+   "id": "ebf152df9eed",
+   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+   "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-01T13:11:37.000Z",
+   "place": {
+    "name": "North Korea",
+    "country": "North Korea",
+    "iso": "KP",
+    "lat": 40.14,
+    "lon": 127.16,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "invest",
+      "firm"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 3.8,
+   "alsoIn": []
+  },
+  {
+   "id": "0612fb86b6a3",
+   "title": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
+   "summary": "Renewed fighting between rebels from northern Tigray and ​the government in Addis Ababa has shattered 2022 peace deal.",
+   "link": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who",
+   "source": "Al Jazeera",
+   "published": "2026-11-02T16:03:40.000Z",
+   "place": {
+    "name": "Addis Ababa, Ethiopia",
+    "country": "Ethiopia",
+    "iso": "ET",
+    "lat": 9.02,
+    "lon": 38.75,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Ethiopia?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": true,
+   "score": 3.6,
+   "alsoIn": []
+  },
+  {
+   "id": "a29ce14c698c",
+   "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
+   "summary": "Political wrangling is still ongoing as all blocs weigh potential paths to power.",
+   "link": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks",
+   "source": "Al Jazeera",
+   "published": "2026-11-02T15:00:08.000Z",
+   "place": {
+    "name": "Israel",
+    "country": "Israel",
+    "iso": "IL",
+    "lat": 31.45,
+    "lon": 35,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "coal"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.6,
+   "alsoIn": [
+    "The Guardian"
+   ]
+  },
+  {
+   "id": "7d394da3018e",
+   "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+   "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment",
+   "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+   "source": "The Guardian",
+   "published": "2026-10-28T09:37:49.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "outbreak",
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in United Kingdom?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "2dc6cde8910e",
+   "title": "Breaking the silence in Mexico’s barracks",
+   "summary": "In Mexico’s armed forces, an order from a superior is meant to be obeyed without question. For many women in uniform, investigative journalist Zorayda Gallegos found, that can include an order to step into an officer’s bedroom.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168715",
+   "source": "UN News",
+   "published": "2026-11-01T12:00:00.000Z",
+   "place": {
+    "name": "Mexico",
+    "country": "Mexico",
+    "iso": "MX",
+    "lat": 23.92,
+    "lon": -102.15,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "women"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "bf9ba445487d",
+   "title": "Peaceful protests in Germany spiral into violence and looting",
+   "summary": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
+   "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-01T18:51:56.000Z",
+   "place": {
+    "name": "Hamburg, Germany",
+    "country": "Germany",
+    "iso": "DE",
+    "lat": 53.55,
+    "lon": 9.99,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "erupt"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Volcano"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Germany?",
+    "How could Germany’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 3.3,
+   "alsoIn": []
+  }
+ ]
+}
