@@ -1,0 +1,1107 @@
+{
+ "date": "2026-11-03",
+ "generated": "2026-11-03T16:25:32.383Z",
+ "count": 25,
+ "stories": [
+  {
+   "id": "eaaa0d3e1b8e",
+   "title": "The Amazon’s canary in the coalmine: what a tropical fish can tell us about climate upheaval",
+   "summary": "Scientist Adalberto Luis Val’s pioneering research on the tambaqui fish is revealing the effect of climate disruption in Brazil, with global implications for biodiversity and food security",
+   "link": "https://www.theguardian.com/global-development/2026/nov/03/the-amazons-canary-in-the-coalmine-what-a-tropical-fish-can-tell-us-about-climate-upheaval",
+   "source": "The Guardian",
+   "published": "2026-11-03T12:00:05.000Z",
+   "place": {
+    "name": "Amazon",
+    "country": "Brazil",
+    "iso": "BR",
+    "lat": -4,
+    "lon": -62,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "biodiversity",
+      "coal"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources",
+    "ecosystems"
+   ],
+   "terms": [
+    "Biodiversity",
+    "Climate change",
+    "Food security",
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 9.3,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "640cf68696f2",
+   "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+   "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+   "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-03T12:07:59.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "export"
+     ],
+     "P": [
+      "summit",
+      "eu"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 8,
+   "alsoIn": []
+  },
+  {
+   "id": "ad7ca8f53527",
+   "title": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
+   "summary": "Renewed strikes on Black Sea shipping imperil grain exports, drive up food prices and deepen global food insecurity.",
+   "link": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices",
+   "source": "Al Jazeera",
+   "published": "2026-11-03T12:10:47.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "export",
+      "prices",
+      "shipping"
+     ],
+     "S": [
+      "food insecurity"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Food security",
+    "Trade"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": true,
+   "score": 7,
+   "alsoIn": []
+  },
+  {
+   "id": "05fdbdb3cc1f",
+   "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
+   "summary": "Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing",
+   "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
+   "source": "The Guardian",
+   "published": "2026-11-03T13:00:07.000Z",
+   "place": {
+    "name": "Brazil",
+    "country": "Brazil",
+    "iso": "BR",
+    "lat": -10.69,
+    "lon": -53.24,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "fossil fuel",
+      "coal"
+     ],
+     "P": [
+      "negotiat",
+      "cop3"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "climate"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 6.9,
+   "alsoIn": []
+  },
+  {
+   "id": "0d4b16458e85",
+   "title": "New tool will help gardeners move away from thirsty English classics to drought-resistant plants",
+   "summary": "Garden Climate Assessment Tool will allow users to predict a plant’s response to the projected climate in a given location",
+   "link": "https://www.theguardian.com/environment/2026/nov/03/garden-climate-assessment-tool-drought-gardening",
+   "source": "The Guardian",
+   "published": "2026-11-03T13:05:28.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "drought"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "hazards"
+   ],
+   "terms": [
+    "Climate change",
+    "Drought"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "What might the primary and secondary effects of this event be in the places involved?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "e2d7b4f5f89c",
+   "title": "AI data centres could undermine UK's emissions goals",
+   "summary": "Four planned \"hyperscale\" data centres consider using gas-fired power for their electricity needs.",
+   "link": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-03T06:27:17.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "emission"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "climate"
+   ],
+   "terms": [
+    "Carbon emissions"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "fc1eaf1028b2",
+   "title": "Alaska Senate candidates trade accusations ahead of election",
+   "summary": "",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/alaska-senate-candidates-trade-accusations-ahead-of-election",
+   "source": "Al Jazeera",
+   "published": "2026-11-03T11:01:27.000Z",
+   "place": {
+    "name": "Alaska",
+    "country": "United States",
+    "iso": "US",
+    "lat": 64,
+    "lon": -150,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "trade"
+     ],
+     "P": [
+      "senate",
+      "election"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "ee5c0a3eb29f",
+   "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+   "summary": "The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were able to leave the Russian-occupied city of Oleshky, in Ukraine’s Kherson region, during a brief local ceasefire.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168722",
+   "source": "UN News",
+   "published": "2026-11-02T12:00:00.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "un",
+      "ceasefire"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "resources",
+    "urban"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": true,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "8c49739e0560",
+   "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
+   "summary": "Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168724",
+   "source": "UN News",
+   "published": "2026-11-03T12:00:00.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "schools",
+      "education",
+      "children"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Aid"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Ukraine?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.7,
+   "alsoIn": []
+  },
+  {
+   "id": "c461de83b8fc",
+   "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
+   "summary": "The humanitarian crisis in Yemen is worsening, particularly in the southwestern city of Taiz, which is being encircled by paramilitary Iran-backed Houthi forces.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168723",
+   "source": "UN News",
+   "published": "2026-11-02T12:00:00.000Z",
+   "place": {
+    "name": "Taiz, Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 13.58,
+    "lon": 44.02,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health",
+      "humanitarian"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "urban"
+   ],
+   "terms": [
+    "Humanitarian crisis"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Yemen?",
+    "What challenges does urban growth create in Yemen?"
+   ],
+   "conflict": true,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "d0930d0ae299",
+   "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+   "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
+   "link": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-01T18:04:52.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "extinct"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "e3726f84f7d5",
+   "title": "'Quiet quitting' could be hitting the economy - here's why",
+   "summary": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.",
+   "link": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-03T11:15:51.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "jobs"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "2371d1f6414a",
+   "title": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
+   "summary": "The head of the World Health Organization (WHO) called on Monday for greater protection for civilians caught in conflict in northern Ethiopia following deadly drone strikes this past weekend.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168720",
+   "source": "UN News",
+   "published": "2026-11-02T12:00:00.000Z",
+   "place": {
+    "name": "Ethiopia",
+    "country": "Ethiopia",
+    "iso": "ET",
+    "lat": 8.61,
+    "lon": 39.61,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Ethiopia?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.2,
+   "alsoIn": []
+  },
+  {
+   "id": "14c9d917bef2",
+   "title": "Trump to remove Rwanda and South Africa from US trade deal",
+   "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+   "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-03T13:28:30.000Z",
+   "place": {
+    "name": "Rwanda",
+    "country": "Rwanda",
+    "iso": "RW",
+    "lat": -1.99,
+    "lon": 29.92,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "South Africa",
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "trade"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Sanctions",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "01a6443e5cd9",
+   "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+   "summary": "Hezbollah denies the Syrian accusations, reiterating that it does not have any presence on Syrian territory.",
+   "link": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery",
+   "source": "Al Jazeera",
+   "published": "2026-11-03T15:47:34.000Z",
+   "place": {
+    "name": "Homs, Syria",
+    "country": "Syria",
+    "iso": "SY",
+    "lat": 34.73,
+    "lon": 36.72,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "9fa876a0c1e3",
+   "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
+   "summary": "Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
+   "source": "The Guardian",
+   "published": "2026-11-03T14:00:46.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "labor"
+     ],
+     "P": [
+      "government",
+      "election"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in the places involved?"
+   ],
+   "conflict": false,
+   "score": 4.4,
+   "alsoIn": []
+  },
+  {
+   "id": "fc578b054985",
+   "title": "How India pulled 500 million people out of poverty as inequality deepens",
+   "summary": "India's extreme poverty declined from 27.1 percent to 2.6 percent between 2011 and 2023, according to the World Bank.",
+   "link": "https://www.aljazeera.com/news/2026/11/3/how-india-pulled-500-million-people-out-of-poverty-as-inequality-deepens",
+   "source": "Al Jazeera",
+   "published": "2026-11-03T11:30:34.000Z",
+   "place": {
+    "name": "India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 22.8,
+    "lon": 79.53,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "poverty",
+      "inequalit"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [
+    "Inequality",
+    "Poverty"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in India?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "7bc41e1649ab",
+   "title": "Wage protests force hundreds of Bangladesh garment factories to close",
+   "summary": "These factories, which manufacture for brands like H&M and Uniqlo, rely on millions of lowly paid workers.",
+   "link": "https://www.bbc.co.uk/news/articles/c3pwg91qjpq7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-03T03:59:02.000Z",
+   "place": {
+    "name": "Bangladesh",
+    "country": "Bangladesh",
+    "iso": "BD",
+    "lat": 23.89,
+    "lon": 90.23,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "workers",
+      "factories"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "91f7d1814634",
+   "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+   "summary": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
+   "link": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-03T08:57:20.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "net zero",
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "climate"
+   ],
+   "terms": [
+    "Climate change",
+    "Mitigation"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Who are the winners and losers from this in the places involved?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "28d55b3e34c5",
+   "title": "Do the Shetland Isles need Cold War-style military protection?",
+   "summary": "Calls are being made for the defence of the Shetland Isles to be strengthened after increased sightings of Russian trawlers off the coast of Scotland.",
+   "link": "https://www.bbc.co.uk/news/articles/cjg47dq6q775o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-03T06:07:33.000Z",
+   "place": {
+    "name": "Russia",
+    "country": "Russia",
+    "iso": "RU",
+    "lat": 58,
+    "lon": 60,
+    "precision": "country",
+    "confidence": 0.15,
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "coast"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Russia?"
+   ],
+   "conflict": true,
+   "score": 4.1,
+   "alsoIn": []
+  },
+  {
+   "id": "2a7fe15bf002",
+   "title": "Business Daily",
+   "summary": "We trace the gold supply chain from a mine to a Delhi jeweller",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8grr?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-02T21:30:00.000Z",
+   "place": {
+    "name": "Delhi, India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 28.65,
+    "lon": 77.23,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "supply chain",
+      "mine"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Natural resources",
+    "Supply chain"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "8671be621ae4",
+   "title": "Major Queensland hospital to close pathology labs amid potential formaldehyde exposure investigation",
+   "summary": "About 400 staff affected by closure at both Mater’s Brisbane and Springfield hospitals, with financial sustainability of pathology business a factor",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/03/major-queensland-hospital-to-close-pathology-labs-amid-potential-formaldehyde-exposure-investigation",
+   "source": "The Guardian",
+   "published": "2026-11-03T08:11:08.000Z",
+   "place": {
+    "name": "Queensland",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -22,
+    "lon": 144,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "hospital"
+     ],
+     "E": [
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Sustainability"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "c92dbf95bdb6",
+   "title": "Mining giant joins fight to stop killer toad march across Australia",
+   "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+   "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-03T15:05:01.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "mining"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Natural resources"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "35d9504b1fe7",
+   "title": "Red gold from purple flowers: saffron harvest in Kashmir – in pictures",
+   "summary": "Kashmiri saffron is one of the world’s most expensive spices. It’s primarily cultivated in the Pampore region of Jammu and Kashmir in India. Often referred to as ‘red gold’ because of its high value, saffron is prized for its rich aroma, distinctive flavour and quality",
+   "link": "https://www.theguardian.com/world/gallery/2026/nov/03/red-gold-from-purple-flowers-saffron-harvest-in-kashmir-in-pictures",
+   "source": "The Guardian",
+   "published": "2026-11-02T23:37:16.000Z",
+   "place": {
+    "name": "Kashmir",
+    "country": "India",
+    "iso": "IN",
+    "lat": 34.1,
+    "lon": 74.8,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "harvest"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "451a04e84b13",
+   "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
+   "summary": "Yousef Jabareen says he is ready to join forces with opposition bloc to oust Benjamin Netanyahu after winning record number of seats in Knesset",
+   "link": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
+   "source": "The Guardian",
+   "published": "2026-11-02T06:00:32.000Z",
+   "place": {
+    "name": "Israel",
+    "country": "Israel",
+    "iso": "IL",
+    "lat": 31.45,
+    "lon": 35,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "coal"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.2,
+   "alsoIn": []
+  }
+ ]
+}
