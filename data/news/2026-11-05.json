@@ -1,0 +1,877 @@
+{
+ "date": "2026-11-05",
+ "generated": "2026-11-05T16:39:21.650Z",
+ "count": 19,
+ "stories": [
+  {
+   "id": "1d796afec7fc",
+   "title": "Fuel price shock: Why developing economies are paying the most at the pump",
+   "summary": "When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a&nbsp;new report from UNCTAD, the UN trade and development agency.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168738",
+   "source": "UN News",
+   "published": "2026-11-04T12:00:00.000Z",
+   "place": {
+    "name": "Strait of Hormuz",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 26.6,
+    "lon": 56.3,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "trade",
+      "price"
+     ],
+     "P": [
+      "un",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics",
+    "development"
+   ],
+   "terms": [
+    "Development",
+    "Fossil fuels",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 13.2,
+   "alsoIn": []
+  },
+  {
+   "id": "dc0eb08d9730",
+   "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+   "summary": "Attacks that damaged or destroyed water and sanitation systems in conflict zones tripled between 2021 and 2025, increasing children’s risk of exposure to disease outbreaks, malnutrition and violence.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+   "source": "UN News",
+   "published": "2026-11-05T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "disease",
+      "outbreak",
+      "malnutri"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Food security"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": true,
+   "score": 10.6,
+   "alsoIn": []
+  },
+  {
+   "id": "f097f0365a28",
+   "title": "COP31 explained: What’s at stake at this year’s UN climate summit?",
+   "summary": "The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168735",
+   "source": "UN News",
+   "published": "2026-11-04T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "clean energy"
+     ],
+     "P": [
+      "summit",
+      "cop3",
+      "un"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics",
+    "resources"
+   ],
+   "terms": [
+    "Climate change",
+    "Renewable energy"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 9.4,
+   "alsoIn": []
+  },
+  {
+   "id": "0987c826d294",
+   "title": "Investigation into 'major fish kill' after pollution incident",
+   "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
+   "link": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-05T14:51:45.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "pollution",
+      "river"
+     ],
+     "S": [
+      "migra"
+     ],
+     "E": [
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "economy"
+   ],
+   "terms": [
+    "Migration",
+    "Pollution"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 9.3,
+   "alsoIn": []
+  },
+  {
+   "id": "5ce3357606c6",
+   "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
+   "summary": "Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168737",
+   "source": "UN News",
+   "published": "2026-11-04T12:00:00.000Z",
+   "place": {
+    "name": "Syria",
+    "country": "Syria",
+    "iso": "SY",
+    "lat": 35.02,
+    "lon": 38.49,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "price",
+      "invest"
+     ],
+     "P": [
+      "law",
+      "un",
+      "war"
+     ],
+     "S": [
+      "children"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": true,
+   "score": 8.5,
+   "alsoIn": []
+  },
+  {
+   "id": "ee2db3d547ed",
+   "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
+   "summary": "Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has&nbsp;said.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168740",
+   "source": "UN News",
+   "published": "2026-11-04T12:00:00.000Z",
+   "place": {
+    "name": "Rafah, Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.3,
+    "lon": 34.25,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "displac",
+      "humanitarian"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "migration",
+    "geopolitics"
+   ],
+   "terms": [
+    "Aid",
+    "Displacement",
+    "Humanitarian crisis"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Palestine?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": false,
+   "score": 8,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "8a155c875434",
+   "title": "‘No one cares about the little guy’: Sri Lanka’s fishers still reeling from 2021 toxic plastic spill",
+   "summary": "A stricken container ship shed tonnes of tiny pellets called nurdles on the west coast. Five years on, locals are counting the cost to marine life and livelihoods",
+   "link": "https://www.theguardian.com/environment/2026/nov/05/no-one-cares-about-the-little-guy-sri-lankas-fishers-still-reeling-from-2021-toxic-plastic-spill",
+   "source": "The Guardian",
+   "published": "2026-11-05T10:00:00.000Z",
+   "place": {
+    "name": "Sri Lanka",
+    "country": "Sri Lanka",
+    "iso": "LK",
+    "lat": 7.61,
+    "lon": 80.7,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "marine",
+      "toxic",
+      "plastic"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems"
+   ],
+   "terms": [
+    "Plastic pollution",
+    "Pollution"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How could this environment be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 7.3,
+   "alsoIn": []
+  },
+  {
+   "id": "acf1c2f2f0a8",
+   "title": "‘Don’t worry about the leopard. It’s a man you don’t want to run into’: Delhi women reclaim the outdoors",
+   "summary": "On a wildlife walk in the Indian capital, a group of women share their stories of trying to enjoy nature in a city where strangers feel entitled to harass them",
+   "link": "https://www.theguardian.com/global-development/2026/oct/31/delhi-women-natureleopards-its-a-man-you-dont-want-run-in-to-the-delhi-women-trying-to-reclaim-their-right-to-nature",
+   "source": "The Guardian",
+   "published": "2026-10-31T03:00:30.000Z",
+   "place": {
+    "name": "Delhi, India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 28.65,
+    "lon": 77.23,
+    "precision": "place",
+    "confidence": 0.9750000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "wildlife",
+      "nature"
+     ],
+     "S": [
+      "women"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "urban"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "What challenges does urban growth create in India?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "b1475e8e762c",
+   "title": "Chinese cigarettes and Bolivian beer: the Amazonian town transformed by a rampant mining boom",
+   "summary": "Mayaya, once-remote, has become a hub for Chinese companies. But critics accuse them of exploitation and illegal exports",
+   "link": "https://www.theguardian.com/global-development/2026/nov/02/chinese-cigarettes-and-bolivian-beer-the-amazonian-town-transformed-by-a-rampant-mining-boom",
+   "source": "The Guardian",
+   "published": "2026-11-02T14:00:43.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.6,
+    "also": [
+     "Bolivia"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "export",
+      "mining"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Natural resources",
+    "Trade"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "986dc02789fe",
+   "title": "Warming UK seas could ‘fundamentally reshape marine ecosystems’ – report",
+   "summary": "Four-year study warns destabilised marine food webs could jeopardise food security by 2050",
+   "link": "https://www.theguardian.com/environment/2026/nov/05/warming-uk-seas-could-fundamentally-reshape-marine-ecosystems-report",
+   "source": "The Guardian",
+   "published": "2026-11-05T07:00:56.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "marine",
+      "ecosystem"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "resources"
+   ],
+   "terms": [
+    "Ecosystem",
+    "Food security"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "5e6c29d761b4",
+   "title": "Why more investment is not making housing affordable in Ghana",
+   "summary": "High costs, limited financing and rising demand keep homes out of reach.",
+   "link": "https://www.aljazeera.com/news/2026/11/5/why-more-investment-is-not-making-housing-affordable-in-ghana",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T11:42:29.000Z",
+   "place": {
+    "name": "Ghana",
+    "country": "Ghana",
+    "iso": "GH",
+    "lat": 7.95,
+    "lon": -1.22,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "housing"
+     ],
+     "E": [
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in Ghana?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "77600baca9bb",
+   "title": "Photos: Thousands rally in France over rising costs and economic struggles",
+   "summary": "Trade unions led more than 260 planned protests nationwide, urging government to address economic woes and wage demands.",
+   "link": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T16:07:56.000Z",
+   "place": {
+    "name": "France",
+    "country": "France",
+    "iso": "FR",
+    "lat": 46.6,
+    "lon": 2.4,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "trade"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.6,
+   "alsoIn": []
+  },
+  {
+   "id": "9e0176657cd2",
+   "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+   "summary": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification",
+   "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+   "source": "The Guardian",
+   "published": "2026-11-05T05:00:55.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "mineral",
+      "mines"
+     ],
+     "En": [
+      "net zero"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources"
+   ],
+   "terms": [
+    "Mitigation",
+    "Natural resources"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 5.4,
+   "alsoIn": []
+  },
+  {
+   "id": "81edee9bcdaa",
+   "title": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
+   "summary": "Their message on cost of living resonated with voters. Now they must show they can deliver.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-05T06:01:05.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "cost of living",
+      "tax"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Cost of living"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 5.2,
+   "alsoIn": []
+  },
+  {
+   "id": "b2d385c02ab5",
+   "title": "US elections 2026 live: Republicans blast their party’s midterms collapse, blaming Iran war and affordability crisis",
+   "summary": "Ted Cruz and Newt Gingrich call the US midterms election a failure and ‘Watergate-level repudiation’ as Democrats overtake both chambers of Congress",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+   "source": "The Guardian",
+   "published": "2026-11-05T16:09:38.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "congress",
+      "election",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": true,
+   "score": 4.4,
+   "alsoIn": [
+    "BBC News"
+   ]
+  },
+  {
+   "id": "d22d4bc460b3",
+   "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+   "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+   "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-04T18:01:31.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.5,
+    "also": [
+     "Canada"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "tariff",
+      "trade"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Tariff",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "f3d65e9bc1f8",
+   "title": "King says slave trade a 'shameful chapter' that 'fills my heart with horror'",
+   "summary": "King Charles III was formally opening the Commonwealth Heads of Government Meeting (Chogm) in Antigua and Barbuda.",
+   "link": "https://www.bbc.co.uk/news/videos/cmvg9wwwq7jko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-03T16:57:57.000Z",
+   "place": {
+    "name": "Antigua and Barbuda",
+    "country": "Antigua and Barbuda",
+    "iso": "AG",
+    "lat": 17.08,
+    "lon": -61.79,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "trade"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 3.6,
+   "alsoIn": []
+  },
+  {
+   "id": "4e302aa30a44",
+   "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+   "summary": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit",
+   "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+   "source": "The Guardian",
+   "published": "2026-11-04T18:18:37.000Z",
+   "place": {
+    "name": "Democratic Republic of the Congo",
+    "country": "Democratic Republic of the Congo",
+    "iso": "CD",
+    "lat": -2.87,
+    "lon": 23.64,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health",
+      "disease"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Democratic Republic of the Congo?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "b9698860f92e",
+   "title": "The next global pandemic could be brewing on a mink farm in Utah – and little is being done to stop it | George Monbiot",
+   "summary": "Mink farms are the perfect petri dishes for deadly flu strains to emerge. Yet officials appear to be protecting business interests over human lives",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/04/global-pandemic-mink-farm-utah-farming-livestock",
+   "source": "The Guardian",
+   "published": "2026-11-04T06:00:26.000Z",
+   "place": {
+    "name": "Utah",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.3,
+    "lon": -111.7,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "farm"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  }
+ ]
+}
