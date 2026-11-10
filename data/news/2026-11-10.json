@@ -1,0 +1,1206 @@
+{
+ "date": "2026-11-10",
+ "generated": "2026-11-10T16:31:54.987Z",
+ "count": 26,
+ "stories": [
+  {
+   "id": "2539caa0df75",
+   "title": "Climate crisis could push 141 million more women into extreme poverty",
+   "summary": "More than one in three women and girls worldwide – roughly 1.5 billion – live in so-called “climate hotspots”, where high exposure to hazards such as cyclones and droughts combine with insecure jobs and deep gender inequality.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168770",
+   "source": "UN News",
+   "published": "2026-11-10T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "drought",
+      "cyclone"
+     ],
+     "S": [
+      "poverty",
+      "inequalit",
+      "women"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "climate",
+    "development"
+   ],
+   "terms": [
+    "Climate change",
+    "Drought",
+    "Hazard",
+    "Inequality"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in the places involved?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 14.3,
+   "alsoIn": []
+  },
+  {
+   "id": "f7cf26809a19",
+   "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
+   "summary": "The El Niño extreme weather pattern could cost the global economy up to $11 trillion and seriously impact food security, said the UN agency tackling rural poverty in developing countries on Monday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168768",
+   "source": "UN News",
+   "published": "2026-11-09T12:00:00.000Z",
+   "place": {
+    "name": "Mozambique",
+    "country": "Mozambique",
+    "iso": "MZ",
+    "lat": -17.2,
+    "lon": 35.6,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "Yemen"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "poverty",
+      "rural"
+     ],
+     "E": [
+      "econom",
+      "price"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Development",
+    "El Niño",
+    "Extreme weather",
+    "Food security"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Mozambique?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 11.5,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "f48ad27a4f01",
+   "title": "Slight fall in carbon emissions from fossil fuels as Iran war drives renewables push",
+   "summary": "However, authors of a comprehensive assessment to be presented at Cop31 warn talk of a global turnaround premature",
+   "link": "https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push",
+   "source": "The Guardian",
+   "published": "2026-11-10T11:55:06.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "carbon",
+      "emission",
+      "renewable"
+     ],
+     "P": [
+      "cop3",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Fossil fuels",
+    "Renewable energy"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": true,
+   "score": 11,
+   "alsoIn": []
+  },
+  {
+   "id": "6326fc424990",
+   "title": "New regulation for heating oil market, but no price controls",
+   "summary": "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK.",
+   "link": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-10T13:42:29.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.5,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "price",
+      "invest",
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 8.3,
+   "alsoIn": []
+  },
+  {
+   "id": "b64efc45ea9f",
+   "title": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
+   "summary": "US government will have no official presence at UN’s annual climate summit, this year’s Cop31 held in Antalya, Turkey",
+   "link": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
+   "source": "The Guardian",
+   "published": "2026-11-09T06:00:01.000Z",
+   "place": {
+    "name": "Antalya, Türkiye",
+    "country": "Türkiye",
+    "iso": "TR",
+    "lat": 36.91,
+    "lon": 30.7,
+    "precision": "place",
+    "confidence": 0.525,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "P": [
+      "government",
+      "talks",
+      "summit"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 7.7,
+   "alsoIn": []
+  },
+  {
+   "id": "0658f22a948d",
+   "title": "Children among the dead as heavy rains flood tents and shelters in Gaza",
+   "summary": "An infant reportedly drowned and five Gazans were killed – including three children – when a sand dune collapsed on their tents as the first heavy rains swept across the enclave at the weekend, according to the UN aid coordination office (OCHA).",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168766",
+   "source": "UN News",
+   "published": "2026-11-09T12:00:00.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "heavy rain",
+      "flood"
+     ],
+     "S": [
+      "children"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Aid",
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Palestine?",
+    "What does this story suggest about quality of life in Palestine?"
+   ],
+   "conflict": false,
+   "score": 7.7,
+   "alsoIn": [
+    "BBC News"
+   ]
+  },
+  {
+   "id": "4ab0869a7a35",
+   "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+   "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
+   "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-09T07:30:12.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "P": [
+      "talks",
+      "summit",
+      "cop3"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 7,
+   "alsoIn": []
+  },
+  {
+   "id": "a5a2e2d2b52e",
+   "title": "Tuesday briefing: The world is falling short on climate action. Can Cop31 change that?",
+   "summary": "In today’s newsletter: As global leaders gather in Turkey for the UN climate summit, both doubts and hope surround what the annual talks can achieve",
+   "link": "https://www.theguardian.com/world/2026/nov/10/tuesday-briefing-the-world-is-falling-short-on-climate-action-can-cop31-change-that",
+   "source": "The Guardian",
+   "published": "2026-11-10T06:45:39.000Z",
+   "place": {
+    "name": "Türkiye",
+    "country": "Türkiye",
+    "iso": "TR",
+    "lat": 39.06,
+    "lon": 35.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "P": [
+      "summit",
+      "talks",
+      "cop3"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 7,
+   "alsoIn": []
+  },
+  {
+   "id": "faea3f5a1a73",
+   "title": "Holiday hunger bill to face final Stormont hurdle",
+   "summary": "The new law would would help poorer families with food costs during school holidays.",
+   "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-10T09:35:03.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "school",
+      "hunger"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "resources"
+   ],
+   "terms": [
+    "Food security"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 6.6,
+   "alsoIn": []
+  },
+  {
+   "id": "6c735a29b9a9",
+   "title": "Jimmy Carter’s Georgia farm to open to the public: ‘This land shaped him and his legacy’",
+   "summary": "Conservation group acquires former US president’s family farm with plans to transfer it to the state in 2028",
+   "link": "https://www.theguardian.com/us-news/2026/nov/10/jimmy-carter-georgia-farm-conserved-open-to-public",
+   "source": "The Guardian",
+   "published": "2026-11-10T15:01:41.000Z",
+   "place": {
+    "name": "Georgia",
+    "country": "Georgia",
+    "iso": "GE",
+    "lat": 42.17,
+    "lon": 43.52,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "conservation"
+     ],
+     "E": [
+      "farm"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "ecosystems"
+   ],
+   "terms": [
+    "Conservation"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": false,
+   "score": 6.4,
+   "alsoIn": []
+  },
+  {
+   "id": "3acf2cd4b455",
+   "title": "Victorian Labor’s ‘unforgivable’ preferences decision risks Liberal-One Nation government, Greens warn",
+   "summary": "Exclusive: Ellen Sandell says Labor’s decision not to back progressives in key inner-seat could hand power to right-wing coalition in close election",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/11/labor-decision-greens-preference-one-nation-battleground-seat-prahran-ntwnfb",
+   "source": "The Guardian",
+   "published": "2026-11-10T14:00:55.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "labor"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.7,
+   "alsoIn": []
+  },
+  {
+   "id": "17a37279a89c",
+   "title": "‘We said no, no, no, but they kept insisting’: the Paraguayan people battling a eucalyptus empire",
+   "summary": "It is Paraguay’s largest private investment but local people accuse a forestry giant of ignoring their contamination concerns over its vast plantation",
+   "link": "https://www.theguardian.com/global-development/2026/nov/10/investigation-pulp-company-paraguay-paracel-eucalyptus-plantation",
+   "source": "The Guardian",
+   "published": "2026-11-10T11:00:49.000Z",
+   "place": {
+    "name": "Paraguay",
+    "country": "Paraguay",
+    "iso": "PY",
+    "lat": -23.21,
+    "lon": -58.44,
+    "precision": "country",
+    "confidence": 0.7,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "forest"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "de19283f1fb0",
+   "title": "The superpower battle over energy – and what it means for your bills",
+   "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+   "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-10T00:08:28.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "war",
+      "superpower"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "a62aa84dc29e",
+   "title": "Israeli soldiers are also settlers in West Bank: Al Jazeera investigation",
+   "summary": "Blurred lines between Israeli soldiers and settlers fuel systematic West Bank violence and mass displacement.",
+   "link": "https://www.aljazeera.com/news/2026/11/10/israeli-soldiers-are-also-settlers-in-west-bank-al-jazeera-investigation",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T13:34:33.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Israel"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "displac"
+     ],
+     "E": [
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "economy"
+   ],
+   "terms": [
+    "Displacement"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": true,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "4fb60736a818",
+   "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
+   "summary": "New data comes after Republicans’ midterms losses – which were largely seen as a rebuke of the party over high prices",
+   "link": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
+   "source": "The Guardian",
+   "published": "2026-11-10T15:38:48.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "inflation",
+      "price",
+      "gas"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Inflation"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": [
+    "BBC News"
+   ]
+  },
+  {
+   "id": "1080ea75cd5f",
+   "title": "UK and Argentina clash over Falklands oil project as Hamburg tribunal starts",
+   "summary": "Sea Lion project in the North Falkland basin threatens to deepen sovereignty dispute",
+   "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+   "source": "The Guardian",
+   "published": "2026-11-10T14:49:32.000Z",
+   "place": {
+    "name": "Hamburg, Germany",
+    "country": "Germany",
+    "iso": "DE",
+    "lat": 53.55,
+    "lon": 9.99,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": [
+     "Argentina"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Sovereignty"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "88d803268c5a",
+   "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+   "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-10T09:23:55.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "import",
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "1cd3d206e6cb",
+   "title": "Thirteen migrants die after boat sinks off Crete",
+   "summary": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
+   "link": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-09T13:50:01.000Z",
+   "place": {
+    "name": "Greece",
+    "country": "Greece",
+    "iso": "GR",
+    "lat": 39.46,
+    "lon": 22.57,
+    "precision": "country",
+    "confidence": 0.15,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "migra"
+     ]
+    }
+   },
+   "topics": [
+    "migration"
+   ],
+   "terms": [
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What are the impacts on the places people leave and the places they move to?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "51d70fb391ba",
+   "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+   "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+   "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-10T15:21:18.000Z",
+   "place": {
+    "name": "Israel",
+    "country": "Israel",
+    "iso": "IL",
+    "lat": 31.45,
+    "lon": 35,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Palestine"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "development"
+   ],
+   "terms": [
+    "Aid",
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Israel?",
+    "What does this story suggest about quality of life in Israel?"
+   ],
+   "conflict": true,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "9cae2cfa2ee9",
+   "title": "Drone delivers food to chimpanzee cut off by flooding",
+   "summary": "Drone video shows the animal retrieving food from a paper bag dropped nearby after flooding blocked access to a Florida chimpanzee sanctuary.",
+   "link": "https://www.bbc.co.uk/news/videos/c6wyrykl9vl7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-09T18:03:07.000Z",
+   "place": {
+    "name": "Florida",
+    "country": "United States",
+    "iso": "US",
+    "lat": 28,
+    "lon": -82,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "0e1c50d39b82",
+   "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
+   "summary": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfall",
+   "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
+   "source": "The Guardian",
+   "published": "2026-11-09T10:59:06.000Z",
+   "place": {
+    "name": "Iraq",
+    "country": "Iraq",
+    "iso": "IQ",
+    "lat": 33.01,
+    "lon": 43.77,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Iraq?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "c0d11a8703a9",
+   "title": "At least 56 migrants die in weekend shipwrecks off Senegal and Greece",
+   "summary": "At least 56 people died in a series of shipwrecks off Senegal and Greece over the weekend, the International Organization for Migration (IOM)&nbsp;said on Monday, calling it a stark reminder of the deadly risks they face on the Atlantic and Mediterranean.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168769",
+   "source": "UN News",
+   "published": "2026-11-09T12:00:00.000Z",
+   "place": {
+    "name": "Senegal",
+    "country": "Senegal",
+    "iso": "SN",
+    "lat": 14.36,
+    "lon": -14.47,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Greece"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "migra"
+     ]
+    }
+   },
+   "topics": [
+    "migration"
+   ],
+   "terms": [
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What are the impacts on the places people leave and the places they move to?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": [
+    "BBC News"
+   ]
+  },
+  {
+   "id": "6b05ec01f681",
+   "title": "Author Jojo Moyes among UK travellers at risk of EU ban amid digital border system glitches",
+   "summary": "Errors in entry and exit records leave some Britons wrongly flagged as having overstayed post-Brexit 90-day limit",
+   "link": "https://www.theguardian.com/business/2026/nov/10/jojo-moyes-uk-travellers-eu-ban-digital-border-system-ees",
+   "source": "The Guardian",
+   "published": "2026-11-10T07:00:32.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "ban",
+      "eu",
+      "border"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in United Kingdom?"
+   ],
+   "conflict": false,
+   "score": 4.2,
+   "alsoIn": []
+  },
+  {
+   "id": "573d8c836a0e",
+   "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief",
+   "summary": "Jens Eskelund says Europe may need to allow its companies to become part of Chinese firms’ supply chains",
+   "link": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
+   "source": "The Guardian",
+   "published": "2026-11-10T06:00:30.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "manufactur",
+      "supply chain",
+      "firms"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Supply chain"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.1,
+   "alsoIn": []
+  },
+  {
+   "id": "60274129e254",
+   "title": "Turkey steel factory blast kills at least 17 people",
+   "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+   "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-09T20:42:04.000Z",
+   "place": {
+    "name": "Türkiye",
+    "country": "Türkiye",
+    "iso": "TR",
+    "lat": 39.06,
+    "lon": 35.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "factory"
+     ],
+     "En": [
+      "earthquake"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Earthquake"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Türkiye?",
+    "How could Türkiye’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "799d3791f46a",
+   "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+   "summary": "First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and Europe",
+   "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+   "source": "The Guardian",
+   "published": "2026-11-10T12:48:32.000Z",
+   "place": {
+    "name": "Moscow, Russia",
+    "country": "Russia",
+    "iso": "RU",
+    "lat": 55.75,
+    "lon": 37.62,
+    "precision": "place",
+    "confidence": 1,
+    "also": [
+     "United Arab Emirates",
+     "Ukraine"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "talks",
+      "war",
+      "peace talks"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Russia?"
+   ],
+   "conflict": true,
+   "score": 3.1,
+   "alsoIn": []
+  }
+ ]
+}
