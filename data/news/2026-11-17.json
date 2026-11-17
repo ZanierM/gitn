@@ -1,0 +1,969 @@
+{
+ "date": "2026-11-17",
+ "generated": "2026-11-17T17:45:33.107Z",
+ "count": 21,
+ "stories": [
+  {
+   "id": "c0f996bc37a2",
+   "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+   "summary": "Gaza is facing a deepening shelter, sanitation and food security crisis as winter rains flood makeshift shelters, destroy scarce food supplies and leave displaced families struggling to stay warm and fed.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168821",
+   "source": "UN News",
+   "published": "2026-11-17T12:00:00.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "En"
+    ],
+    "why": {
+     "S": [
+      "displac",
+      "sanitation"
+     ],
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "hazards",
+    "development"
+   ],
+   "terms": [
+    "Aid",
+    "Displacement",
+    "Flooding",
+    "Food security"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "What might the primary and secondary effects of this event be in Palestine?"
+   ],
+   "conflict": false,
+   "score": 9.5,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "93eb49729a11",
+   "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
+   "summary": "Energy facilities, industrial units, ports and bridges, schools, hospitals and apartment buildings have already been hit",
+   "link": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war",
+   "source": "Al Jazeera",
+   "published": "2026-11-17T12:50:12.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "industr",
+      "ports",
+      "infrastructure"
+     ],
+     "S": [
+      "hospital",
+      "schools"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [
+    "Infrastructure"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": true,
+   "score": 8.8,
+   "alsoIn": []
+  },
+  {
+   "id": "1f182f037827",
+   "title": "Where do people want to see Britain’s climate action plan working? On their own doorstep | Miatta Fahnbulleh",
+   "summary": "I am at Cop31 – concerned about the crisis around the world, but mindful that voters want jobs, warmer homes and cheaper prices",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/17/britain-climate-action-plan-working-cop31-voters-jobs-home-prices",
+   "source": "The Guardian",
+   "published": "2026-11-17T13:32:44.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "E": [
+      "prices",
+      "jobs"
+     ],
+     "P": [
+      "vote",
+      "cop3"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "economy"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 8.7,
+   "alsoIn": []
+  },
+  {
+   "id": "131aa1f053f9",
+   "title": "Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history",
+   "summary": "Analysis of fossil fuel exports since 1850 differs from most assessments – which look at countries where CO 2 is released",
+   "link": "https://www.theguardian.com/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history",
+   "source": "The Guardian",
+   "published": "2026-11-17T05:00:06.000Z",
+   "place": {
+    "name": "Saudi Arabia",
+    "country": "Saudi Arabia",
+    "iso": "SA",
+    "lat": 24.09,
+    "lon": 44.67,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "Australia",
+     "Russia"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "co2",
+      "fossil fuel"
+     ],
+     "E": [
+      "export"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "climate"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Fossil fuels",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 8.5,
+   "alsoIn": []
+  },
+  {
+   "id": "4cd462fe9068",
+   "title": "Can this experimental orchard save the UK’s cider industry?",
+   "summary": "Farmers are utilising science and nature to help orchards adapt and thrive in the face of shifting temperatures, rainfall and pests",
+   "link": "https://www.theguardian.com/environment/2026/nov/17/farming-apple-growers-climate-breakdown-thatchers-cider-wildflowers-soil-water-insects-aoe",
+   "source": "The Guardian",
+   "published": "2026-11-17T08:00:08.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "rainfall",
+      "temperature",
+      "nature"
+     ],
+     "E": [
+      "industr",
+      "farm"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Adaptation",
+    "Rural"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 8.5,
+   "alsoIn": []
+  },
+  {
+   "id": "d32a7d2f4809",
+   "title": "These US coal plants on the Ohio River shut down years ago. Now, residents say their waste is destroying lives",
+   "summary": "Landfill owner’s data show lithium above groundwater standards near the drinking water source for millions",
+   "link": "https://www.theguardian.com/us-news/2026/nov/17/coal-plants-ohio-river-landfill",
+   "source": "The Guardian",
+   "published": "2026-11-17T13:00:48.000Z",
+   "place": {
+    "name": "Ohio",
+    "country": "United States",
+    "iso": "US",
+    "lat": 40.3,
+    "lon": -82.8,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "river",
+      "groundwater",
+      "coal"
+     ],
+     "S": [
+      "drinking water"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Natural resources",
+    "Water scarcity"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 7.5,
+   "alsoIn": []
+  },
+  {
+   "id": "b7bb56261b5d",
+   "title": "Our climate experts Ajit Niranjan and Fiona Harvey answer your questions on Cop31 – live",
+   "summary": "The Guardian’s environment editor Fiona Harvey and Europe environment correspondent Ajit Niranjan are answering your questions on Cop31, the draft deal on fossil fuels, the fight over climate finance and what overshooting 1.5C means for the world.",
+   "link": "https://www.theguardian.com/environment/live/2026/nov/17/what-do-you-want-to-know-about-the-cop31-climate-talks-ask-fiona-harvey-and-ajit-niranjan",
+   "source": "The Guardian",
+   "published": "2026-11-17T17:25:26.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "fossil fuel",
+      "environment"
+     ]
+    }
+   },
+   "topics": [
+    "climate"
+   ],
+   "terms": [
+    "Climate change",
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Who are the winners and losers from this in the places involved?"
+   ],
+   "conflict": false,
+   "score": 7.3,
+   "alsoIn": []
+  },
+  {
+   "id": "209cd10fe6c0",
+   "title": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
+   "summary": "The World Food Programme (WFP) is assisting&nbsp;thousands&nbsp;of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported on Tuesday.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168822",
+   "source": "UN News",
+   "published": "2026-11-17T12:00:00.000Z",
+   "place": {
+    "name": "Ethiopia",
+    "country": "Ethiopia",
+    "iso": "ET",
+    "lat": 8.61,
+    "lon": 39.61,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Kenya"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "hunger"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Food security"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Ethiopia?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 7,
+   "alsoIn": []
+  },
+  {
+   "id": "59ede4cedc21",
+   "title": "Lebanon leading the way in mental health support",
+   "summary": "Mental health support must be a core part of the humanitarian response, said the UN Deputy Secretary-General during a visit to Lebanon over the weekend,&nbsp;where efforts to address the psychological toll of years of conflict and instability offer valuable lessons for other crisis-affected countries.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168818",
+   "source": "UN News",
+   "published": "2026-11-16T12:00:00.000Z",
+   "place": {
+    "name": "Lebanon",
+    "country": "Lebanon",
+    "iso": "LB",
+    "lat": 33.92,
+    "lon": 35.88,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "health",
+      "humanitarian"
+     ],
+     "P": [
+      "un",
+      "conflict"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Humanitarian crisis"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Lebanon?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6.9,
+   "alsoIn": []
+  },
+  {
+   "id": "7953ff575be7",
+   "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+   "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-16T15:40:16.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "trade"
+     ],
+     "P": [
+      "minister",
+      "policy",
+      "eu"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6.7,
+   "alsoIn": []
+  },
+  {
+   "id": "acf94888b2b2",
+   "title": "US government confirms investigation into tech firm Megaspeed",
+   "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+   "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-17T11:17:32.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.5,
+    "also": [
+     "Singapore",
+     "China"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "export",
+      "invest",
+      "firm"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "82ba2d6551bf",
+   "title": "AI gets climate science right – until users push back",
+   "summary": "The best AI models answer most climate science questions correctly, but they often abandon established facts as soon as a user disagrees, according to a&nbsp;new report co-authored by the UN.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168817",
+   "source": "UN News",
+   "published": "2026-11-16T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "bac46a537b29",
+   "title": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
+   "summary": "Host city offers showcase of China’s rise into a confident and innovative power central to global economy",
+   "link": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
+   "source": "The Guardian",
+   "published": "2026-11-17T11:18:26.000Z",
+   "place": {
+    "name": "Shenzhen, China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 22.55,
+    "lon": 114.07,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in China?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.6,
+   "alsoIn": []
+  },
+  {
+   "id": "552e72f45612",
+   "title": "‘Line their own coffers’: independent MPs lambast Labor’s last-minute changes to election funding laws",
+   "summary": "Crossbenchers say the proposals could allow an ‘uncapped amount of money’ to flow to major parties through investment funds",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/17/line-their-own-coffers-independent-mps-lambast-labors-last-minute-changes-to-election-funding-laws",
+   "source": "The Guardian",
+   "published": "2026-11-17T08:50:38.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "labor",
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.6,
+   "alsoIn": []
+  },
+  {
+   "id": "f62dbc036a9b",
+   "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
+   "summary": "The new show brings English, maths and science lessons to children via TV, radio and social media.",
+   "link": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-17T00:08:19.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "school",
+      "poverty",
+      "children"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [
+    "Poverty"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "ee116a46c14d",
+   "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+   "summary": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
+   "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-17T06:23:51.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.725,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in China?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.2,
+   "alsoIn": []
+  },
+  {
+   "id": "ee42972f7266",
+   "title": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
+   "summary": "About a third of cases involved chemicals banned for use on EU farms, according to investigation by Unearthed and Public Eye",
+   "link": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
+   "source": "The Guardian",
+   "published": "2026-11-17T06:00:05.000Z",
+   "place": {
+    "name": "Brazil",
+    "country": "Brazil",
+    "iso": "BR",
+    "lat": -10.69,
+    "lon": -53.24,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "invest",
+      "farm"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 4.7,
+   "alsoIn": []
+  },
+  {
+   "id": "47b4728cc9a6",
+   "title": "UK sanctions firms over Israeli West Bank settlements",
+   "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+   "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-17T17:41:49.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "Israel",
+     "United Kingdom"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "sanction",
+      "territor"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Sanctions"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Palestine?"
+   ],
+   "conflict": false,
+   "score": 3.9,
+   "alsoIn": []
+  },
+  {
+   "id": "4db3658f82cd",
+   "title": "Trump announces critical minerals agreements at Quad meeting in Manila",
+   "summary": "US President Trump says the deals will prevent 'coercion by any single foreign supplier'.",
+   "link": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila",
+   "source": "Al Jazeera",
+   "published": "2026-11-17T15:59:41.000Z",
+   "place": {
+    "name": "Manila, Philippines",
+    "country": "Philippines",
+    "iso": "PH",
+    "lat": 14.6,
+    "lon": 120.98,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "mineral"
+     ],
+     "P": [
+      "president",
+      "agreement"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Natural resources"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.9,
+   "alsoIn": []
+  },
+  {
+   "id": "f71cb5b23276",
+   "title": "Ghost Towns of Afghanistan: The Environmental Toll of Decades of War",
+   "summary": "A father confronts the aftermath of environmental damage from years of war in Afghanistan.",
+   "link": "https://www.aljazeera.com/video/witness/2026/11/17/ghost-towns-of-afghanistan-the-environmental-toll-of-decades-of-war",
+   "source": "Al Jazeera",
+   "published": "2026-11-17T14:30:00.000Z",
+   "place": {
+    "name": "Afghanistan",
+    "country": "Afghanistan",
+    "iso": "AF",
+    "lat": 33.82,
+    "lon": 65.93,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "environment"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Afghanistan?"
+   ],
+   "conflict": true,
+   "score": 3.6,
+   "alsoIn": []
+  },
+  {
+   "id": "0b72aa84efbb",
+   "title": "How new US chip restrictions on South East Asia will hit China",
+   "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+   "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-17T14:25:45.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "export"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  }
+ ]
+}
