@@ -1,0 +1,1186 @@
+{
+ "date": "2026-11-18",
+ "generated": "2026-11-18T17:26:28.867Z",
+ "count": 26,
+ "stories": [
+  {
+   "id": "5eaa027906f1",
+   "title": "COP31: The push to protect warming oceans reaches the negotiating table",
+   "summary": "From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ways to protect nature at COP31 on Tuesday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168824",
+   "source": "UN News",
+   "published": "2026-11-17T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "wildfire",
+      "ocean"
+     ],
+     "S": [
+      "indigenous",
+      "communit"
+     ],
+     "P": [
+      "minister",
+      "negotiat",
+      "cop3"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "ecosystems",
+    "hazards"
+   ],
+   "terms": [
+    "Climate change",
+    "Fossil fuels",
+    "Indigenous peoples",
+    "Wildfire"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": false,
+   "score": 14.5,
+   "alsoIn": []
+  },
+  {
+   "id": "3d1e5939182a",
+   "title": "Millions of red crabs start annual migration on Christmas Island",
+   "summary": "The crabs were seen migrating from forests to the sea to breed on the coast of the Australian territory.",
+   "link": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-17T23:05:39.000Z",
+   "place": {
+    "name": "Christmas Island",
+    "country": "Christmas Island",
+    "iso": "CX",
+    "lat": -10.42,
+    "lon": 105.68,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "forest",
+      "coast"
+     ],
+     "S": [
+      "migra"
+     ]
+    }
+   },
+   "topics": [
+    "migration",
+    "ecosystems",
+    "geopolitics"
+   ],
+   "terms": [
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": false,
+   "score": 8.8,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "33ec29b36981",
+   "title": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
+   "summary": "Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas supplies",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
+   "source": "The Guardian",
+   "published": "2026-11-18T14:00:02.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "industr",
+      "gas"
+     ],
+     "En": [
+      "fossil fuel"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 8.4,
+   "alsoIn": []
+  },
+  {
+   "id": "b75f3918528c",
+   "title": "Conservationists searching for large river eels",
+   "summary": "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea.",
+   "link": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T06:19:28.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "conservation",
+      "river"
+     ],
+     "S": [
+      "migra"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "migration"
+   ],
+   "terms": [
+    "Conservation",
+    "Migration"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": false,
+   "score": 8.3,
+   "alsoIn": []
+  },
+  {
+   "id": "3e845fa3643e",
+   "title": "The Guardian view on climate and debt: a vicious cycle the world must break at Cop31 | Editorial",
+   "summary": "Poor countries are paying creditors instead of preparing for climate disasters. The international financial system must stop deepening their vulnerability",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/17/the-guardian-view-on-climate-debt-a-vicious-cycle-the-world-must-break-at-cop31",
+   "source": "The Guardian",
+   "published": "2026-11-17T19:08:05.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "E": [
+      "debt"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "development"
+   ],
+   "terms": [
+    "Climate change",
+    "Debt",
+    "Hazard",
+    "Poverty"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "What does this story suggest about quality of life in the places involved?"
+   ],
+   "conflict": false,
+   "score": 7.8,
+   "alsoIn": []
+  },
+  {
+   "id": "4054a219c619",
+   "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
+   "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog says",
+   "link": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
+   "source": "The Guardian",
+   "published": "2026-11-18T16:56:18.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "species",
+      "environment"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "migration"
+   ],
+   "terms": [
+    "Population growth"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": false,
+   "score": 7.6,
+   "alsoIn": []
+  },
+  {
+   "id": "4f877296902e",
+   "title": "Delhi devotees brave river pollution as Chhath festival celebrated across India - in pictures",
+   "summary": "In Delhi, Hindu devotees congregated at the Yamuna River for the Chhath festival, wading through patches of toxic foam created by a mixture of pollutants including industrial chemicals and untreated sewage.",
+   "link": "https://www.theguardian.com/world/gallery/2026/nov/18/chhath-festival-india-nepal-photos",
+   "source": "The Guardian",
+   "published": "2026-11-18T02:09:02.000Z",
+   "place": {
+    "name": "Delhi, India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 28.65,
+    "lon": 77.23,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "pollution",
+      "toxic",
+      "river"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Pollution"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "941d9d7c875e",
+   "title": "How important are Nvidia and Jensen Huang to the US economy?",
+   "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T06:04:21.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "import"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "31f8cef58eed",
+   "title": "‘Huge experiment in biogeography’: US offshore windfarms are creating artificial reefs",
+   "summary": "Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the fishing industry",
+   "link": "https://www.theguardian.com/us-news/2026/nov/18/offshore-wind-farms-artificial-reef-experiment-fishing-industry",
+   "source": "The Guardian",
+   "published": "2026-11-18T14:00:04.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "reef"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "resources",
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "966121d632c4",
+   "title": "‘Phantom forests’ in Australia’s arid outback used to create carbon credits meant to offset emissions, report claims",
+   "summary": "Carbon credit companies reject research that found only small increase in forest and canopy cover in regeneration areas despite wet conditions",
+   "link": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims",
+   "source": "The Guardian",
+   "published": "2026-11-18T09:30:36.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "carbon",
+      "emission",
+      "forest"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "ecosystems"
+   ],
+   "terms": [
+    "Carbon emissions"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "23d25a05deab",
+   "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+   "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access",
+   "link": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+   "source": "The Guardian",
+   "published": "2026-11-17T21:49:29.000Z",
+   "place": {
+    "name": "Caribbean",
+    "country": "Jamaica",
+    "iso": "JM",
+    "lat": 16,
+    "lon": -73,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "4090abf823f3",
+   "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+   "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
+   "link": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T00:44:48.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "ev"
+     ]
+    }
+   },
+   "topics": [
+    "climate"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Who are the winners and losers from this in United Kingdom?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "0d1e0398c250",
+   "title": "Pax Silica is the new face of US imperialism in the Philippines",
+   "summary": "Behind promises of jobs and investment lie threats to ancestral lands, water security and national sovereignty.",
+   "link": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T15:57:20.000Z",
+   "place": {
+    "name": "Philippines",
+    "country": "Philippines",
+    "iso": "PH",
+    "lat": 15.95,
+    "lon": 121.42,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "jobs",
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Sovereignty"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 6.1,
+   "alsoIn": []
+  },
+  {
+   "id": "3aaf5d92c073",
+   "title": "Labour faces double blow over UK fossil fuel projects",
+   "summary": "Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site",
+   "link": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
+   "source": "The Guardian",
+   "published": "2026-11-18T16:19:41.000Z",
+   "place": {
+    "name": "Yorkshire",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 54,
+    "lon": -1.5,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "labour",
+      "oil",
+      "gas"
+     ],
+     "En": [
+      "fossil fuel"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "climate"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Is this story about the causes of climate change, its effects, or responses to it?"
+   ],
+   "conflict": false,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "4ca835d1beea",
+   "title": "Children at risk as ‘weaponisation of aid’ surges in conflict zones, analysis finds",
+   "summary": "New assessment shows large increase in cases where access to humanitarian help is deliberately restricted, with most incidents in Palestine",
+   "link": "https://www.theguardian.com/global-development/2026/nov/18/aid-denial-humanitarian-children-save-the-children-un",
+   "source": "The Guardian",
+   "published": "2026-11-18T05:00:32.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "humanitarian",
+      "children"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [
+    "Aid",
+    "Humanitarian crisis"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Palestine?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "c6458a4c678e",
+   "title": "What’s holding South Africa’s economy back?",
+   "summary": "South Africa seeks billions in new investment to revive weak growth and tackle unemployment crisis.",
+   "link": "https://www.aljazeera.com/video/counting-the-cost/2026/11/18/whats-holding-south-africas-economy-back",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T14:12:57.000Z",
+   "place": {
+    "name": "South Africa",
+    "country": "South Africa",
+    "iso": "ZA",
+    "lat": -28.97,
+    "lon": 25.19,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "unemploy",
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Unemployment"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "542e4d1fcea8",
+   "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+   "summary": "Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory",
+   "link": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+   "source": "The Guardian",
+   "published": "2026-11-17T21:40:56.000Z",
+   "place": {
+    "name": "Brazil",
+    "country": "Brazil",
+    "iso": "BR",
+    "lat": -10.69,
+    "lon": -53.24,
+    "precision": "country",
+    "confidence": 0.725,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "tribe",
+      "indigenous",
+      "villag"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Indigenous peoples",
+    "Rural"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "ba7dd40d7be0",
+   "title": "Fossil-fuel industry accused of violating Colorado law over not disclosing drilling chemicals",
+   "summary": "Non-profit FracTracker Alliance alleges regulators have exempted compounds used in drilling despite 2022 law",
+   "link": "https://www.theguardian.com/environment/2026/nov/17/fossil-fuel-industry-colorado",
+   "source": "The Guardian",
+   "published": "2026-11-17T19:12:15.000Z",
+   "place": {
+    "name": "Colorado",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39,
+    "lon": -105.5,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "law",
+      "alliance"
+     ],
+     "E": [
+      "industr"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.1,
+   "alsoIn": []
+  },
+  {
+   "id": "b64571709d67",
+   "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+   "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle below ground and out of sight of Russian drones.",
+   "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T17:00:40.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": [
+     "Russia"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "gas"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 4.6,
+   "alsoIn": []
+  },
+  {
+   "id": "3bd694259d88",
+   "title": "Dozens more children killed in Yemen amid escalating hostilities",
+   "summary": "The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches the three-month mark.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168830",
+   "source": "UN News",
+   "published": "2026-11-18T12:00:00.000Z",
+   "place": {
+    "name": "Yemen",
+    "country": "Yemen",
+    "iso": "YE",
+    "lat": 15.94,
+    "lon": 47.52,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "children"
+     ],
+     "P": [
+      "government",
+      "un",
+      "conflict"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Yemen?"
+   ],
+   "conflict": true,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "2d6e0dc8ee36",
+   "title": "Why Carney is looking to China as Canada's car industry comes under US pressure",
+   "summary": "Prime Minister Carney downplayed US concerns on Wednesday, saying its ties are not a \"top issue\" for President Trump as Canada eyes trade with Chinese carmakers.",
+   "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T14:35:18.000Z",
+   "place": {
+    "name": "Canada",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 56,
+    "lon": -100,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "trade",
+      "industr"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.4,
+   "alsoIn": []
+  },
+  {
+   "id": "d4722c2c18bf",
+   "title": "Five EU nations to deport migrants to Rwanda",
+   "summary": "Five European countries are looking to Rwanda to host rejected asylum seekers.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T16:05:37.000Z",
+   "place": {
+    "name": "Rwanda",
+    "country": "Rwanda",
+    "iso": "RW",
+    "lat": -1.99,
+    "lon": 29.92,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "migra",
+      "asylum"
+     ]
+    }
+   },
+   "topics": [
+    "migration"
+   ],
+   "terms": [
+    "Asylum seeker",
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What are the impacts on the places people leave and the places they move to?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "600f03a89796",
+   "title": "Burnham should fight next election on promise to rejoin EU, says Peter Kyle",
+   "summary": "Exclusive: Former business secretary calls for Labour manifesto commitment with referendum on final decision",
+   "link": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit",
+   "source": "The Guardian",
+   "published": "2026-11-18T15:18:34.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "election",
+      "referendum",
+      "eu"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in the places involved?"
+   ],
+   "conflict": false,
+   "score": 4.1,
+   "alsoIn": []
+  },
+  {
+   "id": "b544152bffcf",
+   "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+   "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones across eight provinces, the head of the World Health Organization (WHO)&nbsp;said on Tuesday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168827",
+   "source": "UN News",
+   "published": "2026-11-17T12:00:00.000Z",
+   "place": {
+    "name": "Democratic Republic of the Congo",
+    "country": "Democratic Republic of the Congo",
+    "iso": "CD",
+    "lat": -2.87,
+    "lon": 23.64,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Rwanda"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "outbreak",
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Democratic Republic of the Congo?",
+    "Which development indicators could you use to measure this problem?"
+   ],
+   "conflict": false,
+   "score": 4.1,
+   "alsoIn": []
+  },
+  {
+   "id": "2e0b6944471d",
+   "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+   "summary": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
+   "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T10:53:21.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": [
+     "Russia",
+     "China",
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "talks",
+      "war",
+      "coup"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Ukraine?"
+   ],
+   "conflict": true,
+   "score": 3.8,
+   "alsoIn": []
+  },
+  {
+   "id": "a4197076c9d2",
+   "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
+   "summary": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing “atrocious abuses” committed by gangs and intensified security operations.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168823",
+   "source": "UN News",
+   "published": "2026-11-17T12:00:00.000Z",
+   "place": {
+    "name": "Haiti",
+    "country": "Haiti",
+    "iso": "HT",
+    "lat": 18.93,
+    "lon": -72.68,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "un",
+      "human rights"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Human rights"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Haiti?"
+   ],
+   "conflict": false,
+   "score": 3.8,
+   "alsoIn": []
+  }
+ ]
+}
