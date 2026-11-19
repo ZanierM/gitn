@@ -1,0 +1,1083 @@
+{
+ "date": "2026-11-19",
+ "generated": "2026-11-19T17:31:51.113Z",
+ "count": 24,
+ "stories": [
+  {
+   "id": "72d232176f17",
+   "title": "COP31 deadlock persists as countries launch new ‘climate reality check’",
+   "summary": "With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit’s toughest questions: who pays, how fast the world moves away from fossil fuels and whether a greener future can…",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168833",
+   "source": "UN News",
+   "published": "2026-11-18T12:00:00.000Z",
+   "place": {
+    "name": "Antalya, Türkiye",
+    "country": "Türkiye",
+    "iso": "TR",
+    "lat": 36.91,
+    "lon": 30.7,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "fossil fuel"
+     ],
+     "P": [
+      "minister",
+      "summit",
+      "cop3"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change",
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 8.4,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "14cc4430eac5",
+   "title": "‘It’s a biohazard’: Native communities in US south-west try to recover after flooding intensified by El Niño",
+   "summary": "Residents and local groups band together after severe flooding submerged a New Mexico town in toxic water",
+   "link": "https://www.theguardian.com/us-news/2026/nov/19/el-nino-flooding-native-communities",
+   "source": "The Guardian",
+   "published": "2026-11-19T12:30:47.000Z",
+   "place": {
+    "name": "New Mexico",
+    "country": "United States",
+    "iso": "US",
+    "lat": 34.4,
+    "lon": -106.1,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "toxic",
+      "el niño"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "El Niño",
+    "Flooding",
+    "Pollution"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 8.3,
+   "alsoIn": []
+  },
+  {
+   "id": "3849751c73b6",
+   "title": "Torrential rain causes widespread flooding in South Florida",
+   "summary": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
+   "link": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T20:29:18.000Z",
+   "place": {
+    "name": "Florida",
+    "country": "United States",
+    "iso": "US",
+    "lat": 28,
+    "lon": -82,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ],
+     "S": [
+      "hospital",
+      "schools"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "Flooding",
+    "Infrastructure"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 7.8,
+   "alsoIn": []
+  },
+  {
+   "id": "f1ef02937b18",
+   "title": "‘Crocodiles are possible, but hunger is certain’: Malawi’s foragers forced into infested waters",
+   "summary": "Once ‘famine food’, empty granaries have forced people along the Shire River to harvest water-lily roots in waters full of the reptiles",
+   "link": "https://www.theguardian.com/global-development/2026/nov/16/malawi-hunger-food-foraging-nyika-shire-river-crocodiles",
+   "source": "The Guardian",
+   "published": "2026-11-16T10:00:03.000Z",
+   "place": {
+    "name": "Malawi",
+    "country": "Malawi",
+    "iso": "MW",
+    "lat": -13.21,
+    "lon": 34.28,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "hunger",
+      "famine"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "development"
+   ],
+   "terms": [
+    "Famine",
+    "Food security"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "What does this story suggest about quality of life in Malawi?"
+   ],
+   "conflict": false,
+   "score": 7.3,
+   "alsoIn": []
+  },
+  {
+   "id": "530a55010063",
+   "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
+   "summary": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
+   "link": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-19T13:35:29.000Z",
+   "place": {
+    "name": "Siberia",
+    "country": "Russia",
+    "iso": "RU",
+    "lat": 62,
+    "lon": 100,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "S"
+    ],
+    "why": {
+     "En": [
+      "conservation"
+     ],
+     "S": [
+      "migra"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "migration"
+   ],
+   "terms": [
+    "Conservation",
+    "Migration"
+   ],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "What are the push and pull factors in this story?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "f10fb213fdd8",
+   "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+   "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
+   "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-19T09:21:54.000Z",
+   "place": {
+    "name": "Uganda",
+    "country": "Uganda",
+    "iso": "UG",
+    "lat": 1.27,
+    "lon": 32.37,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "landslide"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "geopolitics"
+   ],
+   "terms": [
+    "Landslide"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Uganda?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6.3,
+   "alsoIn": []
+  },
+  {
+   "id": "80d10a32b3cd",
+   "title": "Putin pitches Arctic route, calls for investment: Will it work?",
+   "summary": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
+   "link": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T15:16:43.000Z",
+   "place": {
+    "name": "Arctic",
+    "country": null,
+    "iso": null,
+    "lat": 78,
+    "lon": 10,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "invest",
+      "shipping"
+     ],
+     "En": [
+      "arctic"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Supply chain"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "a0d058379b8b",
+   "title": "Trump says he and Putin have a 'great relationship' at meeting",
+   "summary": "US President Donald Trump has met Russian President Vladimir Putin on the sidelines of the Asia-Pacific Economic Co-operation (Apec) summit in the southern Chinese city of Shenzhen.",
+   "link": "https://www.bbc.co.uk/news/videos/cm4gn31yn0x9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-19T06:52:54.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "economy",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in the places involved?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.6,
+   "alsoIn": []
+  },
+  {
+   "id": "89cb1d80a524",
+   "title": "What is at stake at the EU-UK summit in Brussels?",
+   "summary": "Leaders will wrestle with easing Brexit red tape, restoring emissions trading and opening up youth mobility",
+   "link": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
+   "source": "The Guardian",
+   "published": "2026-11-19T13:11:23.000Z",
+   "place": {
+    "name": "Brussels, Belgium",
+    "country": "Belgium",
+    "iso": "BE",
+    "lat": 50.85,
+    "lon": 4.35,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "En"
+    ],
+    "why": {
+     "P": [
+      "summit",
+      "eu"
+     ],
+     "En": [
+      "emission"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Carbon emissions"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 5.6,
+   "alsoIn": []
+  },
+  {
+   "id": "4d3fa72bf4aa",
+   "title": "Watch: Eruption at California landfill sends black substance spewing into the air",
+   "summary": "A drilling operation at the Chiquita Canyon Landfill triggered a large release of gas and decomposing waste that neighbours are voicing concerns over.",
+   "link": "https://www.bbc.co.uk/news/videos/cm782w62v8qdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T00:18:51.000Z",
+   "place": {
+    "name": "California",
+    "country": "United States",
+    "iso": "US",
+    "lat": 37,
+    "lon": -120,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "erupt"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "resources"
+   ],
+   "terms": [
+    "Volcano"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "aae72e4c0679",
+   "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+   "summary": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas",
+   "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+   "source": "The Guardian",
+   "published": "2026-11-19T05:00:18.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "carbon",
+      "emission",
+      "fossil fuel"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "32f6128a8c73",
+   "title": "Stormont department failing to protect wild birds, investigation finds",
+   "summary": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Areas.",
+   "link": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T12:13:32.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "environment"
+     ],
+     "E": [
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.9,
+   "alsoIn": []
+  },
+  {
+   "id": "b25352a4adb3",
+   "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+   "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+   "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-19T15:52:26.000Z",
+   "place": {
+    "name": "Senegal",
+    "country": "Senegal",
+    "iso": "SN",
+    "lat": 14.36,
+    "lon": -14.47,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "En"
+    ],
+    "why": {
+     "S": [
+      "migra"
+     ],
+     "En": [
+      "coast"
+     ]
+    }
+   },
+   "topics": [
+    "migration"
+   ],
+   "terms": [
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What are the impacts on the places people leave and the places they move to?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "3987956c2ac1",
+   "title": "Patients running out of options as antibiotics stop working against common infections",
+   "summary": "Common bacteria are becoming highly resistant to front-line and even “last-resort” antibiotics, the UN World Health Organization (WHO) said on Wednesday, warning that the situation today is worse than it was in 2019.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168832",
+   "source": "UN News",
+   "published": "2026-11-18T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "health"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.7,
+   "alsoIn": []
+  },
+  {
+   "id": "4003574a4fa9",
+   "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+   "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T13:17:06.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "inflation"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Inflation"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "41375c741c8d",
+   "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+   "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+   "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T13:10:01.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "inflation",
+      "prices"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Inflation"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "4dffa5bc2cfc",
+   "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+   "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’",
+   "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+   "source": "The Guardian",
+   "published": "2026-11-19T17:13:23.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "Russia",
+     "China",
+     "Iran"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "diplomat",
+      "un"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 4.4,
+   "alsoIn": []
+  },
+  {
+   "id": "d123b5ef8039",
+   "title": "Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court",
+   "summary": "It follows years of debate over the alleged impacts on rivers in an area dubbed \"poultry capital\".",
+   "link": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-17T21:00:51.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "pollut",
+      "river"
+     ],
+     "E": [
+      "farm"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Pollution"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "f134fe4f942f",
+   "title": "Race to replant five South African baobabs after export blocked",
+   "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits",
+   "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+   "source": "The Guardian",
+   "published": "2026-11-19T11:03:24.000Z",
+   "place": {
+    "name": "South Africa",
+    "country": "South Africa",
+    "iso": "ZA",
+    "lat": -28.97,
+    "lon": 25.19,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": [
+     "Georgia"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "export"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "74f73557d62f",
+   "title": "Is Europe now in the shadow of a Trump, Putin and Xi alliance? – podcast",
+   "summary": "Andy Burnham is meeting western leaders in Berlin and Brussels this week, to discuss Ukraine and closer ties to the EU. Meanwhile, Donald Trump, Vladimir Putin and Xi Jinping have met at the Apec summit in China. Is this the start of a global shift of power away from Europe, or was it just a hyped-up photo opportunity?",
+   "link": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
+   "source": "The Guardian",
+   "published": "2026-11-19T17:23:36.000Z",
+   "place": {
+    "name": "Brussels, Belgium",
+    "country": "Belgium",
+    "iso": "BE",
+    "lat": 50.85,
+    "lon": 4.35,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": [
+     "Germany",
+     "Ukraine",
+     "China"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "summit",
+      "eu",
+      "alliance"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Belgium?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "280b464cd48b",
+   "title": "What's gone wrong at Britain's worst bathing site?",
+   "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
+   "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-18T06:12:44.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "sewage"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Pollution"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "e4b0532df231",
+   "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
+   "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+   "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-17T23:34:56.000Z",
+   "place": {
+    "name": "Pakistan",
+    "country": "Pakistan",
+    "iso": "PK",
+    "lat": 29.88,
+    "lon": 69.17,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "solar"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Renewable energy"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "2855efbaea82",
+   "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+   "summary": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said on Tuesday.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+   "source": "UN News",
+   "published": "2026-11-17T12:00:00.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "un",
+      "human rights"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Human rights"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Ukraine?"
+   ],
+   "conflict": true,
+   "score": 3.4,
+   "alsoIn": []
+  },
+  {
+   "id": "f28b5387f9a4",
+   "title": "UN warns against misuse of security laws as UK weighs Palestine Action ban",
+   "summary": "Human rights committee publishes guidance on freedom of association, which criticises vague laws targeting ‘extremism’",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban",
+   "source": "The Guardian",
+   "published": "2026-11-19T17:11:11.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "ban",
+      "un",
+      "human rights"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [
+    "Human rights"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Palestine?"
+   ],
+   "conflict": false,
+   "score": 3.3,
+   "alsoIn": []
+  }
+ ]
+}
