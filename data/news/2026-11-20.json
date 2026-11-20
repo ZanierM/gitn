@@ -1,0 +1,741 @@
+{
+ "date": "2026-11-20",
+ "generated": "2026-11-20T17:06:43.611Z",
+ "count": 16,
+ "stories": [
+  {
+   "id": "41ddc4bfb4e6",
+   "title": "How the war in Iran turned the Gulf into a climate catastrophe – video explainer",
+   "summary": "The war between the US, Israel and Iran has turned the strait of Hormuz, one of the world’s busiest oil shipping routes, into a battlefield, but also the centre of a deepening environmental disaster.",
+   "link": "https://www.theguardian.com/world/video/2026/nov/20/how-the-war-in-iran-turned-the-gulf-into-a-climate-catastrophe-video-explainer",
+   "source": "The Guardian",
+   "published": "2026-11-20T12:00:38.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "marine",
+      "coast"
+     ],
+     "E": [
+      "oil",
+      "shipping",
+      "mines"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics",
+    "climate"
+   ],
+   "terms": [
+    "Climate change",
+    "Ecosystem",
+    "Fossil fuels",
+    "Hazard"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 15.3,
+   "alsoIn": []
+  },
+  {
+   "id": "5024389180d8",
+   "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+   "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+   "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-20T16:41:52.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "trade",
+      "prices"
+     ],
+     "P": [
+      "agreement",
+      "eu"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "resources"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 9.3,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "e2a13b8cf530",
+   "title": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+   "summary": "A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168845",
+   "source": "UN News",
+   "published": "2026-11-20T12:00:00.000Z",
+   "place": {
+    "name": "Antalya, Türkiye",
+    "country": "Türkiye",
+    "iso": "TR",
+    "lat": 36.91,
+    "lon": 30.7,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate",
+      "fossil fuel"
+     ],
+     "P": [
+      "government",
+      "talks",
+      "agreement"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change",
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 8.7,
+   "alsoIn": []
+  },
+  {
+   "id": "58b737aa711d",
+   "title": "Thousands join cost of living protests across Europe",
+   "summary": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.",
+   "link": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-20T14:43:39.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "education",
+      "housing",
+      "protest"
+     ],
+     "E": [
+      "cost of living"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "urban"
+   ],
+   "terms": [
+    "Cost of living"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "What challenges does urban growth create in the places involved?"
+   ],
+   "conflict": false,
+   "score": 7.8,
+   "alsoIn": []
+  },
+  {
+   "id": "21eb78c6c6b4",
+   "title": "UK says new deal will ‘rebuild bridges’ with EU: What’s in it?",
+   "summary": "Agreements aim to simplify trade checks, link emissions systems and launch a youth mobility programme.",
+   "link": "https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far",
+   "source": "Al Jazeera",
+   "published": "2026-11-20T13:59:17.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E",
+     "En"
+    ],
+    "why": {
+     "P": [
+      "agreement",
+      "eu"
+     ],
+     "E": [
+      "trade"
+     ],
+     "En": [
+      "emission"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "economy"
+   ],
+   "terms": [
+    "Carbon emissions",
+    "Infrastructure",
+    "Trade"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "24f0933c7ee3",
+   "title": "More climate money for Africa? Europe says use what's already pledged",
+   "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+   "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-20T05:03:43.000Z",
+   "place": {
+    "name": "Türkiye",
+    "country": "Türkiye",
+    "iso": "TR",
+    "lat": 39.06,
+    "lon": 35.41,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "P": [
+      "summit",
+      "un"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6.7,
+   "alsoIn": []
+  },
+  {
+   "id": "fd2811614640",
+   "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+   "summary": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out",
+   "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "source": "The Guardian",
+   "published": "2026-11-20T16:26:07.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "slum"
+     ],
+     "E": [
+      "invest",
+      "shares",
+      "market"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "economy"
+   ],
+   "terms": [
+    "Urbanisation"
+   ],
+   "questions": [
+    "What challenges does urban growth create in the places involved?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6,
+   "alsoIn": []
+  },
+  {
+   "id": "aba2c250e8e8",
+   "title": "Blood Gold: The Munduruku’s fight for survival in the Brazilian Amazon",
+   "summary": "Fault Lines investigates how illegal gold mining poisons and threatens Indigenous communities in the Brazilian Amazon.",
+   "link": "https://www.aljazeera.com/video/fault-lines/2026/11/20/blood-gold-the-mundurukus-fight-for-survival-in-the-brazilian-amazon",
+   "source": "Al Jazeera",
+   "published": "2026-11-20T15:00:00.000Z",
+   "place": {
+    "name": "Brazilian Amazon",
+    "country": "Brazil",
+    "iso": "BR",
+    "lat": -4,
+    "lon": -62,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "invest",
+      "mining"
+     ],
+     "S": [
+      "indigenous",
+      "communit"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Indigenous peoples",
+    "Natural resources",
+    "Tectonic plates"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "de0c6d311e75",
+   "title": "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
+   "summary": "The World Food Programme (WFP) will require $12.1 billion to assist 91 million people next year but warned that millions more will go hungry as funding shortfalls continue and another global food crisis looms.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168846",
+   "source": "UN News",
+   "published": "2026-11-20T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "hunger"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "development"
+   ],
+   "terms": [
+    "Food security"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "What does this story suggest about quality of life in the places involved?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "64b2c8757ee7",
+   "title": "‘The Pacific is not for sale’: outcry after US holds first deep sea mining lease sale near American Samoa",
+   "summary": "Multi-million dollar sale comes despite a federal judge in Hawaii voiding the environmental clearance it had been given to proceed",
+   "link": "https://www.theguardian.com/environment/2026/nov/20/us-deep-sea-mining-lease-auction-american-samoa",
+   "source": "The Guardian",
+   "published": "2026-11-20T03:14:07.000Z",
+   "place": {
+    "name": "American Samoa",
+    "country": "American Samoa",
+    "iso": "AS",
+    "lat": -14.3,
+    "lon": -170.72,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "environment"
+     ],
+     "E": [
+      "mining"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Natural resources"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "5b1760d254e2",
+   "title": "Hot potato: Can Japan resist Trump pressure to import food staple?",
+   "summary": "Japan imports 60 percent of its food, but it fiercely draws the line at potatoes.",
+   "link": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple",
+   "source": "Al Jazeera",
+   "published": "2026-11-20T14:38:25.000Z",
+   "place": {
+    "name": "Japan",
+    "country": "Japan",
+    "iso": "JP",
+    "lat": 36.63,
+    "lon": 137.88,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "import"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "8776071de06f",
+   "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
+   "summary": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
+   "link": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu",
+   "source": "Al Jazeera",
+   "published": "2026-11-20T16:40:35.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "minister",
+      "referendum",
+      "summit"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in United Kingdom?"
+   ],
+   "conflict": false,
+   "score": 4.2,
+   "alsoIn": []
+  },
+  {
+   "id": "13b8208971a6",
+   "title": "What the Brussels summit could mean for the UK-EU Brexit deal",
+   "summary": "BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mobility.",
+   "link": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-20T08:07:06.000Z",
+   "place": {
+    "name": "Brussels, Belgium",
+    "country": "Belgium",
+    "iso": "BE",
+    "lat": 50.85,
+    "lon": 4.35,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "summit",
+      "agreement",
+      "eu"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.1,
+   "alsoIn": []
+  },
+  {
+   "id": "fe4ba3ba4c85",
+   "title": "Peacekeeping: With 500 paternity and child support claims unresolved, UN scales up accountability",
+   "summary": "The UN is adding new accountability measures to better support children fathered by peacekeepers, the&nbsp;Under-Secretary-General for Management Strategy, Policy and Compliance, Catherine Pollard,&nbsp;announced Thursday.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168842",
+   "source": "UN News",
+   "published": "2026-11-19T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "children"
+     ],
+     "P": [
+      "policy",
+      "un"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in the places involved?"
+   ],
+   "conflict": false,
+   "score": 3.9,
+   "alsoIn": []
+  },
+  {
+   "id": "a596c1cec585",
+   "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
+   "summary": "Bipartisan legislation now goes to the House amid concerns by some Democrats and environmental groups",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
+   "source": "The Guardian",
+   "published": "2026-11-20T15:09:09.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "environment"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.9,
+   "alsoIn": []
+  },
+  {
+   "id": "34ed9397c7f7",
+   "title": "California’s coastal communities on alert as biggest waves in years hit state",
+   "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+   "source": "The Guardian",
+   "published": "2026-11-20T09:03:20.000Z",
+   "place": {
+    "name": "California",
+    "country": "United States",
+    "iso": "US",
+    "lat": 37,
+    "lon": -120,
+    "precision": "place",
+    "confidence": 0.8250000000000001,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "coast"
+     ]
+    }
+   },
+   "topics": [],
+   "terms": [
+    "Hazard"
+   ],
+   "questions": [
+    "Which SEEP themes does this story cover, and which is most important?",
+    "How might this story affect people in United States and elsewhere?"
+   ],
+   "conflict": false,
+   "score": 3.3,
+   "alsoIn": []
+  }
+ ]
+}
