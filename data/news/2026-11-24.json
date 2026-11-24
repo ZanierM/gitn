@@ -1,0 +1,927 @@
+{
+ "date": "2026-11-24",
+ "generated": "2026-11-24T19:38:24.553Z",
+ "count": 21,
+ "stories": [
+  {
+   "id": "1a72f7bdfbc7",
+   "title": "Gaza war has undone 77 years of human development, UN warns",
+   "summary": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168862",
+   "source": "UN News",
+   "published": "2026-11-23T12:00:00.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "P"
+    ],
+    "why": {
+     "S": [
+      "displac",
+      "living conditions"
+     ],
+     "P": [
+      "un",
+      "war",
+      "conflict"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics",
+    "development",
+    "migration"
+   ],
+   "terms": [
+    "Development",
+    "Displacement",
+    "Quality of life"
+   ],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "What does this story suggest about quality of life in Palestine?"
+   ],
+   "conflict": true,
+   "score": 9.1,
+   "alsoIn": []
+  },
+  {
+   "id": "cf4e15eabbe8",
+   "title": "Five takeaways from the failed climate talks COP31",
+   "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+   "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-23T06:33:50.000Z",
+   "place": {
+    "name": "Antalya, Türkiye",
+    "country": "Türkiye",
+    "iso": "TR",
+    "lat": 36.91,
+    "lon": 30.7,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "P"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "P": [
+      "talks",
+      "summit",
+      "cop3"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "geopolitics"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 7.4,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "af87cf6caf19",
+   "title": "A year of deadly floods and fires – and yet Cop31 still collapsed. When will our leaders grasp the scale of this crisis? | Bill McGuire",
+   "summary": "Fossil fuel producers are choking off progress while we reap the whirlwind of our inaction. This is what sleepwalking to disaster looks like",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/24/deadly-floods-fires-cop31-collapsed-climate-crisis",
+   "source": "The Guardian",
+   "published": "2026-11-24T06:00:08.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "fossil fuel"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "hazards"
+   ],
+   "terms": [
+    "Flooding",
+    "Fossil fuels",
+    "Hazard"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "What might the primary and secondary effects of this event be in the places involved?"
+   ],
+   "conflict": false,
+   "score": 7.3,
+   "alsoIn": []
+  },
+  {
+   "id": "4c704aa4a688",
+   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+   "summary": "Exclusive: Ada Colau hopes public anger over housing will transfer into support for her Broad Front coalition in Sunday’s vote",
+   "link": "https://www.theguardian.com/world/2026/nov/24/spain-election-ada-colau-broad-front-far-right",
+   "source": "The Guardian",
+   "published": "2026-11-24T12:22:04.000Z",
+   "place": {
+    "name": "Spain",
+    "country": "Spain",
+    "iso": "ES",
+    "lat": 40.37,
+    "lon": -3.57,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "En"
+    ],
+    "why": {
+     "S": [
+      "housing"
+     ],
+     "En": [
+      "coal"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "urban",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "What challenges does urban growth create in Spain?"
+   ],
+   "conflict": false,
+   "score": 7.1,
+   "alsoIn": []
+  },
+  {
+   "id": "f00997e2ed72",
+   "title": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
+   "summary": "Staff from the World Health Organization (WHO) and Ebola responders remain trapped in a hospital in Ituri province, Democratic Republic of the Congo (DRC), as heavy fighting continues in the vicinity, the UN agency said in an update on Tuesday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168865",
+   "source": "UN News",
+   "published": "2026-11-24T12:00:00.000Z",
+   "place": {
+    "name": "Democratic Republic of the Congo",
+    "country": "Democratic Republic of the Congo",
+    "iso": "CD",
+    "lat": -2.87,
+    "lon": 23.64,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "health",
+      "hospital",
+      "women"
+     ],
+     "E": [
+      "workers"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What does this story suggest about quality of life in Democratic Republic of the Congo?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 7,
+   "alsoIn": []
+  },
+  {
+   "id": "b8fed400bc9e",
+   "title": "California king tides threaten Thanksgiving travel as coastal flooding looms",
+   "summary": "Seasonal high tides and rising ocean levels can disrupt flights and flood roads, with the San Francisco Bay Area facing some of the greatest risks",
+   "link": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
+   "source": "The Guardian",
+   "published": "2026-11-24T17:17:59.000Z",
+   "place": {
+    "name": "California",
+    "country": "United States",
+    "iso": "US",
+    "lat": 37,
+    "lon": -120,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood",
+      "ocean",
+      "coast"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "ecosystems"
+   ],
+   "terms": [
+    "Flooding",
+    "Infrastructure"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": false,
+   "score": 6.8,
+   "alsoIn": []
+  },
+  {
+   "id": "6f6874e5642c",
+   "title": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
+   "summary": "WHO chief says life expectancy has fallen from 78.8 years in 2020 to 74.4 in 2025, figures that predate US fuel blockade",
+   "link": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
+   "source": "The Guardian",
+   "published": "2026-11-24T19:07:26.000Z",
+   "place": {
+    "name": "Cuba",
+    "country": "Cuba",
+    "iso": "CU",
+    "lat": 21.63,
+    "lon": -78.91,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "life expectancy"
+     ],
+     "E": [
+      "econom"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "economy"
+   ],
+   "terms": [
+    "Life expectancy"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Cuba?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "6f9db94297a9",
+   "title": "Outcry grows over Labour plan to exempt most brownfield sites from nature protection rules",
+   "summary": "Chancellor’s decision to exempt plots up to 1.5 hectares allows developers to dodge rules aiming to reverse wildlife declines",
+   "link": "https://www.theguardian.com/politics/2026/nov/24/outcry-uk-plans-to-exempt-brownfield-sites-nature-protection-rules",
+   "source": "The Guardian",
+   "published": "2026-11-24T14:00:47.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "wildlife",
+      "nature"
+     ],
+     "E": [
+      "labour"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How could this environment be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "094d704d9aa5",
+   "title": "EU to impose cap on Chinese hybrid EV imports next month",
+   "summary": "Temporary quotas on vehicles entering the bloc will also apply to cars from the UK, Japan and Turkey",
+   "link": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+   "source": "The Guardian",
+   "published": "2026-11-24T10:59:40.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": [
+     "Türkiye",
+     "Japan"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "import"
+     ],
+     "En": [
+      "ev"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "75a2a86afd27",
+   "title": "US attorney general dodges questions about Nvidia investigation",
+   "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T18:55:59.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "price",
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.9,
+   "alsoIn": []
+  },
+  {
+   "id": "071a95eb87ef",
+   "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
+   "summary": "UN Secretary-General António Guterres has commended Colombia for progress achieved in the decade since a landmark accord known as the Final Peace Agreement ended more than 50 years of insurgency but stressed the need to fully implement its provisions.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168864",
+   "source": "UN News",
+   "published": "2026-11-24T12:00:00.000Z",
+   "place": {
+    "name": "Colombia",
+    "country": "Colombia",
+    "iso": "CO",
+    "lat": 3.9,
+    "lon": -73.08,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "agreement",
+      "un",
+      "peace deal"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Colombia?"
+   ],
+   "conflict": false,
+   "score": 4.4,
+   "alsoIn": []
+  },
+  {
+   "id": "54854de9beb8",
+   "title": "Their loss changed Appalachian forests for ever. Now the American chestnut is back",
+   "summary": "The trees have been functionally extinct in the US for nearly a century. But new techniques are creating plants resistant to the parasitic blight that almost wiped them out",
+   "link": "https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe",
+   "source": "The Guardian",
+   "published": "2026-11-24T12:00:44.000Z",
+   "place": {
+    "name": "United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 39.5,
+    "lon": -98.5,
+    "precision": "country",
+    "confidence": 0.7,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "forest",
+      "extinct"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "How could this environment be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "c8182e8f0a5f",
+   "title": "Witness History",
+   "summary": "In 1994, the agreement that created the World Trade Organization was signed in Morrocco",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8r4b?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-23T07:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "trade"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.2,
+   "alsoIn": []
+  },
+  {
+   "id": "6a00ed68e54f",
+   "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+   "summary": "Ukrainian attacks subsided after Trump's mid-October declaration of an energy ceasefire, but picked up again afterwards.",
+   "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation",
+   "source": "Al Jazeera",
+   "published": "2026-11-24T19:22:44.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 0.9,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 4.2,
+   "alsoIn": []
+  },
+  {
+   "id": "33fc5939f65f",
+   "title": "India pledges $1.6bn to Nepal in reset of ties",
+   "summary": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
+   "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-23T13:39:30.000Z",
+   "place": {
+    "name": "Nepal",
+    "country": "Nepal",
+    "iso": "NP",
+    "lat": 28.26,
+    "lon": 83.95,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "India"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Nepal?",
+    "How could Nepal’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 3.9,
+   "alsoIn": []
+  },
+  {
+   "id": "7b8bae570643",
+   "title": "Flights cancelled in Belgium due to cost-of-living strike",
+   "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+   "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-23T13:34:02.000Z",
+   "place": {
+    "name": "Belgium",
+    "country": "Belgium",
+    "iso": "BE",
+    "lat": 50.64,
+    "lon": 4.65,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "cost-of-living",
+      "budget"
+     ]
+    }
+   },
+   "topics": [],
+   "terms": [
+    "Cost of living"
+   ],
+   "questions": [
+    "Which SEEP themes does this story cover, and which is most important?",
+    "How might this story affect people in Belgium and elsewhere?"
+   ],
+   "conflict": false,
+   "score": 3.9,
+   "alsoIn": []
+  },
+  {
+   "id": "7d7847cf868c",
+   "title": "Ivory Coast star Pepe did not injure eyes staring at sun, say Villarreal",
+   "summary": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-22T21:04:55.000Z",
+   "place": {
+    "name": "Ivory Coast",
+    "country": "Ivory Coast",
+    "iso": "CI",
+    "lat": 7.63,
+    "lon": -5.57,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "solar",
+      "coast"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [
+    "Renewable energy"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 3.5,
+   "alsoIn": []
+  },
+  {
+   "id": "1e3834cb7a60",
+   "title": "Pip assessments need 'fundamental overhaul', report to say",
+   "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+   "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-23T17:59:55.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "minister",
+      "independence"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in the places involved?"
+   ],
+   "conflict": false,
+   "score": 3.4,
+   "alsoIn": []
+  },
+  {
+   "id": "62e91713fc99",
+   "title": "Is Libya a new front in the Ukraine war?",
+   "summary": "Ukraine's President Volodymyr Zelenskyy says two Russian vessels were targeted in Libya's waters.",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war",
+   "source": "Al Jazeera",
+   "published": "2026-11-24T18:38:49.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Libya"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "president",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": true,
+   "score": 3.4,
+   "alsoIn": []
+  },
+  {
+   "id": "1e07638aee77",
+   "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+   "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+   "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-23T17:07:25.000Z",
+   "place": {
+    "name": "Palestine",
+    "country": "Palestine",
+    "iso": "PS",
+    "lat": 31.9,
+    "lon": 35.2,
+    "precision": "country",
+    "confidence": 1,
+    "also": [
+     "Israel"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "toxic"
+     ]
+    }
+   },
+   "topics": [],
+   "terms": [
+    "Pollution"
+   ],
+   "questions": [
+    "Which SEEP themes does this story cover, and which is most important?",
+    "How might this story affect people in Palestine and elsewhere?"
+   ],
+   "conflict": true,
+   "score": 3.3,
+   "alsoIn": []
+  },
+  {
+   "id": "b7bb23c43b1e",
+   "title": "Househunter swaps Australia for Wales' most affordable town - where locals are struggling to buy",
+   "summary": "The area has attracted investors and even a buyer from Australia, but locals struggle to afford homes.",
+   "link": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-23T06:03:32.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 3,
+   "alsoIn": []
+  }
+ ]
+}
