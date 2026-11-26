@@ -1,0 +1,1170 @@
+{
+ "date": "2026-11-26",
+ "generated": "2026-11-26T18:33:15.832Z",
+ "count": 26,
+ "stories": [
+  {
+   "id": "b3393ebcc0c2",
+   "title": "Maritime trade stagnates amid geopolitical uncertainty",
+   "summary": "Seaborne trade that underpins the global economy continues to slow, while disruption from conflict and climate-related factors is hitting least-developed economies and small island nations hardest, UN economists said on Thursday.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168884",
+   "source": "UN News",
+   "published": "2026-11-26T12:00:00.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "trade"
+     ],
+     "P": [
+      "un",
+      "conflict",
+      "geopolit"
+     ],
+     "En": [
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "economy",
+    "geopolitics",
+    "climate"
+   ],
+   "terms": [
+    "Climate change",
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 12.2,
+   "alsoIn": []
+  },
+  {
+   "id": "e1aaec2d6d59",
+   "title": "It’s time for Australia to tax our gas industry. It is a public policy no-brainer | Rod Simms",
+   "summary": "Fossil fuel companies are effectively not paying for the natural resource on which their businesses depend",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/26/its-time-for-australia-to-tax-our-gas-industry-it-is-a-public-policy-no-brainer",
+   "source": "The Guardian",
+   "published": "2026-11-25T22:00:37.000Z",
+   "place": {
+    "name": "Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -12.43,
+    "lon": 123.58,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "industr",
+      "tax",
+      "gas"
+     ],
+     "En": [
+      "fossil fuel"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources",
+    "economy"
+   ],
+   "terms": [
+    "Fossil fuels",
+    "Natural resources"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 10,
+   "alsoIn": [],
+   "featured": true
+  },
+  {
+   "id": "d1baf1523e99",
+   "title": "‘Once installed, there’s no getting rid of it’: what Falklands oil plans mean for its seals, whales and penguins",
+   "summary": "While Argentina and the UK dispute sovereignty over the islands and its vast oil reserves, environmentalists fear for one of the Atlantic’s richest ecosystems",
+   "link": "https://www.theguardian.com/global-development/2026/nov/23/falkland-islands-argentina-sea-lion-oil-environment-sovereignty-wildlife-pollution",
+   "source": "The Guardian",
+   "published": "2026-11-23T06:00:49.000Z",
+   "place": {
+    "name": "Argentina",
+    "country": "Argentina",
+    "iso": "AR",
+    "lat": -34.54,
+    "lon": -64.75,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "whale",
+      "environment",
+      "ecosystem"
+     ],
+     "E": [
+      "oil"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Ecosystem",
+    "Fossil fuels",
+    "Sovereignty"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 8.1,
+   "alsoIn": []
+  },
+  {
+   "id": "c41cbac4ef34",
+   "title": "Whitehouse calls on PM to help save lake fish",
+   "summary": "The comedian warns extinction beckons for Arctic charr in Windermere after thousands of years.",
+   "link": "https://www.bbc.co.uk/news/articles/c6808pxrzy5po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T06:05:36.000Z",
+   "place": {
+    "name": "Arctic",
+    "country": null,
+    "iso": null,
+    "lat": 78,
+    "lon": 10,
+    "precision": "place",
+    "confidence": 0.275,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "extinct",
+      "arctic",
+      "lake"
+     ]
+    }
+   },
+   "topics": [
+    "ecosystems",
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Which human activities are putting pressure on this environment?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 7.5,
+   "alsoIn": []
+  },
+  {
+   "id": "66f84d71ac47",
+   "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs say",
+   "summary": "Transport committee says policy papers show expanding airport would fall short of pledges on economy and climate",
+   "link": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+   "source": "The Guardian",
+   "published": "2026-11-26T13:43:36.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En",
+     "E"
+    ],
+    "why": {
+     "En": [
+      "climate"
+     ],
+     "E": [
+      "econom",
+      "airport"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "economy"
+   ],
+   "terms": [
+    "Climate change"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 7.4,
+   "alsoIn": []
+  },
+  {
+   "id": "a1e8ad69a16b",
+   "title": "Is UBI the solution to mass unemployment in an AI economy?",
+   "summary": "AI's rapid advance has led to calls for universal payments to prevent poverty and wealth inequality.",
+   "link": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy",
+   "source": "Al Jazeera",
+   "published": "2026-11-26T13:04:51.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "S"
+    ],
+    "why": {
+     "E": [
+      "econom",
+      "unemploy"
+     ],
+     "S": [
+      "poverty",
+      "inequalit"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "economy"
+   ],
+   "terms": [
+    "Inequality",
+    "Poverty",
+    "Unemployment"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in the places involved?",
+    "How does this story show countries being interconnected?"
+   ],
+   "conflict": false,
+   "score": 7.3,
+   "alsoIn": []
+  },
+  {
+   "id": "36bf8fc71857",
+   "title": "I helped organise the letter from Labour MPs urging Andy Burnham to reject Rosebank. This is why | Catherine Fookes",
+   "summary": "Approval would be celebrated by the oil giants, but it wouldn’t help our constituents who worry about the climate crisis, and their bills",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/26/labour-mp-letter-andy-burnham-rosebank-oil-climate-crisis",
+   "source": "The Guardian",
+   "published": "2026-11-26T15:00:37.000Z",
+   "place": null,
+   "global": true,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "labour",
+      "oil"
+     ],
+     "En": [
+      "climate"
+     ]
+    }
+   },
+   "topics": [
+    "climate",
+    "resources"
+   ],
+   "terms": [
+    "Climate change",
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this story about the causes of climate change, its effects, or responses to it?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 7,
+   "alsoIn": []
+  },
+  {
+   "id": "bc5965accaea",
+   "title": "Governments and experts gather in Nairobi to tackle the global housing crisis",
+   "summary": "A home is a place where people can feel safe. Yet billions worldwide do not have a proper place to live. As the global housing crisis deepens, government representatives and housing experts are gathering at the United Nations in Nairobi from 26-27 November to discuss how to address it.",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168873",
+   "source": "UN News",
+   "published": "2026-11-25T12:00:00.000Z",
+   "place": {
+    "name": "Nairobi, Kenya",
+    "country": "Kenya",
+    "iso": "KE",
+    "lat": -1.28,
+    "lon": 36.82,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "housing"
+     ]
+    }
+   },
+   "topics": [
+    "urban",
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "What challenges does urban growth create in Kenya?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 6.5,
+   "alsoIn": []
+  },
+  {
+   "id": "c6adc1595901",
+   "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
+   "summary": "Farmers’ federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
+   "source": "The Guardian",
+   "published": "2026-11-26T14:00:39.000Z",
+   "place": {
+    "name": "Sydney, Australia",
+    "country": "Australia",
+    "iso": "AU",
+    "lat": -33.87,
+    "lon": 151.21,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "outbreak"
+     ]
+    }
+   },
+   "topics": [
+    "development",
+    "resources"
+   ],
+   "terms": [
+    "Hazard",
+    "Rural"
+   ],
+   "questions": [
+    "What does this story suggest about quality of life in Australia?",
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?"
+   ],
+   "conflict": false,
+   "score": 5.9,
+   "alsoIn": []
+  },
+  {
+   "id": "5446f69921bc",
+   "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
+   "summary": "Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted.",
+   "link": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-25T14:41:42.000Z",
+   "place": {
+    "name": "New York, United States",
+    "country": "United States",
+    "iso": "US",
+    "lat": 40.71,
+    "lon": -74,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "heavy rain",
+      "storm"
+     ]
+    }
+   },
+   "topics": [
+    "resources"
+   ],
+   "terms": [],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "How could this resource be managed more sustainably?"
+   ],
+   "conflict": false,
+   "score": 5.8,
+   "alsoIn": []
+  },
+  {
+   "id": "d192dc670f52",
+   "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+   "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
+   "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T00:08:07.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "wildlife"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "ecosystems"
+   ],
+   "terms": [
+    "Rural"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Which human activities are putting pressure on this environment?"
+   ],
+   "conflict": false,
+   "score": 5.5,
+   "alsoIn": []
+  },
+  {
+   "id": "3efe4ef902b5",
+   "title": "Deadly fire erupts near Cairo killing dozens of people",
+   "summary": "At least 31 people have died in a large fire on a busy highway in Cairo, after a fuel tanker overturned, says Egypt's health ministry.",
+   "link": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T09:09:49.000Z",
+   "place": {
+    "name": "Cairo, Egypt",
+    "country": "Egypt",
+    "iso": "EG",
+    "lat": 30.06,
+    "lon": 31.25,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "erupt"
+     ]
+    }
+   },
+   "topics": [
+    "hazards",
+    "development"
+   ],
+   "terms": [
+    "Volcano"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Egypt?",
+    "What does this story suggest about quality of life in Egypt?"
+   ],
+   "conflict": false,
+   "score": 5.3,
+   "alsoIn": []
+  },
+  {
+   "id": "f99674367e37",
+   "title": "What we know about Trump's Thanksgiving tariffs",
+   "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+   "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-25T19:38:05.000Z",
+   "place": {
+    "name": "China",
+    "country": "China",
+    "iso": "CN",
+    "lat": 36.76,
+    "lon": 103.35,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "tariff"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Tariff"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 5,
+   "alsoIn": []
+  },
+  {
+   "id": "22e04189fa1e",
+   "title": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
+   "summary": "Prime Minister al-Zaidi's move to take control of border crossings and oilfields has drawn a sharp response from Erbil.",
+   "link": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region",
+   "source": "Al Jazeera",
+   "published": "2026-11-26T14:10:00.000Z",
+   "place": {
+    "name": "Baghdad, Iraq",
+    "country": "Iraq",
+    "iso": "IQ",
+    "lat": 33.34,
+    "lon": 44.4,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "P"
+    ],
+    "why": {
+     "E": [
+      "oil"
+     ],
+     "P": [
+      "minister",
+      "border"
+     ]
+    }
+   },
+   "topics": [
+    "resources",
+    "geopolitics"
+   ],
+   "terms": [
+    "Fossil fuels"
+   ],
+   "questions": [
+    "Is this a story about the supply of a resource, the demand for it, or who controls it?",
+    "Why does geography (location, borders or resources) matter in this story?"
+   ],
+   "conflict": false,
+   "score": 4.9,
+   "alsoIn": []
+  },
+  {
+   "id": "5965fd8f6b11",
+   "title": "‘They’re struggling for oxygen’: children pay the price as countries allow measles to surge again",
+   "summary": "The US, Mexico and Bolivia this week joined the unenviable club of nations that have lost their measles-free status",
+   "link": "https://www.theguardian.com/global-development/2026/nov/20/children-measles-surges-us-mexico-bolivia",
+   "source": "The Guardian",
+   "published": "2026-11-20T13:38:57.000Z",
+   "place": {
+    "name": "Bolivia",
+    "country": "Bolivia",
+    "iso": "BO",
+    "lat": -16.68,
+    "lon": -64.7,
+    "precision": "country",
+    "confidence": 0.25,
+    "also": [
+     "Mexico",
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S",
+     "E"
+    ],
+    "why": {
+     "S": [
+      "measles",
+      "children"
+     ],
+     "E": [
+      "price"
+     ]
+    }
+   },
+   "topics": [],
+   "terms": [],
+   "questions": [
+    "Which SEEP themes does this story cover, and which is most important?",
+    "How might this story affect people in Bolivia and elsewhere?"
+   ],
+   "conflict": false,
+   "score": 4.8,
+   "alsoIn": []
+  },
+  {
+   "id": "95ba70ff2187",
+   "title": "The dhow builders crafting giant historic ships in India – in pictures",
+   "summary": "It takes three years for shipbuilders in the 16th-century port of Mandvi to complete a commission, in a trade that is as cultural as it is technical",
+   "link": "https://www.theguardian.com/environment/2026/nov/26/tradition-giant-ships-india-shipbuilders-mandvi",
+   "source": "The Guardian",
+   "published": "2026-11-26T10:00:52.000Z",
+   "place": {
+    "name": "India",
+    "country": "India",
+    "iso": "IN",
+    "lat": 22.8,
+    "lon": 79.53,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "trade",
+      "port"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [
+    "Trade"
+   ],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4.5,
+   "alsoIn": []
+  },
+  {
+   "id": "64ca7df9242c",
+   "title": "New UK-EU treaty has 10-year termination clause",
+   "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+   "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T15:23:17.000Z",
+   "place": {
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "iso": "GB",
+    "lat": 53.83,
+    "lon": -2.41,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "legislation",
+      "treaty",
+      "eu"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in United Kingdom?"
+   ],
+   "conflict": false,
+   "score": 4.4,
+   "alsoIn": []
+  },
+  {
+   "id": "569073855f68",
+   "title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
+   "summary": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
+   "link": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine",
+   "source": "Al Jazeera",
+   "published": "2026-11-26T17:53:44.000Z",
+   "place": {
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "iso": "UA",
+    "lat": 49.2,
+    "lon": 31.32,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P",
+     "E"
+    ],
+    "why": {
+     "P": [
+      "summit",
+      "eu"
+     ],
+     "E": [
+      "budget"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Ukraine?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "bd0fd61a14ea",
+   "title": "California warns of flooding as King Tides peak over Thanksgiving",
+   "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+   "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T01:22:55.000Z",
+   "place": {
+    "name": "British Columbia",
+    "country": "Canada",
+    "iso": "CA",
+    "lat": 53.7,
+    "lon": -127.6,
+    "precision": "place",
+    "confidence": 0.42500000000000004,
+    "also": [
+     "United States"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Canada?",
+    "How could Canada’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "a319fdc375aa",
+   "title": "Record-breaking California tides cause major flooding of roads and businesses",
+   "summary": "Beaches close as Los Angeles and La Jolla see all-time high tides and big waves batter landmark pier in Pacifica",
+   "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+   "source": "The Guardian",
+   "published": "2026-11-25T22:56:36.000Z",
+   "place": {
+    "name": "California",
+    "country": "United States",
+    "iso": "US",
+    "lat": 37,
+    "lon": -120,
+    "precision": "place",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "En",
+    "themes": [
+     "En"
+    ],
+    "why": {
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding",
+    "Infrastructure"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in United States?",
+    "How could United States’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4.3,
+   "alsoIn": []
+  },
+  {
+   "id": "47aead23d0cf",
+   "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+   "summary": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T07:31:24.000Z",
+   "place": {
+    "name": "Indonesia",
+    "country": "Indonesia",
+    "iso": "ID",
+    "lat": -2.5,
+    "lon": 118,
+    "precision": "country",
+    "confidence": 0.15,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E",
+     "En"
+    ],
+    "why": {
+     "E": [
+      "mine"
+     ],
+     "En": [
+      "flood"
+     ]
+    }
+   },
+   "topics": [
+    "hazards"
+   ],
+   "terms": [
+    "Flooding",
+    "Hazard",
+    "Natural resources"
+   ],
+   "questions": [
+    "What might the primary and secondary effects of this event be in Indonesia?",
+    "How could Indonesia’s level of development affect how well it responds?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "273d40f978e7",
+   "title": "Faulty electrical goods returned to UK supermarkets ending up on Ghana ‘megadump’",
+   "summary": "Mountains of household items are burned and stripped down at the tip by workers without protection such as masks, investigation alleges",
+   "link": "https://www.theguardian.com/environment/2026/nov/26/ghana-waste-tip-faulty-electrical-goods-uk-supermarkets-returns",
+   "source": "The Guardian",
+   "published": "2026-11-26T12:00:34.000Z",
+   "place": {
+    "name": "Ghana",
+    "country": "Ghana",
+    "iso": "GH",
+    "lat": 7.95,
+    "lon": -1.22,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": [
+     "United Kingdom"
+    ]
+   },
+   "global": false,
+   "seep": {
+    "primary": "E",
+    "themes": [
+     "E"
+    ],
+    "why": {
+     "E": [
+      "workers",
+      "invest"
+     ]
+    }
+   },
+   "topics": [
+    "economy"
+   ],
+   "terms": [],
+   "questions": [
+    "How does this story show countries being interconnected?",
+    "Who gains and who loses from this economic change?"
+   ],
+   "conflict": false,
+   "score": 4,
+   "alsoIn": []
+  },
+  {
+   "id": "365c5eddf19d",
+   "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+   "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.",
+   "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T05:00:27.000Z",
+   "place": {
+    "name": "Germany",
+    "country": "Germany",
+    "iso": "DE",
+    "lat": 51.03,
+    "lon": 10.35,
+    "precision": "country",
+    "confidence": 0.44999999999999996,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "migra"
+     ]
+    }
+   },
+   "topics": [
+    "migration"
+   ],
+   "terms": [
+    "Migration"
+   ],
+   "questions": [
+    "What are the push and pull factors in this story?",
+    "What are the impacts on the places people leave and the places they move to?"
+   ],
+   "conflict": false,
+   "score": 3.8,
+   "alsoIn": []
+  },
+  {
+   "id": "271723a138c7",
+   "title": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
+   "summary": "United Nations peacekeepers in the Democratic Republic of the Congo (DRC) have stepped up efforts to protect civilians in&nbsp;Ebola-hit&nbsp;Ituri province following renewed armed clashes in Djugu territory.&nbsp;",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168883",
+   "source": "UN News",
+   "published": "2026-11-26T12:00:00.000Z",
+   "place": {
+    "name": "Democratic Republic of the Congo",
+    "country": "Democratic Republic of the Congo",
+    "iso": "CD",
+    "lat": -2.87,
+    "lon": 23.64,
+    "precision": "country",
+    "confidence": 1,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "united nations",
+      "territor"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Democratic Republic of the Congo?"
+   ],
+   "conflict": true,
+   "score": 3.8,
+   "alsoIn": []
+  },
+  {
+   "id": "0671070464ca",
+   "title": "Syrian children continue learning amid the ruins of war in Idlib",
+   "summary": "Syria reopened a semi destroyed school in Idlib province",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib",
+   "source": "Al Jazeera",
+   "published": "2026-11-26T17:32:21.000Z",
+   "place": {
+    "name": "Syria",
+    "country": "Syria",
+    "iso": "SY",
+    "lat": 35.02,
+    "lon": 38.49,
+    "precision": "country",
+    "confidence": 0.7,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "S",
+    "themes": [
+     "S"
+    ],
+    "why": {
+     "S": [
+      "school",
+      "children"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Syria?"
+   ],
+   "conflict": true,
+   "score": 3.8,
+   "alsoIn": []
+  },
+  {
+   "id": "78f3457c5c77",
+   "title": "Can Trump continue with Iran war despite funding restrictions?",
+   "summary": "A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.",
+   "link": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions",
+   "source": "Al Jazeera",
+   "published": "2026-11-26T14:17:21.000Z",
+   "place": {
+    "name": "Iran",
+    "country": "Iran",
+    "iso": "IR",
+    "lat": 32.53,
+    "lon": 54.44,
+    "precision": "country",
+    "confidence": 0.75,
+    "also": []
+   },
+   "global": false,
+   "seep": {
+    "primary": "P",
+    "themes": [
+     "P"
+    ],
+    "why": {
+     "P": [
+      "congress",
+      "war"
+     ]
+    }
+   },
+   "topics": [
+    "geopolitics"
+   ],
+   "terms": [],
+   "questions": [
+    "Why does geography (location, borders or resources) matter in this story?",
+    "How might this decision affect ordinary people living in Iran?"
+   ],
+   "conflict": true,
+   "score": 3.4,
+   "alsoIn": []
+  }
+ ]
+}
